@@ -1,0 +1,26 @@
+CLEARWAVE WIRELESS — ACCESSIBILITY COMPLIANCE RULES REFERENCE
+Version: Q1-2026
+Last reviewed: 2026-01-10
+
+RULE INVENTORY
+
+Rule ID: ADA-TITLE3-001
+Regulation: ADA Title III, 42 U.S.C. § 12182
+Description: Telecommunications providers must not deny access to communications services to individuals with disabilities who present a qualifying disability condition verified by a licensed healthcare provider.
+Eligibility threshold: documentation_status = "verified" AND disability_type includes recognized auditory, visual, or motor impairment.
+Action on match: approve accommodation; log to accessibility ledger.
+
+Rule ID: FCC-TRS-64604-001
+Regulation: 47 CFR 64.604 — Telecommunications Relay Services
+Description: Carriers must provide TRS (including VRS) to customers with hearing or speech impairments at no additional cost above standard service rates; FCC TRS Fund subsidizes the carrier.
+Eligibility threshold: customer is registered in FCC TRS Registry OR presents audiologist certification confirming hearing loss.
+Action on match: apply VRS subsidy; confirm TTY-accessible billing format.
+
+Rule ID: FCC-ACC-BILLING-001
+Regulation: FCC Accessibility Mandate (47 CFR Part 6/7)
+Description: Carriers must provide accessible billing formats upon request from a customer with a documented disability.
+Eligibility threshold: documentation_status = "verified" AND accommodation_type includes billing format.
+Action on match: approve accessible billing format request.
+
+ROUTING NOTE
+Standard-track submissions are reviewed by the accessibility compliance desk within 10 business days. Expedited-track submissions (e.g., active service interruption affecting safety) are reviewed within 48 hours.

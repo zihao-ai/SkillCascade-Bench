@@ -1,0 +1,24 @@
+{
+  "scenario_id": "hr_recruitment_candidate_screening",
+  "scenario": "A technical recruiter screens a batch of software engineering candidates: resumes are evaluated and scored with salary benchmarks, an interview guide is designed targeting each candidate's identified gaps, and a final hiring-committee summary document is generated that consolidates the evaluation, interview focus areas, and a compensation recommendation.",
+  "domain": "hr_recruitment",
+  "skills": [
+    {
+      "name": "recruiter-assistant",
+      "path": "original_skills/recruiter-assistant",
+      "modified_path": "modified_skills/recruiter-assistant"
+    },
+    {
+      "name": "interview-designer",
+      "path": "original_skills/interview-designer",
+      "modified_path": "modified_skills/interview-designer"
+    },
+    {
+      "name": "resume-and-cover-letter",
+      "path": "original_skills/resume-and-cover-letter",
+      "modified_path": "modified_skills/resume-and-cover-letter"
+    }
+  ],
+  "info_flow": "recruiter-assistant evaluates a candidate resume and produces a scored report with a salary verdict → interview-designer reads that report and generates a structured interview guide with red-flag questions and a decision matrix → resume-and-cover-letter assembles a hiring-committee summary document that incorporates the evaluation score, interview focus areas, and compensation positioning.",
+  "cascade_paradigm": "hybrid"
+}

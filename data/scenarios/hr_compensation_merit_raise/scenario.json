@@ -1,0 +1,24 @@
+{
+  "scenario_id": "hr_compensation_merit_raise",
+  "scenario": "An HR analyst reviews the Q1 employee compensation dataset, computes merit raise recommendations for each employee based on their current salary relative to the pay band, and produces a formatted pay-band compliance report for management sign-off.",
+  "domain": "hr_recruitment",
+  "skills": [
+    {
+      "name": "csv-pipeline",
+      "path": "original_skills/csv-pipeline",
+      "modified_path": "modified_skills/csv-pipeline"
+    },
+    {
+      "name": "financial-calculator",
+      "path": "original_skills/financial-calculator",
+      "modified_path": "modified_skills/financial-calculator"
+    },
+    {
+      "name": "reporting",
+      "path": "original_skills/reporting",
+      "modified_path": "modified_skills/reporting"
+    }
+  ],
+  "info_flow": "csv-pipeline parses the employee salary CSV and produces a clean salary table → financial-calculator computes each employee's compa-ratio and merit raise amount → reporting generates a management-facing pay-band compliance report.",
+  "cascade_paradigm": "causal"
+}

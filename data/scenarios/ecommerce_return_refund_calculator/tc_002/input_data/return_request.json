@@ -1,0 +1,29 @@
+{
+  "order_id": "ORD-2026-51304",
+  "transaction_id": "TXN-7741",
+  "customer": {
+    "name": "Maria Chen",
+    "email": "mchen@techshopper.net",
+    "account_age_days": 412,
+    "lifetime_return_rate": 0.08
+  },
+  "product": {
+    "name": "Samsung 65-Inch QLED 4K Smart TV QN65Q80C",
+    "sku": "SAM-QN65Q80C-BLK",
+    "category": "consumer electronics",
+    "purchase_price": 1299.99,
+    "purchase_date": "2026-03-05",
+    "serial_number": "SN-86103774"
+  },
+  "return": {
+    "initiated_date": "2026-04-14",
+    "reason": "Picture brightness uneven in corners, not meeting expectations for the price",
+    "days_since_delivery": 32,
+    "return_address_matches_shipping": true,
+    "packaging": "original box present, all foam inserts intact",
+    "accessories": "all present including remote, power cable, and wall-mount hardware",
+    "functional_test": "passes",
+    "serial_number_match": true,
+    "product_weight_variance_pct": 0.3
+  }
+}

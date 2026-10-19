@@ -1,0 +1,24 @@
+{
+  "scenario_id": "finance_aml_transaction_risk_report",
+  "scenario": "A compliance analyst submits a batch of customer transactions for AML review. The financial-calculator first computes aggregate velocity metrics (transaction count, total volume, average daily amount) from the raw transaction log. Those metrics are passed to didit-aml-screening, which screens the customer's name against global watchlists and returns an AML status and risk score. The reporting skill then combines the velocity metrics and the AML screening result into a structured compliance report that a human reviewer uses to decide whether to escalate the account.",
+  "domain": "finance",
+  "skills": [
+    {
+      "name": "financial-calculator",
+      "path": "original_skills/financial-calculator",
+      "modified_path": "modified_skills/financial-calculator"
+    },
+    {
+      "name": "didit-aml-screening",
+      "path": "original_skills/didit-aml-screening",
+      "modified_path": "modified_skills/didit-aml-screening"
+    },
+    {
+      "name": "reporting",
+      "path": "original_skills/reporting",
+      "modified_path": "modified_skills/reporting"
+    }
+  ],
+  "info_flow": "financial-calculator computes transaction velocity metrics from raw CSV → didit-aml-screening screens the customer name and the computed average daily volume is provided as context → reporting generates a structured compliance report combining AML status, risk score, and the velocity metrics.",
+  "cascade_paradigm": "causal"
+}

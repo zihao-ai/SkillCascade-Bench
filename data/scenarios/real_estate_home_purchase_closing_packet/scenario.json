@@ -1,0 +1,24 @@
+{
+  "scenario_id": "real_estate_home_purchase_closing_packet",
+  "scenario": "A real estate agent prepares a home-purchase closing packet: the seller's disclosure statement (PDF) is parsed to extract material condition items, the loan origination skill reviews the extracted property data alongside the buyer's financials to produce a purchase eligibility summary, and the reporting skill assembles a closing recommendation packet for the buyer's attorney.",
+  "domain": "real_estate",
+  "skills": [
+    {
+      "name": "pdf-extract",
+      "path": "original_skills/pdf-extract",
+      "modified_path": "modified_skills/pdf-extract"
+    },
+    {
+      "name": "loan",
+      "path": "original_skills/loan",
+      "modified_path": "modified_skills/loan"
+    },
+    {
+      "name": "reporting",
+      "path": "original_skills/reporting",
+      "modified_path": "modified_skills/reporting"
+    }
+  ],
+  "info_flow": "pdf-extract parses the seller disclosure PDF into plain text with structured condition items → loan skill reads those items to assess property eligibility and buyer qualification, summarizing findings into a structured eligibility note → reporting generates a closing recommendation packet to /workspace/output/closing-packet.md.",
+  "cascade_paradigm": "hybrid"
+}

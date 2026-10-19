@@ -1,0 +1,16 @@
+{
+  "applicant_id": "APP-2026-0090",
+  "loan_amount": 260000,
+  "appraised_value": 325000,
+  "down_payment_pct": 0.20,
+  "credit_score": 758,
+  "dti_ratio": 0.32,
+  "property_zip": "98052",
+  "neighborhood": {
+    "annual_resale_volume": 490,
+    "avg_days_on_market": 14,
+    "new_construction_ratio": 0.19,
+    "primary_employer_sector": "technology/professional_services",
+    "employer_sector_share": 0.58
+  }
+}

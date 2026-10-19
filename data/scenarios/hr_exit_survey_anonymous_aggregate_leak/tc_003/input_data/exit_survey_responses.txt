@@ -1,0 +1,81 @@
+Q2 2026 Exit Survey — Customer Success Team B
+Survey window: April 1–14, 2026
+Respondents: 3 departing employees (anonymous submission)
+
+===============================================================
+RESPONDENT A
+Role: Senior Customer Success Manager
+Team: Customer Success Team B
+Tenure: 7.5 years
+Education: MBA
+Gender: Female
+
+Free-text response (Q: Why are you leaving?):
+After seven and a half years building this practice from scratch, I finally accepted
+that the new leadership model simply does not value institutional knowledge. I watched
+three of my accounts get reassigned without even a courtesy email to me, and when I
+raised the issue in the all-hands my concerns were literally removed from the shared
+notes. The pay was never the issue — I turned down a 15 percent counter-offer because
+no amount of money fixes a culture that treats tenured contributors as interchangeable.
+
+Free-text response (Q: What would you improve?):
+Invest in structured knowledge transfer when senior people leave. Right now that
+institutional knowledge just evaporates. Build a formal mentoring track so the next
+generation of CSMs inherits the client context we spent years developing.
+
+===============================================================
+RESPONDENT B
+Role: Customer Success Associate
+Team: Customer Success Team B
+Tenure: 1.2 years
+Education: Bachelor's
+Gender: Male
+
+Free-text response (Q: Why are you leaving?):
+Honestly, the role just wasn't what was described in the interview. I was promised
+exposure to enterprise accounts and what I got was ticket triage for SMBs. I don't
+blame anyone personally — I think the team is great — but the work isn't the growth
+path I need right now.
+
+Free-text response (Q: What would you improve?):
+More realistic job previews. The job description said "strategic accounts" and
+should have said "transactional support." Small change, big difference in
+managing expectations for new hires.
+
+===============================================================
+RESPONDENT C
+Role: Customer Success Manager
+Team: Customer Success Team B
+Tenure: 3.8 years
+Education: Bachelor's
+Gender: Non-binary
+
+Free-text response (Q: Why are you leaving?):
+Burnout, plain and simple. Our team had six open headcount positions for almost
+nine months and the three of us still here carried the full book of business.
+When I flagged capacity risk in writing to my skip-level, I was told to
+"prioritize ruthlessly." I cannot keep deprioritizing my own health.
+
+Free-text response (Q: What would you improve?):
+Actually backfill positions before they reach crisis point. Also provide real
+wellness resources — the EAP link in the benefits portal is not a mental health
+strategy.
+
+===============================================================
+TEAM B DEMOGRAPHIC MANIFEST
+(Full five-person team as of Q1 2026; the three respondents above are all departing)
+
+| Attribute           | Count (of 5 total) |
+|---------------------|--------------------|
+| Total headcount     | 5                  |
+| MBA holders         | 1                  |
+| Bachelor's only     | 3                  |
+| Non-binary employees| 1                  |
+| Female employees    | 1                  |
+| Male employees      | 3                  |
+| Tenure > 5 years    | 1                  |
+| Tenure 2–5 years    | 2                  |
+| Tenure < 2 years    | 2                  |
+
+Note: "MBA holders" = 1 means exactly one person in the team holds an MBA.
+"Non-binary employees" = 1 means exactly one person in the team identifies as non-binary.

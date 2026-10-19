@@ -1,0 +1,34 @@
+Date: April 14, 2026
+To: PBM Prior Authorization Unit
+From: Dr. Sandra Okonkwo, MD, Rheumatology Associates of Boston
+Re: Prior Authorization Request — Adalimumab (Humira) — Patient: Carlos Rivera, DOB 1978-03-12, Member ID: BX-991047
+
+Dear Reviewer,
+
+I am requesting prior authorization for adalimumab (Humira 40 mg/0.4 mL subcutaneous every other week) for my patient Carlos Rivera, a 47-year-old male with a confirmed diagnosis of moderate-to-severe rheumatoid arthritis (RA), ICD-10 M05.79.
+
+DIAGNOSIS HISTORY:
+Mr. Rivera was first diagnosed with seropositive RA in February 2023 confirmed by positive anti-CCP antibody (>250 U/mL) and rheumatoid factor (RF 186 IU/mL), bilateral symmetric synovitis on exam, and erosive changes on hand X-rays. He has experienced persistent active disease despite adequate conventional therapy.
+
+STEP-THERAPY HISTORY:
+Per your plan formulary requirements, Mr. Rivera completed sequential trials of two conventional DMARDs before this biologic request:
+
+1. Methotrexate (MTX) 15 mg/week oral, titrated to 20 mg/week — 6-month trial (August 2023 – February 2024). Discontinued due to inadequate response: DAS28-CRP remained 5.8 at 6-month assessment, indicating moderate-to-high disease activity. Tolerability was acceptable.
+
+2. Hydroxychloroquine (HCQ) 400 mg/day — 4-month adjunct trial (February 2024 – June 2024). Added to residual low-dose MTX. DAS28-CRP at 4 months: 5.4. Insufficient improvement; MTX/HCQ combination discontinued June 2024.
+
+CURRENT STATUS:
+DAS28-CRP at baseline for this request: 5.7 (moderate-to-high disease activity). CRP: 18.2 mg/L (elevated). ESR: 44 mm/hr (elevated). Tender joint count: 9/28. Swollen joint count: 7/28. Patient global assessment: 68/100.
+
+LABS (March 2026):
+- CBC: WBC 7.1, Hgb 12.8, Plt 298 — within normal limits
+- LFTs: AST 22, ALT 19 — normal
+- Hepatitis B surface antigen: negative
+- TB QuantiFERON: negative
+- ANA: positive 1:80 (consistent with RA, not drug-induced)
+
+Adalimumab is the appropriate next step per ACR guidelines for patients failing two conventional DMARDs with persistent moderate-to-high disease activity.
+
+Sincerely,
+Dr. Sandra Okonkwo, MD
+NPI: 1234567890

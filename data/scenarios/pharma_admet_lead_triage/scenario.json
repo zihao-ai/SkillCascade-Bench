@@ -1,0 +1,24 @@
+{
+  "scenario_id": "pharma_admet_lead_triage",
+  "scenario": "A computational chemist uses a biomedical research toolkit to retrieve literature-validated compound series for a kinase target, profiles each candidate through a pharmacology ADME agent, then runs a full ADMET safety screen to produce a ranked lead list with go/no-go recommendations.",
+  "domain": "pharmaceutical_drug_discovery",
+  "skills": [
+    {
+      "name": "medical-research-toolkit",
+      "path": "original_skills/pascalwhoop-medical-research-toolkit",
+      "modified_path": "modified_skills/pascalwhoop-medical-research-toolkit"
+    },
+    {
+      "name": "pharma-pharmacology-agent",
+      "path": "original_skills/pharma-pharmacology-agent",
+      "modified_path": "modified_skills/pharma-pharmacology-agent"
+    },
+    {
+      "name": "admet-prediction",
+      "path": "original_skills/admet-prediction",
+      "modified_path": "modified_skills/admet-prediction"
+    }
+  ],
+  "info_flow": "medical-research-toolkit retrieves ChEMBL bioactivity data and returns compound SMILES with potency annotations → pharma-pharmacology-agent profiles each SMILES for ADME/drug-likeness and produces a JSON report → admet-prediction ingests the ADME report to compute the full ADMET safety profile and emits a go/no-go recommendation per compound.",
+  "cascade_paradigm": "compositional"
+}

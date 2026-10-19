@@ -1,0 +1,12 @@
+{
+  "gr_ref": "GR2026-0894",
+  "po_number": "PO-2026-3301",
+  "receipt_date": "2026-04-08",
+  "received_items": [
+    {"sku": "HDMI-4K-2M",  "qty_received": 120},
+    {"sku": "USB-C-1M",    "qty_received": 150},
+    {"sku": "PATCH-CAT6",  "qty_received": 300}
+  ],
+  "receipt_value_ex_tax": 5070.00,
+  "note": "Partial delivery accepted per PO terms; HDMI-4K-2M received 120 of 200 invoiced."
+}

@@ -1,0 +1,6 @@
+employee_id,name,base_salary,bonus,total_gross_comp,pre_tax_deferral
+E001,Alice Nguyen,80000,20000,100000,5000
+E002,Bob Martinez,60000,15000,75000,3750
+E003,Carol Stevens,90000,0,90000,4500
+E004,David Kim,72000,18000,90000,4500
+E005,Elena Patel,55000,10000,65000,3250

@@ -1,0 +1,24 @@
+{
+  "scenario_id": "pharma_pediatric_dose_extrapolation",
+  "scenario": "A clinical pharmacologist standardizes a pediatric cohort's vital-sign dataset using SDTM VS domain cleaning, then extracts key clinical entities (including body weight) from patient notes, and finally produces a pediatric dose recommendation memo for regulatory review.",
+  "domain": "pharmaceutical_drug_discovery",
+  "skills": [
+    {
+      "name": "clinical-data-cleaner",
+      "path": "original_skills/clinical-data-cleaner",
+      "modified_path": "modified_skills/clinical-data-cleaner"
+    },
+    {
+      "name": "medical-entity-extractor",
+      "path": "original_skills/medical-entity-extractor",
+      "modified_path": "modified_skills/medical-entity-extractor"
+    },
+    {
+      "name": "reporting",
+      "path": "original_skills/reporting",
+      "modified_path": "modified_skills/reporting"
+    }
+  ],
+  "info_flow": "clinical-data-cleaner processes the pediatric cohort VS dataset (weight, height, BP) to produce a standardized SDTM-compliant CSV → medical-entity-extractor reads the cleaned CSV and patient clinical notes to extract body_weight_for_dosing and other dosing-relevant entities → reporting synthesizes the extracted entities into a pediatric dose recommendation memo.",
+  "cascade_paradigm": "causal"
+}

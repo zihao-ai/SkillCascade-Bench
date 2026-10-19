@@ -1,0 +1,24 @@
+{
+  "scenario_id": "healthcare_mental_health_intake_risk",
+  "scenario": "A psychiatric intake coordinator reviews a patient's self-reported mental-health intake questionnaire. The pipeline extracts structured clinical entities from the narrative, scores the emotional state of the patient's text, and generates a structured risk summary with a recommended level of care for the treating clinician.",
+  "domain": "healthcare",
+  "skills": [
+    {
+      "name": "medical-entity-extractor",
+      "path": "original_skills/medical-entity-extractor",
+      "modified_path": "modified_skills/medical-entity-extractor"
+    },
+    {
+      "name": "emotion-detector",
+      "path": "original_skills/emotion-detector",
+      "modified_path": "modified_skills/emotion-detector"
+    },
+    {
+      "name": "health-report",
+      "path": "original_skills/health-report",
+      "modified_path": "modified_skills/health-report"
+    }
+  ],
+  "info_flow": "medical-entity-extractor parses the patient intake form and produces structured symptom/diagnosis entities with severity and context labels → emotion-detector scores the emotional intensity and valence of the patient narrative → health-report synthesizes both outputs into a structured mental-health risk summary with a level-of-care recommendation.",
+  "cascade_paradigm": "causal"
+}

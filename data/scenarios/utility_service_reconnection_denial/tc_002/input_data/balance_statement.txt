@@ -1,0 +1,10 @@
+ACCOUNT BALANCE STATEMENT
+
+Account: 7730-554-019
+Customer: Priya Nkemdirim
+Utility: SoCal Gas Partners
+
+billed_balance: $400.00
+deposit_paid: $400.00 (posted, pending settlement)
+service_status: DISCONNECTED
+theft_finding: NONE

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "CLM-2026-0441",
+    "claimant": "Maria Fontaine",
+    "date": "2026-04-10T09:15:00Z",
+    "subject": "Injury report – rear-end collision on I-95",
+    "body": "I was stopped at a red light when another vehicle rear-ended my car at moderate speed. My airbag did not deploy. Since the accident I have had neck stiffness and shoulder soreness. I went to urgent care the same day and was told it was likely whiplash. I have been taking over-the-counter pain medication and the pain is a 5 out of 10. I am able to work but it is uncomfortable.",
+    "documented_special_damages": 3200
+  },
+  {
+    "id": "CLM-2026-0442",
+    "claimant": "Devon Pham",
+    "date": "2026-04-10T11:30:00Z",
+    "subject": "Side-impact collision – follow-up on treatment",
+    "body": "My vehicle was struck on the driver's side in a T-bone collision at an intersection. The airbag deployed. I had lower back pain and a mild headache after the accident. I have been to a chiropractor twice. Pain level is about 4 out of 10 and gradually improving. No loss of consciousness was reported at the scene.",
+    "documented_special_damages": 4800
+  },
+  {
+    "id": "CLM-2026-0443",
+    "claimant": "Priya Suresh",
+    "date": "2026-04-11T14:00:00Z",
+    "subject": "Whiplash claim – appointment request",
+    "body": "I was involved in a car accident where another vehicle sideswiped mine on the highway. I have mild soreness in my upper back and some stiffness in my neck. I would like to schedule a follow-up appointment with my doctor. Symptoms are mild and I have not missed any work.",
+    "documented_special_damages": 850
+  }
+]

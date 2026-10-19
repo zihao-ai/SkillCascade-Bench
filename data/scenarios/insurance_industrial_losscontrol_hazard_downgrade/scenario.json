@@ -1,0 +1,24 @@
+{
+  "scenario_id": "insurance_industrial_losscontrol_hazard_downgrade",
+  "scenario": "A commercial property & casualty insurer's loss-control engineering team conducts an annual on-site hazard inspection at an insured industrial facility (warehouse, food-processing plant, metal-fab shop). Inspector notes and facility-parameter data are loaded from CSV, findings are classified by hazard severity and frequency using a policy-driven auditor, and the results are compiled into a loss-control report delivered to the underwriting team to drive renewal and premium decisions.",
+  "domain": "insurance_claims",
+  "skills": [
+    {
+      "name": "csv-pipeline",
+      "path": "original_skills/csv-pipeline",
+      "modified_path": "modified_skills/csv-pipeline"
+    },
+    {
+      "name": "presale-regulation-auditor",
+      "path": "original_skills/presale-regulation-auditor",
+      "modified_path": "modified_skills/presale-regulation-auditor"
+    },
+    {
+      "name": "ub2-markdown-report-generator",
+      "path": "original_skills/ub2-markdown-report-generator",
+      "modified_path": "modified_skills/ub2-markdown-report-generator"
+    }
+  ],
+  "info_flow": "csv-pipeline reads inspector_notes.csv and facility_params.csv, normalizes findings, and outputs a structured JSON payload with raw finding records → presale-regulation-auditor receives the finding records, applies its risk-class scoring rules to each hazard, and produces a classified findings table with severity labels and remediation status → ub2-markdown-report-generator compiles the classified table into the formal loss-control report with an executive summary and recommendations section.",
+  "cascade_paradigm": "hybrid"
+}

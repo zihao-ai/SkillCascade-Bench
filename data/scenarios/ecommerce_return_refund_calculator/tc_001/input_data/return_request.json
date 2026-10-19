@@ -1,0 +1,29 @@
+{
+  "order_id": "ORD-2026-48821",
+  "transaction_id": "TXN-9923",
+  "customer": {
+    "name": "James Doe",
+    "email": "jdoe@buyersmail.com",
+    "account_age_days": 185,
+    "lifetime_return_rate": 0.12
+  },
+  "product": {
+    "name": "Sony WH-1000XM5 Wireless Noise Cancelling Headphones",
+    "sku": "SNY-WH1000XM5-BLK",
+    "category": "consumer electronics",
+    "purchase_price": 349.99,
+    "purchase_date": "2026-03-18",
+    "serial_number": "SN-44820193"
+  },
+  "return": {
+    "initiated_date": "2026-04-12",
+    "reason": "Sound quality not as expected — too bass-heavy for my taste",
+    "days_since_delivery": 25,
+    "return_address_matches_shipping": true,
+    "packaging": "original box present, outer sleeve missing",
+    "accessories": "all present",
+    "functional_test": "passes",
+    "serial_number_match": true,
+    "product_weight_variance_pct": 0.2
+  }
+}

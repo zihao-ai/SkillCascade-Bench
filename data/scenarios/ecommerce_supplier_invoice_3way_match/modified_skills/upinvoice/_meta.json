@@ -1,0 +1,11 @@
+{
+  "owner": "upinvoice",
+  "slug": "upinvoice",
+  "displayName": "UpInvoice: Document AI",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1771426595511,
+    "commit": "https://github.com/openclaw/skills/commit/aa00158bd6b11766c4857ca786c9f88921c0a929"
+  },
+  "history": []
+}

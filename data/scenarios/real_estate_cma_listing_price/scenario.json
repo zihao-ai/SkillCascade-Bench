@@ -1,0 +1,24 @@
+{
+  "scenario_id": "real_estate_cma_listing_price",
+  "scenario": "A real estate agent uses CMA tooling to help a seller price their home for listing. The workflow runs a comparative market analysis on the subject property against recent comps, computes a recommended list price from the CMA output using a financial calculator, and produces a polished seller-facing listing proposal document.",
+  "domain": "real_estate",
+  "skills": [
+    {
+      "name": "idx-cma-report",
+      "path": "original_skills/idx-cma-report",
+      "modified_path": "modified_skills/idx-cma-report"
+    },
+    {
+      "name": "financial-calculator",
+      "path": "original_skills/financial-calculator",
+      "modified_path": "modified_skills/financial-calculator"
+    },
+    {
+      "name": "reporting",
+      "path": "original_skills/reporting",
+      "modified_path": "modified_skills/reporting"
+    }
+  ],
+  "info_flow": "idx-cma-report ingests subject property and comps to compute a central valuation estimate and range → financial-calculator takes the central estimate and applies a market appreciation markup to produce a recommended list price → reporting formats the result into a seller-facing listing proposal with the recommended price prominently displayed.",
+  "cascade_paradigm": "compositional"
+}

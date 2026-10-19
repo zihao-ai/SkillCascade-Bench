@@ -1,0 +1,47 @@
+FIRST NOTICE OF LOSS — AUTO INSURANCE CLAIM
+==========================================
+
+Claim Reference:      PENDING
+Policy Number:        AUTO-PA-55107-2021
+Policy Type:          Personal Auto — Comprehensive
+Policy Holder:        Denise Okafor
+Claimant ID:          CL-55107
+Date of Loss:         2026-04-12
+Date Reported:        2026-04-15
+Reporting Method:     Phone — call center intake
+
+VEHICLE DETAILS
+---------------
+Year/Make/Model:      2022 Ford F-250 Super Duty
+VIN:                  1FT8W2BT6NED04892
+Estimated Value:      $52,000 (NADA retail)
+Mileage at Loss:      44,817
+
+INCIDENT DESCRIPTION
+--------------------
+Policyholder states vehicle was parked overnight at a job site storage yard in
+Henderson, Nevada on 2026-04-11. Upon arrival the next morning, the truck and
+a trailer loaded with electrical contractor tools were missing. Henderson PD
+report filed (Report #HND-2026-041299). No witnesses; site does not have
+security camera coverage overnight.
+
+Claimed Amount:       $19,800 (vehicle deductible + estimated tools value)
+Deductible:           $1,000 comprehensive
+
+SUPPORTING DOCUMENTS PROVIDED
+------------------------------
+- Henderson PD theft report (PDF attached)
+- Tool inventory list with purchase receipts (PDF attached)
+- Site lease agreement confirming access authorization
+
+ADJUSTER NOTES
+--------------
+Claim received within statutory notification window. Policy active; no lapse.
+Prior-claim history review pending — claims database extract attached as
+prior_claims_history.csv.
+
+NEXT STEPS
+----------
+1. Aggregate and summarize claimant prior-claim history from CSV extract.
+2. Run full claim analysis and fraud assessment.
+3. Generate formal claim decision letter.

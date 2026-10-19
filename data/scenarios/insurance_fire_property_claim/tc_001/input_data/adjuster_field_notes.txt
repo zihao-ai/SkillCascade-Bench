@@ -1,0 +1,44 @@
+ADJUSTER FIELD NOTES — FIRE DAMAGE INSPECTION
+=============================================
+Claim Number    : HO-2026-04-887234
+Policy Number   : HOP-44521-TX
+Insured         : Margaret & Thomas Calloway
+Property        : 1447 Ridgemont Drive, Austin, TX 78745
+Date of Loss    : 2026-04-08
+Cause of Loss   : Kitchen fire (electrical fault, stove hood wiring)
+Date Inspected  : 2026-04-10
+Adjuster        : R. Vasquez
+
+SCOPE OF DAMAGE
+---------------
+1. Kitchen — complete structural damage (cabinets, drywall, flooring, ceiling)
+   Direct repair cost (materials + labor, incl. subcontractor quotes): $45,000
+
+2. Living room — smoke and soot damage to walls/ceiling
+   Direct repair cost: $8,500
+
+3. Personal property / contents
+   Itemized list on attached schedule; total replacement cost basis: $12,000
+
+POLICY DETAILS
+--------------
+Dwelling Coverage (Coverage A)  : $310,000
+Personal Property (Coverage C)  : $75,000
+Deductible                      : $1,000
+Policy type                     : HO-3 (Open Perils, Replacement Cost Value)
+Jurisdiction                    : Texas
+
+ADJUSTER NOTES
+--------------
+- Fire department report confirms accidental electrical origin; no arson indicators.
+- No prior claims in the past 3 years on this policy.
+- Structural damage confined to kitchen and adjacent living area.
+- Immediate cause-of-loss documentation complete; no coverage disputes anticipated.
+- Policy in force and premium current.
+
+DIRECT COST SUMMARY
+-------------------
+Kitchen structure repair  : $45,000
+Living room repair        : $8,500
+Contents replacement      : $12,000
+TOTAL DIRECT COST         : $65,500

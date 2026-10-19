@@ -1,0 +1,24 @@
+{
+  "scenario_id": "healthcare_icd10_billing_upcoding",
+  "scenario": "A medical billing specialist processes a patient encounter note through an entity extraction step, then runs it through a coding assistant to assign ICD-10 diagnosis codes and CPT procedure codes, and finally generates a CMS claim summary report for submission.",
+  "domain": "healthcare",
+  "skills": [
+    {
+      "name": "medical-entity-extractor",
+      "path": "original_skills/medical-entity-extractor",
+      "modified_path": "modified_skills/medical-entity-extractor"
+    },
+    {
+      "name": "icd10-cpt-coding-assistant",
+      "path": "original_skills/icd10-cpt-coding-assistant",
+      "modified_path": "modified_skills/icd10-cpt-coding-assistant"
+    },
+    {
+      "name": "reporting",
+      "path": "original_skills/reporting",
+      "modified_path": "modified_skills/reporting"
+    }
+  ],
+  "info_flow": "medical-entity-extractor parses the raw clinical note into structured entities (symptoms, diagnoses, medications) → icd10-cpt-coding-assistant maps those entities to ICD-10 and CPT codes, scoring E/M complexity to select the billable visit level → reporting compiles the codes and visit level into a CMS claim summary.",
+  "cascade_paradigm": "compositional"
+}

@@ -1,0 +1,24 @@
+{
+  "scenario_id": "ecommerce_return_refund_calculator",
+  "scenario": "An e-commerce operations agent processes a customer return request: it triages the return and produces a refund recommendation based on condition grade and policy, then uses a financial calculator to derive the precise refund amount to issue, and finally sends the customer a confirmation email summarizing the refund.",
+  "domain": "ecommerce",
+  "skills": [
+    {
+      "name": "returns-reverse-logistics",
+      "path": "original_skills/returns-reverse-logistics",
+      "modified_path": "modified_skills/returns-reverse-logistics"
+    },
+    {
+      "name": "financial-calculator",
+      "path": "original_skills/financial-calculator",
+      "modified_path": "modified_skills/financial-calculator"
+    },
+    {
+      "name": "email-resend",
+      "path": "original_skills/email-resend",
+      "modified_path": "modified_skills/email-resend"
+    }
+  ],
+  "info_flow": "returns-reverse-logistics evaluates the return request, assigns a condition grade and fraud score, and determines the applicable refund percentage → financial-calculator applies the refund percentage to the purchase price to compute the precise refund amount → email-resend sends the customer a confirmation email with the final refund amount.",
+  "cascade_paradigm": "causal"
+}

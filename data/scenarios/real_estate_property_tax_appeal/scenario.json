@@ -1,0 +1,24 @@
+{
+  "scenario_id": "real_estate_property_tax_appeal",
+  "scenario": "A homeowner prepares a formal property tax appeal. They use legaldoc-ai to extract and summarize key terms from their county tax assessment notice (assessed value, comparable sales figures, appeal deadline). They then use financial-calculator to compute the adjusted fair market value and estimated tax savings. Finally, they use reporting to generate a structured appeal package to submit to the county assessor.",
+  "domain": "real_estate",
+  "skills": [
+    {
+      "name": "legaldoc-ai",
+      "path": "original_skills/legaldoc-ai",
+      "modified_path": "modified_skills/legaldoc-ai"
+    },
+    {
+      "name": "financial-calculator",
+      "path": "original_skills/financial-calculator",
+      "modified_path": "modified_skills/financial-calculator"
+    },
+    {
+      "name": "reporting",
+      "path": "original_skills/reporting",
+      "modified_path": "modified_skills/reporting"
+    }
+  ],
+  "info_flow": "legaldoc-ai reads the assessment notice and produces a structured summary with assessed value and comparable sales data → financial-calculator uses those figures to compute adjusted fair market value and annual tax savings → reporting assembles the output into a formatted property tax appeal package.",
+  "cascade_paradigm": "hybrid"
+}

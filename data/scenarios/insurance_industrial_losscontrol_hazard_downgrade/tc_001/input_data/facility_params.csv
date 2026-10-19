@@ -1,0 +1,14 @@
+parameter,value,unit,notes
+facility_name,Meridian Industrial Partners – Facility 4,,
+facility_type,Mixed: warehouse + food-processing + metal-fabrication,,
+insured_value_building,4200000,USD,
+insured_value_contents,1800000,USD,
+current_annual_premium,87500,USD,
+policy_expiry,2026-07-31,,
+inspection_type,Annual Loss-Control Engineering,,
+inspector_firm,Apex Risk Engineering LLC,,
+occupancy_class,Special (Class 3 – Industrial),,
+construction_type,Non-combustible steel frame,,
+sprinkler_coverage,Partial (warehouse only),,%
+employee_count,142,,
+prior_losses_3yr,0,USD,No reported losses

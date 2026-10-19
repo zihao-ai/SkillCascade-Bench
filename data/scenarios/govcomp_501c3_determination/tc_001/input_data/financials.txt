@@ -1,0 +1,27 @@
+HOPE FORWARD FOUNDATION
+Form 1023 — Part IX: Financial Data (Most Recent Completed Tax Year)
+
+STATEMENT OF FUNCTIONAL EXPENSES — FY 2025
+
+                                     Program     Management &    Fundraising    TOTAL
+                                     Services    General (Incl.
+                                                 Private Benefit)
+                                     ---------   ---------------  -----------   ---------
+Salaries and wages                   $180,000       $210,000        $30,000     $420,000
+Consulting — program design           $45,000        $95,000         $5,000     $145,000
+Occupancy and facilities              $60,000        $90,000        $10,000     $160,000
+Travel and transportation             $35,000        $55,000         $5,000      $95,000
+Printing, materials, supplies         $40,000        $30,000        $10,000      $80,000
+Other (legal, accounting, misc)       $20,000        $40,000        $15,000      $75,000
+Depreciation                         $25,000        $25,000         —            $25,000
+                                     ---------   ---------------  -----------   ---------
+TOTAL EXPENSES                       $480,000       $520,000        $75,000   $1,000,000  [NOTE: Fundraising reclassified to Mgmt/General per preparer]
+
+Note: Management & General column includes $185,000 of expenditures attributable to
+activities providing direct private benefit to board members and affiliated entities
+(lease payments to Board Treasurer's LLC, consulting fees to Director's spouse).
+These have been reported as required under Rev. Proc. 2022-31.
+
+Program Services Ratio (actual): $480,000 / $1,000,000 = 48.0%
+IRS informal threshold: program services ratio should generally exceed 65-85% for
+organizations seeking 501(c)(3) determination without additional scrutiny.

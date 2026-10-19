@@ -1,0 +1,29 @@
+[
+  {
+    "id": "va-claim-2026-0042-STR",
+    "subject": "Service Treatment Records — Sgt. Marcus T. Webb, SSN ending 7741",
+    "from": "va-records@va.gov",
+    "date": "2026-03-15T09:00:00Z",
+    "priority_score": 90,
+    "priority_bucket": "P1",
+    "body": "Service Treatment Records for Sgt. Marcus T. Webb. Deployment: OIF-II, Mosul, Iraq, Jan 2004 – Nov 2004. In-service incident documented: IED blast exposure, 14 Apr 2004, TBI workup negative, referred to behavioral health. Behavioral health notes (Jun 2004): persistent nightmares, hypervigilance, avoidance behaviors noted following IED event. Follow-up (Sep 2004): sleep disturbance continuing, intrusive recollections of blast event. No prior mental health history before deployment. Separation physical (Dec 2004): BH screening positive for PTSD symptoms. Referred for post-separation VA care."
+  },
+  {
+    "id": "va-claim-2026-0042-DX",
+    "subject": "Current Diagnosis — PTSD, Chronic, Moderate-Severe",
+    "from": "dr.eleanor.hayes@va-community-care.org",
+    "date": "2026-03-20T11:30:00Z",
+    "priority_score": 92,
+    "priority_bucket": "P1",
+    "body": "Treating Psychiatrist Report: Patient Marcus T. Webb, DOB 11 Mar 1981. Current Diagnosis: Post-Traumatic Stress Disorder, Chronic, Moderate-Severe (DSM-5 309.81). Criteria met: intrusion symptoms (nightmares, flashbacks to IED blast), persistent avoidance of reminders, negative alterations in cognition/mood, marked hyperarousal. Symptom duration: continuous since 2004, now 22 years. Functional impact: significant occupational difficulties — unable to maintain employment in crowded/noisy environments, has held no job for >6 months in past 5 years. Interpersonal functioning impaired; spouse reports frequent outbursts, social withdrawal. Current medications: Sertraline 150mg daily, Prazosin 2mg nightly. Treatment response: partial — symptoms persist despite adequate medication trials."
+  },
+  {
+    "id": "va-claim-2026-0042-NEXUS",
+    "subject": "Nexus Opinion Letter — Dr. Priya Anand, MD, ABPN",
+    "from": "dr.priya.anand@nexusmedgroup.com",
+    "date": "2026-03-28T14:00:00Z",
+    "priority_score": 95,
+    "priority_bucket": "P1",
+    "body": "Independent Medical Opinion — Nexus Letter. Patient: Marcus T. Webb. I have reviewed the complete service treatment records (2004), discharge physical, and current psychiatric evaluation by Dr. Hayes. Medical opinion: It is at least as likely as not (probability ≥ 50%) that Mr. Webb's current diagnosis of PTSD, Chronic, Moderate-Severe, is directly caused by and proximately connected to the in-service IED blast exposure on 14 April 2004 as documented in his service treatment records. Rationale: (1) No pre-service mental health history documented; (2) behavioral health notes within 60 days of the blast document PTSD precursor symptoms; (3) DSM-5 diagnostic criteria are met by symptoms traceable to this stressor; (4) 22-year continuous symptom course is consistent with untreated/undertreated service-connected PTSD. The causal and temporal nexus between in-service event and current diagnosis is well-established in the record. — Dr. Priya Anand, MD, ABPN, Board-Certified Psychiatrist"
+  }
+]

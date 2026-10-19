@@ -1,0 +1,17 @@
+15/04/2026, 09:11:04 - Support Agent: Hello! Thanks for contacting ShopEasy Support. How can I assist you today?
+15/04/2026, 09:11:30 - Marcus Rivera: Hey, I need help with an order — I got the wrong item shipped to me.
+15/04/2026, 09:11:55 - Support Agent: I'm sorry about that! Can you share your order number so I can pull it up?
+15/04/2026, 09:12:08 - Marcus Rivera: Yeah, it's ORD-20260415-00839. I ordered a wireless headset but received a phone case instead.
+15/04/2026, 09:12:40 - Support Agent: Got it. Can you confirm the shipping address we have on file?
+15/04/2026, 09:12:57 - Marcus Rivera: It's 318 Lakeview Drive, Austin, TX 78704.
+15/04/2026, 09:13:18 - Support Agent: And your phone number for verification, please?
+15/04/2026, 09:13:31 - Marcus Rivera: Sure, (512) 555-0293.
+15/04/2026, 09:13:55 - Support Agent: Thank you, Marcus. I can see the order. We did ship a headset — looks like a warehouse pick error. I'll arrange a prepaid return label and reship the correct item.
+15/04/2026, 09:14:22 - Marcus Rivera: Great, that works. How long will the reship take?
+15/04/2026, 09:14:48 - Support Agent: About 3 to 5 business days once we receive the return scan. I'll send the label to your email. Is mrivera.tx@example.net still correct?
+15/04/2026, 09:15:02 - Marcus Rivera: Yes, that's right.
+15/04/2026, 09:15:29 - Support Agent: Perfect. And just confirming — the Mastercard ending in 7305 was used for this purchase, yes?
+15/04/2026, 09:15:41 - Marcus Rivera: Correct, that's the one.
+15/04/2026, 09:16:03 - Support Agent: All set. Your return case is RC-114782. You'll get the prepaid label by email within the hour. Anything else I can help with?
+15/04/2026, 09:16:19 - Marcus Rivera: No, that covers it. Thanks!
+15/04/2026, 09:16:24 - Support Agent: You're welcome, Marcus! Have a good one.

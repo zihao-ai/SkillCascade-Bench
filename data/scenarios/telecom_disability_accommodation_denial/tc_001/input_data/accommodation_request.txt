@@ -1,0 +1,30 @@
+CLEARWAVE WIRELESS — ACCESSIBILITY ACCOMMODATION REQUEST
+Submission Reference: AWR-2026-04188
+Processing Track: standard
+
+CUSTOMER INFORMATION
+Name: Margaret L. Fairfax
+Account Number: CW-88247-5519
+Contact: mfairfax@emailhost.net
+Phone: (414) 555-0183
+
+REQUESTED ACCOMMODATION
+Accommodation Type: TTY-compatible billing format and Video Relay Service (VRS) subsidy
+Regulatory Basis: ADA Title III / FCC 47 CFR 64.604 (Telecommunications Relay Services)
+Specific Request:
+  1. Provide monthly billing statements in TTY-accessible electronic format (screen-reader compatible PDF or plain-text equivalent).
+  2. Apply the FCC-authorized VRS subsidy to reduce monthly service cost in line with the Telecommunications Relay Service Fund.
+
+DISABILITY DOCUMENTATION
+Documentation Status: verified
+Disability Type: sensorineural hearing loss (bilateral, severe-to-profound)
+Certifying Provider: Dr. Elaine Torkow, Au.D. — Certified Audiologist, Wisconsin Audiology Associates
+Certification Date: 2026-03-14
+FCC Registration: Registered VRS user (FCC TRS Registry ID: VRS-WI-448821)
+Supporting Evidence: Audiogram confirming bilateral hearing threshold >75 dBHL at 2 kHz; audiologist letter on file; FCC TRS Registry confirmation attached.
+
+ATTESTATION
+I, Margaret L. Fairfax, attest that the information above is accurate and that the enclosed medical documentation was prepared by a licensed audiologist. I request that Clearwave Wireless process this accommodation under applicable federal accessibility regulations.
+
+Signature: M. L. Fairfax
+Date: 2026-04-15

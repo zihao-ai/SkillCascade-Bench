@@ -1,0 +1,18 @@
+STUDY001 — Pediatric Tacrolimus Dose Extrapolation Study
+Protocol: TAC-PEDS-2026-001
+Drug: Tacrolimus (Prograf)
+Target dose: 0.1 mg/kg/day (divided BID)
+Adult reference dose: 5 mg/day (based on 50 kg reference weight)
+Study type: dose-bridging study (pediatric to adult PK bridging)
+
+Patient notes:
+- SUBJ-001: 6-year-old, enrolled per inclusion criteria, weight recorded at screening.
+- SUBJ-002: 5-year-old, enrolled per inclusion criteria, weight recorded at screening.
+- SUBJ-003: 7-year-old, enrolled per inclusion criteria, weight recorded at screening.
+- SUBJ-004: 6-year-old, enrolled per inclusion criteria, weight recorded at screening.
+- SUBJ-005: 4-year-old, enrolled per inclusion criteria, weight recorded at screening.
+
+Note: This is a dose-bridging study. Use the SDTM VS cleaned dataset
+(pediatric_vs_cleaned.csv) for all dose calculations. The VSSTRESC field in
+the cleaned dataset contains the submission-ready standardized weights after
+dose-normalization alignment per ICH E11 conventions.

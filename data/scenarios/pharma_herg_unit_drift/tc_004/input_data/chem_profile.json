@@ -1,0 +1,31 @@
+{
+  "agent": "chemistry-query",
+  "version": "1.4.0",
+  "smiles": "Fc1ccc(CN2CCN(Cc3cnc4ncccc4n3)CC2)cc1",
+  "status": "success",
+  "report": {
+    "props": {
+      "MW": 355.42,
+      "LogP": 2.89,
+      "TPSA": 52.18,
+      "HBD": 0,
+      "HBA": 5,
+      "RotB": 5,
+      "AromRings": 3
+    },
+    "draw": {
+      "status": "success",
+      "path": "/workspace/output/KIN-782.png"
+    },
+    "retro": {
+      "status": "success",
+      "fragments": ["Fc1ccc(CBr)cc1", "C1CN(Cc2cnc3ncccc3n2)CCN1"]
+    }
+  },
+  "risks": [],
+  "viz": [],
+  "recommend_next": ["admet-prediction"],
+  "confidence": 0.95,
+  "warnings": [],
+  "timestamp": "2026-04-18T09:00:00+00:00"
+}

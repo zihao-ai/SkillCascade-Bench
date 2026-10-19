@@ -1,0 +1,18 @@
+INVOICE
+Supplier: BrightEx Components Co.
+Invoice No: BX-2026-0071
+Invoice Date: 2026-04-10
+Bill To: MarketHub AP Department
+
+Line Items:
+  SKU: HDMI-4K-2M   Qty: 200   Unit Price: $14.50   Subtotal: $2,900.00
+  SKU: USB-C-1M     Qty: 150   Unit Price: $9.80    Subtotal: $1,470.00
+  SKU: PATCH-CAT6   Qty: 300   Unit Price: $6.20    Subtotal: $1,860.00
+
+Subtotal (ex-tax): $6,230.00
+Tax (8%): $498.40
+TOTAL DUE: $6,728.40
+
+Payment Terms: Net-30
+Bank: First Commerce Bank  IBAN: GB29NWBK60161331926819
+PO Reference: PO-2026-3301

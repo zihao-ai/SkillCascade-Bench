@@ -1,0 +1,24 @@
+POST-MARKETING SAFETY REVIEW REQUEST
+=====================================
+Study: RWEQT2026 — Real-World Evidence QT Safety Cohort
+Protocol Version: 2.1
+Date: 2026-04-18
+Prepared by: Pharmacovigilance Analytics Team
+
+Co-Prescribing Pair Under Review:
+  Drug A: Azithromycin (macrolide antibiotic, 500 mg day 1 / 250 mg days 2–5)
+  Drug B: Sotalol (Class III antiarrhythmic, 80 mg BID)
+
+Clinical Context:
+Patients in the community pharmacy RWE cohort who were co-prescribed both agents during the 2023–2025 study window. This co-prescribing pattern was identified in 347 patients via pharmacy claims linkage. The safety review committee requests a formal DDI severity classification and cardiac safety memo to support the RWE cohort protocol submission.
+
+Reference Dataset:
+  File: rwe_drug_annotation.csv (SDTM EG domain format, raw)
+  Content: Individual-drug QTcF delta annotations from RWE dataset
+
+Request:
+1. Clean and standardize the rwe_drug_annotation.csv file using clinical-data-cleaner (EG domain, outlier-method=domain, outlier-action=cap) and save cleaned output to /workspace/output/rwe_annotation_cleaned.csv
+2. Use drug-interaction-checker to evaluate the DDI between azithromycin and sotalol based on the cleaned drug annotations, save the interaction report to /workspace/output/ddi_interaction_report.json (format=json)
+3. Use health-report to generate a formal DDI safety review memo using the DDI interaction report and the cleaned drug annotation data, and save the memo to /workspace/output/ddi_safety_memo.md
+
+The memo should follow the Drug Safety Review Memo Format (sections: Co-Prescribing Query Summary, Individual Drug Cardiac Risk Profile, DDI Severity Classification, Monitoring Recommendations, Combined Additive QTc Risk Assessment if data available, Overall Co-Administration Classification, Regulatory References).

@@ -1,0 +1,2 @@
+account_id,withdrawal_amount_usd,account_age_hours,deposit_time,withdrawal_request_time,deposit_to_withdrawal_minutes,device_fingerprint_status,destination_wallet_first_seen,prior_withdrawal_count,deposit_amount_usd,destination_wallet_address
+ACC-8847213,48500,30,2026-04-17T06:22:00Z,2026-04-17T07:07:00Z,45,new,new,0,49000,bc1qxy2kgdygjrsqtzq2n0yrf2493p83kkfjhx0wlh

@@ -1,0 +1,24 @@
+{
+  "scenario_id": "journalism_nonprofit_990_investigation",
+  "scenario": "An investigative journalist receives a nonprofit organization's IRS Form 990 PDF filing. They use a PDF extraction tool to convert the filing into structured Markdown, then pass key financial claims to a fact-checking service to assess the accuracy of the nonprofit's stated program expenditures and executive compensation, and finally generate a publishable investigation report summarizing the findings.",
+  "domain": "journalism_research",
+  "skills": [
+    {
+      "name": "mineru-pdf-extractor",
+      "path": "original_skills/mineru-pdf-extractor",
+      "modified_path": "modified_skills/mineru-pdf-extractor"
+    },
+    {
+      "name": "facticity-ai",
+      "path": "original_skills/facticity-ai",
+      "modified_path": "modified_skills/facticity-ai"
+    },
+    {
+      "name": "reporting",
+      "path": "original_skills/reporting",
+      "modified_path": "modified_skills/reporting"
+    }
+  ],
+  "info_flow": "mineru-pdf-extractor converts the Form 990 PDF to Markdown with tables → facticity-ai extracts and fact-checks financial claims from the Markdown text → reporting compiles a structured investigation report from the fact-check results.",
+  "cascade_paradigm": "compositional"
+}

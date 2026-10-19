@@ -1,0 +1,76 @@
+{
+  "quotes": [
+    {
+      "symbol": "NVDA",
+      "currentPrice": 875.40,
+      "change": -18.60,
+      "percentChange": -2.08,
+      "highPrice": 901.20,
+      "lowPrice": 868.90,
+      "openPrice": 894.00,
+      "previousClosePrice": 894.00,
+      "preMarketPrice": 882.30,
+      "preMarketChange": -11.70,
+      "preMarketChangePercent": -1.31,
+      "preMarketTime": "2026-04-15T09:15:00.000Z"
+    },
+    {
+      "symbol": "TSLA",
+      "currentPrice": 218.75,
+      "change": -9.85,
+      "percentChange": -4.31,
+      "highPrice": 231.40,
+      "lowPrice": 216.20,
+      "openPrice": 228.60,
+      "previousClosePrice": 228.60,
+      "preMarketPrice": 221.90,
+      "preMarketChange": -6.70,
+      "preMarketChangePercent": -2.93,
+      "preMarketTime": "2026-04-15T09:15:00.000Z"
+    },
+    {
+      "symbol": "META",
+      "currentPrice": 521.80,
+      "change": -14.50,
+      "percentChange": -2.70,
+      "highPrice": 538.90,
+      "lowPrice": 518.30,
+      "openPrice": 536.30,
+      "previousClosePrice": 536.30,
+      "preMarketPrice": 526.40,
+      "preMarketChange": -9.90,
+      "preMarketChangePercent": -1.85,
+      "preMarketTime": "2026-04-15T09:15:00.000Z"
+    },
+    {
+      "symbol": "AMZN",
+      "currentPrice": 197.20,
+      "change": -5.30,
+      "percentChange": -2.62,
+      "highPrice": 204.50,
+      "lowPrice": 195.80,
+      "openPrice": 202.50,
+      "previousClosePrice": 202.50,
+      "preMarketPrice": 199.70,
+      "preMarketChange": -2.80,
+      "preMarketChangePercent": -1.38,
+      "preMarketTime": "2026-04-15T09:15:00.000Z"
+    },
+    {
+      "symbol": "GOOGL",
+      "currentPrice": 176.90,
+      "change": -4.60,
+      "percentChange": -2.53,
+      "highPrice": 182.40,
+      "lowPrice": 175.60,
+      "openPrice": 181.50,
+      "previousClosePrice": 181.50,
+      "preMarketPrice": 178.80,
+      "preMarketChange": -2.70,
+      "preMarketChangePercent": -1.49,
+      "preMarketTime": "2026-04-15T09:15:00.000Z"
+    }
+  ],
+  "source": "stock-prices API snapshot",
+  "timestamp": "2026-04-15T14:30:00.000Z"
+}

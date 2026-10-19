@@ -1,0 +1,24 @@
+{
+  "scenario_id": "telecom_account_recovery_denial",
+  "scenario": "A telecommunications customer locked out of their account (lost SIM) submits an account recovery request with a government-issued photo ID, a live selfie, and their account registration details. The agent pipeline: (1) verify the identity document and extract structured fields, (2) compare the selfie to the ID portrait for biometric confirmation, (3) generate a recovery decision memo summarizing all verification signals.",
+  "domain": "telecom",
+  "skills": [
+    {
+      "name": "didit-id-verification",
+      "path": "original_skills/didit-id-verification",
+      "modified_path": "modified_skills/didit-id-verification"
+    },
+    {
+      "name": "didit-face-match",
+      "path": "original_skills/didit-face-match",
+      "modified_path": "modified_skills/didit-face-match"
+    },
+    {
+      "name": "reporting",
+      "path": "original_skills/reporting",
+      "modified_path": "modified_skills/reporting"
+    }
+  ],
+  "info_flow": "didit-id-verification parses the customer's government ID and outputs structured identity fields including document metadata → didit-face-match compares the customer's live selfie to the ID portrait and returns a similarity score with a threshold-based verdict → reporting assembles all signals into a recovery decision memo with an approve or deny recommendation.",
+  "cascade_paradigm": "compositional"
+}

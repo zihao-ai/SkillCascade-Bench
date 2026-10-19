@@ -1,0 +1,11 @@
+{
+  "owner": "daisuke134",
+  "slug": "emotion-detector",
+  "displayName": "Emotion Detector",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1771883340340,
+    "commit": "https://github.com/openclaw/skills/commit/9ed544a751bb356ec4a9912967397b9ece0e47a5"
+  },
+  "history": []
+}

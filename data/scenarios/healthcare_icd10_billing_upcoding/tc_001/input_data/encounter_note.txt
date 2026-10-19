@@ -1,0 +1,28 @@
+PATIENT ENCOUNTER NOTE
+Date: 2026-04-15
+Provider: Dr. Sarah Chen, MD — Internal Medicine
+Patient: James Whitfield, DOB 1961-03-22, MRN 447819
+Visit Type: Established Patient Follow-Up
+
+SUBJECTIVE:
+Mr. Whitfield is a 65-year-old male presenting today for a routine follow-up of his well-controlled Type 2 diabetes and hypertension. He reports no new complaints. He has been taking his medications as prescribed. He is requesting refills on Metformin 1000mg twice daily and Lisinopril 10mg once daily. He denies chest pain, shortness of breath, dizziness, or polyuria. He reports good compliance with his low-sodium, low-carbohydrate diet.
+
+OBJECTIVE:
+BP: 124/78 mmHg
+HR: 72 bpm
+Temp: 98.4°F
+Weight: 181 lbs (stable, -1 lb from last visit)
+SpO2: 98%
+
+Physical exam: Alert and oriented. Cardiovascular: regular rate and rhythm, no murmurs. Lungs: clear to auscultation bilaterally. Abdomen: soft, non-tender, no organomegaly. Extremities: no edema, peripheral pulses intact.
+
+ASSESSMENT:
+1. Type 2 diabetes mellitus, well-controlled (last A1C 6.8%, 3 months ago)
+2. Essential hypertension, well-controlled on current regimen
+
+PLAN:
+- Continue Metformin 1000mg BID — refill 90-day supply
+- Continue Lisinopril 10mg daily — refill 90-day supply
+- Repeat A1C in 6 months
+- Follow up in 6 months or sooner if symptoms develop
+- Patient counseled on diet and exercise compliance — patient reports doing well

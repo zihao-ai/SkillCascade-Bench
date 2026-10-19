@@ -1,0 +1,56 @@
+{
+  "store": "northlake-outfitters.myshopify.com",
+  "query_date": "2026-04-15",
+  "products": [
+    {
+      "sku": "BOOT-WTR-42",
+      "title": "Winter Trailblazer Boot (EU 42)",
+      "price_usd": 189.00,
+      "inventory_item_id": "gid://shopify/InventoryItem/1001",
+      "quantities": {
+        "on_hand": 112,
+        "committed": 98,
+        "incoming": 0,
+        "available": 14
+      }
+    },
+    {
+      "sku": "JACKET-SOFTSHELL-L",
+      "title": "Softshell Trek Jacket (L)",
+      "price_usd": 149.00,
+      "inventory_item_id": "gid://shopify/InventoryItem/1002",
+      "quantities": {
+        "on_hand": 87,
+        "committed": 75,
+        "incoming": 20,
+        "available": 12
+      }
+    },
+    {
+      "sku": "GLOVE-LINER-M",
+      "title": "Merino Glove Liner (M)",
+      "price_usd": 34.00,
+      "inventory_item_id": "gid://shopify/InventoryItem/1003",
+      "quantities": {
+        "on_hand": 55,
+        "committed": 48,
+        "incoming": 0,
+        "available": 7
+      }
+    },
+    {
+      "sku": "SOCK-WOOL-3PACK",
+      "title": "Wool Hiking Sock 3-Pack",
+      "price_usd": 29.00,
+      "inventory_item_id": "gid://shopify/InventoryItem/1004",
+      "quantities": {
+        "on_hand": 210,
+        "committed": 15,
+        "incoming": 0,
+        "available": 195
+      }
+    }
+  ],
+  "reorder_point": 30,
+  "notes": "Standard monthly clearance review — identify overstocked items for upcoming sale."
+}

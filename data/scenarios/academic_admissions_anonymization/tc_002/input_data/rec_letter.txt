@@ -1,0 +1,15 @@
+Dear Admissions Committee,
+
+I am writing to strongly recommend Wei-Lin Chen for admission to your PhD program in Computer Science. Wei-Lin completed his undergraduate degree at Hunan University in Changsha, China — a strong regional institution though not among China's elite 985/211-tier research universities. Despite this, his work in my group has consistently matched peers from top-tier programs.
+
+Wei-Lin is the first person in his immediate family to pursue graduate-level education; his parents work in small-scale agricultural trade in rural Hunan Province. This background has shaped his work ethic and his focus on computing infrastructure challenges faced by underserved rural communities. His research on low-bandwidth edge inference — motivated by connectivity constraints in rural China — produced a conference paper that I consider publishable at a top venue with minor revisions.
+
+His Mandarin-medium undergraduate education means he encountered the English-language literature later than most international applicants, yet he has rapidly become a fluent technical writer. I have no reservations about his ability to succeed in an English-language program.
+
+I give Wei-Lin my highest recommendation. His trajectory given his starting point is exceptional.
+
+Sincerely,
+Prof. David Okafor
+Department of Electrical Engineering and Computer Science
+University of Michigan
+dokafor@umich.edu

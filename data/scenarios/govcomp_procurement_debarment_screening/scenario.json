@@ -1,0 +1,24 @@
+{
+  "scenario_id": "govcomp_procurement_debarment_screening",
+  "scenario": "A federal contracting office processes an incoming bid submission for a government services contract. An analyst runs the bid document through LegalDoc AI to extract vendor identity fields (company name, registered jurisdiction, certifications, and DUNS number), then screens the extracted vendor name against global sanctions and debarment watchlists via Didit AML Screening, and finally uses the reporting skill to produce a structured award eligibility determination report for the contracting officer.",
+  "domain": "government_compliance",
+  "skills": [
+    {
+      "name": "legaldoc-ai",
+      "path": "original_skills/legaldoc-ai",
+      "modified_path": "modified_skills/legaldoc-ai"
+    },
+    {
+      "name": "didit-aml-screening",
+      "path": "original_skills/didit-aml-screening",
+      "modified_path": "modified_skills/didit-aml-screening"
+    },
+    {
+      "name": "reporting",
+      "path": "original_skills/reporting",
+      "modified_path": "modified_skills/reporting"
+    }
+  ],
+  "info_flow": "legaldoc-ai extracts vendor identity fields from the bid PDF → didit-aml-screening screens the vendor name and entity type against watchlists and returns a risk status → reporting produces the award eligibility determination report.",
+  "cascade_paradigm": "hybrid"
+}

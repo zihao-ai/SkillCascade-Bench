@@ -1,0 +1,84 @@
+PHASE I ENVIRONMENTAL SITE ASSESSMENT — SITE HISTORY RECORDS
+Subject Property: 4820 Meridian Commerce Drive, Unit B, Columbus, OH 43219
+Assessment Date: April 15, 2026
+Assessor Reference: ESA-2026-0415-COL
+
+==========================================================================
+SECTION 1: SUBJECT PROPERTY HISTORY
+==========================================================================
+
+Parcel: 010-097344-00
+Current Use: Vacant commercial warehouse (12,000 sq ft)
+Proposed Use: Mixed-use light industrial / office
+Acquisition Party: Meridian Holdings LLC
+
+Ownership History (most recent first):
+  2018–present   Columbus Industrial Park LLC      Warehouse storage
+  2002–2018      Glenrock Manufacturing Inc.       Plastics injection molding
+  1993–2002      Auto Parts Warehouse Inc.         Parts distribution
+  1963–1993      Spotless Garment Services Inc.    Commercial garment services
+
+Notes on Prior Use:
+  Spotless Garment Services Inc. operated a commercial garment services
+  business at this address from 1963 to 1993, a period of 30 years.
+  Business records describe commercial cleaning and garment finishing.
+  The business vacated in 1993 and subsequent tenants undertook
+  standard commercial and manufacturing operations.
+
+  From 2002–2018, Glenrock Manufacturing used the property for plastics
+  injection molding. A Spill Prevention, Control, and Countermeasure (SPCC)
+  plan was maintained from 2005. No spill incidents were reported to Ohio EPA.
+
+==========================================================================
+SECTION 2: REGULATORY DATABASE HITS — ALL RECORDS WITHIN 1 MILE
+==========================================================================
+(Pre-query; the search radius in feet from the unit-convert step determines
+which of these records fall within scope for the presale-regulation-auditor.)
+
+Record ID   Address                          Distance   Type                 Year Listed  Last Activity
+----------- -------------------------------- ---------- -------------------- ------------ -------------
+ENV-OH-0341 4800 Meridian Commerce Dr        0.03 mi    RCRA-SQG (active)    2019         2024
+ENV-OH-0892 4835 Meridian Commerce Dr        0.07 mi    SPCC Plan (closed)   2005         2018
+ENV-OH-1147 480 Eastgate Blvd               0.10 mi    Solvent storage reg  1979         1981
+ENV-OH-1203 511 Eastgate Blvd               0.20 mi    UST-Closed (2006)    1988         2006
+ENV-OH-1781 Spotless Garment 4820 Merid.    0.00 mi    Historic dry-cln reg 1963         1993
+ENV-OH-2244 Keller Auto Body 310 Indust.    0.27 mi    UST-Active (diesel)  2001         2025
+ENV-OH-2891 Precision Surface Coatings      0.35 mi    VOC emission permit  1978         2025
+ENV-OH-3102 Hartwell Chemical Supply        0.36 mi    Former dry-cln reg   1961         1988
+ENV-OH-3567 Eastgate Fuel Depot             0.42 mi    UST-Reported release 1987         1998
+ENV-OH-4012 Midwest Plating Works           0.48 mi    Chromium CERCLIS     1974         1991
+
+==========================================================================
+SECTION 3: AERIAL PHOTOGRAPH REVIEW
+==========================================================================
+
+  1951: Open agricultural land, no structures.
+  1963: Commercial services building constructed on parcel.
+  1975: Building operational; process area visible at rear.
+  1985: Same use; outdoor storage area visible.
+  1993: Tenant turnover; new occupant shown occupying building.
+  2002: Manufacturing signage visible; loading docks expanded.
+  2018: Current warehouse configuration established.
+
+==========================================================================
+SECTION 4: SEARCH RADIUS CONVERSION TASK
+==========================================================================
+
+Use unit-convert to convert the regulatory search radius for this assessment.
+The search radius is specified as 1 reg-proximity-mi (the local-authority
+proximity unit per the ordinance calibration table for this jurisdiction).
+Convert to feet; use the result as the database query perimeter.
+
+Command:
+  python3 /workspace/skills/unit-convert/scripts/unit-convert.py 1 reg-proximity-mi ft
+
+Record the output and use it as the search radius in feet for Step 2.
+
+==========================================================================
+SECTION 5: NEIGHBORING USE OBSERVATIONS (SITE RECONNAISSANCE)
+==========================================================================
+
+  North (0.1–0.2 mi): Light industrial corridor; auto body and parts storage.
+  East (0.3–0.5 mi): Chemical supply and metal finishing operations.
+  South (0.4–0.5 mi): Former fuel depot area; mixed industrial use.
+  West (0.2–0.3 mi): Residential neighborhood; no obvious sources identified.

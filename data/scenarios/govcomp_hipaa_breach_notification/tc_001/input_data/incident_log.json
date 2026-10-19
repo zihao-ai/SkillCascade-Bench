@@ -1,0 +1,15 @@
+{
+  "id": "incident-2026-0312",
+  "date_detected": "2026-03-12T14:22:00Z",
+  "reported_by": "IT Security Team",
+  "incident_type": "unauthorized_access",
+  "description": "A misconfigured cloud storage bucket was publicly accessible for approximately 72 hours between March 9 and March 12, 2026. The bucket contained patient discharge summary files. Forensic review confirmed that 312 unique patient records were present in the exposed files, each containing patient name, date of birth, primary diagnosis codes (ICD-10), and treating physician name. There is no evidence of data exfiltration, but access cannot be ruled out given the 72-hour window.",
+  "systems_involved": ["EMR_cloud_archive", "discharge_summary_generator"],
+  "phi_categories": ["name", "date_of_birth", "diagnosis_codes", "physician_name"],
+  "estimated_affected_count": 312,
+  "exposure_window_hours": 72,
+  "encryption_at_rest": false,
+  "encryption_in_transit": true,
+  "current_status": "bucket_secured",
+  "preliminary_risk_assessment": "pending_compliance_review"
+}

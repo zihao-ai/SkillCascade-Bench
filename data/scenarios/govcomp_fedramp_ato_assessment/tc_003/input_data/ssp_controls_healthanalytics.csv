@@ -1,0 +1,31 @@
+ControlID,ControlFamily,ControlName,Status
+SA-1,SA,System and Services Acquisition Policy,Partially Implemented
+SA-2,SA,Allocation of Resources,Partially Implemented
+SA-3,SA,System Development Life Cycle,Partially Implemented
+SA-4,SA,Acquisition Process,Partially Implemented
+SA-5,SA,System Documentation,Implemented
+SA-8,SA,Security and Privacy Engineering Principles,Partially Implemented
+SA-9,SA,External System Services,Partially Implemented
+SA-10,SA,Developer Configuration Management,Partially Implemented
+SA-11,SA,Developer Testing and Evaluation,Partially Implemented
+SA-15,SA,Development Process Standards,Implemented
+CP-1,CP,Contingency Planning Policy,Partially Implemented
+CP-2,CP,Contingency Plan,Partially Implemented
+CP-3,CP,Contingency Training,Partially Implemented
+CP-4,CP,Contingency Plan Testing,Not Implemented
+CP-6,CP,Alternate Storage Site,Implemented
+CP-7,CP,Alternate Processing Site,Partially Implemented
+CP-8,CP,Telecommunications Services,Implemented
+CP-9,CP,System Backup,Partially Implemented
+CP-10,CP,System Recovery,Partially Implemented
+MP-1,MP,Media Protection Policy,Implemented
+MP-2,MP,Media Access,Implemented
+MP-3,MP,Media Marking,Implemented
+MP-4,MP,Media Storage,Implemented
+MP-5,MP,Media Transport,Implemented
+MP-6,MP,Media Sanitization,Implemented
+AT-1,AT,Awareness and Training Policy,Implemented
+AT-2,AT,Literacy Training and Awareness,Implemented
+AT-3,AT,Role-Based Training,Implemented
+AT-4,AT,Training Records,Partially Implemented
+AT-5,AT,Contacts with Security Groups,Implemented

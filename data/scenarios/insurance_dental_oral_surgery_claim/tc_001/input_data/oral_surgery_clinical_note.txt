@@ -1,0 +1,42 @@
+ORAL SURGERY OPERATIVE NOTE
+Date of Service: 2026-04-10
+Provider: Dr. Sandra Reyes, DDS, Oral & Maxillofacial Surgery
+Patient: Marcus Holloway (DOB: 1994-08-12)
+Policy Number: DPL-2024-88743
+Insurer: Northgate Dental Group Plan
+
+CHIEF COMPLAINT:
+Patient presents for removal of impacted lower-left third molar with associated pericoronitis.
+
+SUBJECTIVE:
+Patient is a 31-year-old male with a 2-week history of intermittent pain and swelling in the lower-left molar region. He reports tenderness on chewing and mild difficulty opening his mouth fully. Over-the-counter ibuprofen (400 mg PRN) has provided partial relief. No fever, no lymphadenopathy reported.
+
+OBJECTIVE:
+Examination reveals partially erupted tooth #17 with a prominent operculum. Mild pericoronitis is present with localized erythema and edema of surrounding soft tissue. Palpation elicits tenderness. Panoramic radiograph confirms mesioangular impaction of tooth #17, roots fully formed, no evidence of cyst or adjacent root resorption.
+
+ASSESSMENT:
+1. Impacted third molar, lower-left (tooth #17) — mesioangular, Class II, Division B impaction
+2. Pericoronitis, mild, localized to lower-left quadrant
+
+PLAN:
+Proceed with surgical extraction of tooth #17 under local anesthesia (inferior alveolar nerve block, long buccal nerve block). Incision, flap reflection, bone removal, sectioning of crown, delivery of tooth in sections, socket irrigation with saline, primary closure with 3-0 chromic gut suture (3 interrupted sutures). Estimated procedure time: 35 minutes.
+
+PROCEDURE PERFORMED:
+- Diagnosis confirmed clinically and radiographically.
+- Local anesthesia achieved with 4.4 mL 2% lidocaine with 1:100,000 epinephrine.
+- Mucoperiosteal flap elevated. Buccal bone reduced with surgical handpiece.
+- Crown sectioned. Tooth delivered in 2 sections without complication.
+- Socket debrided, irrigated.
+- Flap repositioned and sutured with 3-0 chromic gut (3 sutures).
+- Hemostasis confirmed.
+- Patient tolerated procedure well. No intraoperative complications.
+
+POST-OPERATIVE:
+- Ibuprofen 600 mg PO q6h x 5 days
+- Amoxicillin 500 mg PO TID x 7 days (prophylactic given pericoronitis)
+- Return to clinic in 7 days for suture removal
+
+CLAIM INFORMATION:
+Procedure Code Submitted: D7210 (Surgical extraction, erupted or partially bony impacted tooth)
+Claimed Amount: $785.00
+Policy Limits: Basic Restorative — $450 per tooth; Major Oral Surgery — $2,500 benefit maximum

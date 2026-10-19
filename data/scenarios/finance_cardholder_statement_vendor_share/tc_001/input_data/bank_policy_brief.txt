@@ -1,0 +1,19 @@
+FIRST NATIONAL BANK — VENDOR DATA EXPORT POLICY BRIEF
+Export Batch: Q1-2026 Marketing Analytics Share
+Recipient: DataReach Analytics LLC
+
+Fields approved for vendor export AFTER redaction:
+- cardholder_name: MUST BE REDACTED
+- card_pan: MUST BE DROPPED (do not include in export)
+- card_last4: MUST BE DROPPED or MASKED
+- cvv: MUST BE DROPPED (do not include in export)
+- billing_address: MUST BE REDACTED
+- dob: MUST BE DROPPED
+
+Fields that may be retained:
+- txn_date, txn_amount, merchant_name, merchant_zip (all non-PII transactional attributes)
+
+Instructions:
+1. Use csv-pipeline to extract and normalise the raw statement fields from /workspace/input/statements_batch.csv
+2. Use redacta to apply PII redaction per bank policy to the normalised records
+3. Use reporting to assemble the vendor-export bundle at /workspace/output/vendor_export_bundle.md

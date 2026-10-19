@@ -1,0 +1,24 @@
+{
+  "scenario_id": "hr_visa_sponsorship_refcheck",
+  "scenario": "An HR talent acquisition team evaluates a final-round candidate for a senior engineering role. The workflow screens the candidate's resume for qualifications and market fit, then analyzes reference call transcripts to produce a structured profile, and finally synthesizes both into a sponsorship recommendation report that advises whether to proceed with visa sponsorship and an offer.",
+  "domain": "hr_recruitment",
+  "skills": [
+    {
+      "name": "recruiter-assistant",
+      "path": "original_skills/recruiter-assistant",
+      "modified_path": "modified_skills/recruiter-assistant"
+    },
+    {
+      "name": "interview-analysis",
+      "path": "original_skills/interview-analysis",
+      "modified_path": "modified_skills/interview-analysis"
+    },
+    {
+      "name": "reporting",
+      "path": "original_skills/reporting",
+      "modified_path": "modified_skills/reporting"
+    }
+  ],
+  "info_flow": "recruiter-assistant evaluates the resume against job requirements and produces a structured score + candidate profile JSON → interview-analysis reads that profile and the reference call transcript to produce deep competency cards → reporting synthesizes both artifacts into a final sponsorship recommendation report.",
+  "cascade_paradigm": "causal"
+}

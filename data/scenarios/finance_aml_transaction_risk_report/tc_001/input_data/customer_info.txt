@@ -1,0 +1,6 @@
+Customer Name: Marcus Delano Webb
+Account ID: ACC-20481-B
+Date of Birth: 1979-07-14
+Nationality: US
+Branch: Central City Financial Center
+Review Period: 2026-01-03 to 2026-03-31 (88 calendar days; use 90 days as the observation window per policy)

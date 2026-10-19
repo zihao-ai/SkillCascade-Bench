@@ -1,0 +1,73 @@
+{
+  "batch_id": "ATZ-2026-04-15-BATCH-011",
+  "processed_date": "2026-04-15",
+  "claims": [
+    {
+      "claim_id": "ATZ-89401",
+      "order_id": "ORD-8812045",
+      "buyer_account_age_days": 18,
+      "product_category": "Consumer Electronics",
+      "item_description": "Bluetooth Speaker 40W",
+      "claim_amount": 119.99,
+      "return_rate_12mo": 0.35,
+      "hours_since_delivery": 36,
+      "return_from_different_address": true,
+      "dispute_message": "The speaker stopped working. The sound cuts out. I want a refund. This product is defective.",
+      "supporting_evidence": ["photo_speaker.jpg"]
+    },
+    {
+      "claim_id": "ATZ-89402",
+      "order_id": "ORD-8812207",
+      "buyer_account_age_days": 22,
+      "product_category": "Consumer Electronics",
+      "item_description": "Smart Watch Fitness Tracker",
+      "claim_amount": 89.00,
+      "return_rate_12mo": 0.40,
+      "hours_since_delivery": 44,
+      "return_from_different_address": false,
+      "multiple_returns_same_week": true,
+      "dispute_message": "The watch does not sync. The app does not connect. The battery drains fast. I need my money back.",
+      "supporting_evidence": ["screenshot_app_error.jpg"]
+    },
+    {
+      "claim_id": "ATZ-89403",
+      "order_id": "ORD-8812389",
+      "buyer_account_age_days": 654,
+      "product_category": "Apparel",
+      "item_description": "Winter Jacket Size L",
+      "claim_amount": 68.00,
+      "return_rate_12mo": 0.10,
+      "hours_since_delivery": 120,
+      "return_from_different_address": false,
+      "dispute_message": "The jacket zipper is broken. It came out of the package defective. I cannot use it. Please refund the full amount.",
+      "supporting_evidence": ["photo_zipper.jpg"]
+    },
+    {
+      "claim_id": "ATZ-89404",
+      "order_id": "ORD-8812512",
+      "buyer_account_age_days": 15,
+      "product_category": "Consumer Electronics",
+      "item_description": "Portable Power Bank 20000mAh",
+      "claim_amount": 45.99,
+      "return_rate_12mo": 0.00,
+      "hours_since_delivery": 28,
+      "return_from_different_address": true,
+      "multiple_returns_same_week": true,
+      "dispute_message": "This power bank does not charge. It shows full but devices do not charge. I want a full refund.",
+      "supporting_evidence": ["photo_power_bank.jpg"]
+    },
+    {
+      "claim_id": "ATZ-89405",
+      "order_id": "ORD-8812688",
+      "buyer_account_age_days": 389,
+      "product_category": "Home & Furniture",
+      "item_description": "Air Purifier HEPA Filter",
+      "claim_amount": 79.50,
+      "return_rate_12mo": 0.08,
+      "hours_since_delivery": 96,
+      "return_from_different_address": false,
+      "dispute_message": "The air purifier makes a loud noise and the filter indicator light stays on. The unit is faulty. I want to return it for a full refund.",
+      "supporting_evidence": ["video_noise.mp4"]
+    }
+  ]
+}

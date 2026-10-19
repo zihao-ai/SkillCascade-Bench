@@ -1,0 +1,13 @@
+{
+  "po_number": "PO-2026-3301",
+  "supplier": "BrightEx Components Co.",
+  "po_date": "2026-03-28",
+  "line_items": [
+    {"sku": "HDMI-4K-2M",  "qty_ordered": 120, "unit_price": 14.50, "line_total": 1740.00},
+    {"sku": "USB-C-1M",    "qty_ordered": 150, "unit_price": 9.80,  "line_total": 1470.00},
+    {"sku": "PATCH-CAT6",  "qty_ordered": 300, "unit_price": 6.20,  "line_total": 1860.00}
+  ],
+  "po_subtotal": 5070.00,
+  "po_tax": 405.60,
+  "po_total": 5475.60
+}

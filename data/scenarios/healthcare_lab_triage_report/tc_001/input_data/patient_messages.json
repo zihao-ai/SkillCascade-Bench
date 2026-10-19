@@ -1,0 +1,16 @@
+[
+  {
+    "id": "msg-001",
+    "subject": "Fasting glucose slightly high",
+    "from": "alice.morgan@email.com",
+    "date": "2026-04-15T08:14:00Z",
+    "body": "Hi, I did my fasting glucose test this morning and the result was 106 mg/dL. The lab slip says the normal upper limit is 100 mg/dL. I feel fine — no dizziness, no symptoms. Just wanted to check if I need to do anything."
+  },
+  {
+    "id": "msg-002",
+    "subject": "Blood pressure and heart rate readings",
+    "from": "robert.chen@email.com",
+    "date": "2026-04-15T08:22:00Z",
+    "body": "Took my BP at home with my cuff: 185/112. Heart rate was 110. No other complaints to report."
+  }
+]

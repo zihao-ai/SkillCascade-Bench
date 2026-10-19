@@ -1,0 +1,24 @@
+{
+  "scenario_id": "hr_warn_act_rif_notice",
+  "scenario": "An HR team planning a reduction-in-force (RIF) uploads a full workforce roster CSV. The pipeline parses and groups the roster by work location to determine whether the planned layoffs trigger federal WARN Act notice obligations (50+ affected employees at a single site of employment, or 33%+ of total workforce), then computes the 60-day advance-notice deadline from the planned RIF date and generates a written compliance determination memo.",
+  "domain": "hr_recruitment",
+  "skills": [
+    {
+      "name": "csv-pipeline",
+      "path": "original_skills/csv-pipeline",
+      "modified_path": "modified_skills/csv-pipeline"
+    },
+    {
+      "name": "afrexai-payroll-audit",
+      "path": "original_skills/afrexai-payroll-audit",
+      "modified_path": "modified_skills/afrexai-payroll-audit"
+    },
+    {
+      "name": "temporal-cortex-datetime",
+      "path": "original_skills/temporal-cortex-datetime",
+      "modified_path": "modified_skills/temporal-cortex-datetime"
+    }
+  ],
+  "info_flow": "csv-pipeline reads the workforce roster CSV and produces a per-site headcount summary (affected employees per physical location) → afrexai-payroll-audit evaluates each site's affected count against WARN Act thresholds and renders a WARN-triggered/exempt determination → temporal-cortex-datetime computes the 60-day advance-notice deadline and certifies whether the planned announcement date satisfies the requirement.",
+  "cascade_paradigm": "causal"
+}

@@ -1,0 +1,31 @@
+{
+  "agent": "chemistry-query",
+  "version": "1.4.0",
+  "smiles": "CCN(CC)CCc1ccc(-c2nc3ccccc3s2)cc1",
+  "status": "success",
+  "report": {
+    "props": {
+      "MW": 338.49,
+      "LogP": 4.21,
+      "TPSA": 40.54,
+      "HBD": 0,
+      "HBA": 3,
+      "RotB": 8,
+      "AromRings": 3
+    },
+    "draw": {
+      "status": "success",
+      "path": "/workspace/output/ERG-451.png"
+    },
+    "retro": {
+      "status": "success",
+      "fragments": ["CCN(CC)CCBr", "c1ccc(-c2nc3ccccc3s2)cc1"]
+    }
+  },
+  "risks": [],
+  "viz": [],
+  "recommend_next": ["admet-prediction"],
+  "confidence": 0.95,
+  "warnings": [],
+  "timestamp": "2026-04-15T10:00:00+00:00"
+}

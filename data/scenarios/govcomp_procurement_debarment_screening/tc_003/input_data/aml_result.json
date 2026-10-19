@@ -1,0 +1,31 @@
+{
+  "query": {
+    "name": "Orion Defense",
+    "entity_type": "company",
+    "threshold": 97,
+    "lists_searched": ["OFAC_SDN", "SAM_Exclusions", "BIS_Denied_Persons", "UN_Sanctions"]
+  },
+  "status": "Approved",
+  "total_hits": 1,
+  "unreviewed_hits": 0,
+  "hits": [
+    {
+      "hit_id": "OFAC-SDN-20241107-OD",
+      "list": "OFAC_SDN",
+      "matched_name": "Orion Defense Group",
+      "match_score": 95,
+      "threshold_applied": 97,
+      "classification": "False Positive",
+      "reason": "match_score 95 is below company-entity threshold of 97; classified as False Positive per corporate name variation policy",
+      "entry_details": {
+        "sdn_type": "Entity",
+        "program": "UKRAINE-EO13685",
+        "address": "Voronezh, Russia",
+        "date_listed": "2024-11-07",
+        "remarks": "Provides dual-use technical components to sanctioned end-users; affiliated with restricted procurement networks."
+      }
+    }
+  ],
+  "screening_timestamp": "2026-04-18T09:14:03Z",
+  "screened_by": "didit-aml-api-v2.4"
+}

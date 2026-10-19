@@ -1,0 +1,24 @@
+{
+  "scenario_id": "hr_fmla_leave_eligibility",
+  "scenario": "An HR coordinator processes an employee's FMLA leave request by parsing the employee's work history from the HRIS export (hours worked, tenure) to confirm eligibility criteria, extracting key medical information from the physician's certification form to characterize the serious health condition, and generating a formal FMLA eligibility determination letter for the HR file.",
+  "domain": "hr_recruitment",
+  "skills": [
+    {
+      "name": "medical-entity-extractor",
+      "path": "original_skills/medical-entity-extractor",
+      "modified_path": "modified_skills/medical-entity-extractor"
+    },
+    {
+      "name": "csv-pipeline",
+      "path": "original_skills/csv-pipeline",
+      "modified_path": "modified_skills/csv-pipeline"
+    },
+    {
+      "name": "reporting",
+      "path": "original_skills/reporting",
+      "modified_path": "modified_skills/reporting"
+    }
+  ],
+  "info_flow": "csv-pipeline reads the employee HRIS export to compute months of service and hours worked in the past 12 months and produces a structured eligibility_data JSON; medical-entity-extractor parses the physician certification text to extract diagnosis, expected duration, and functional limitations; reporting combines both structured outputs to generate the FMLA eligibility determination letter.",
+  "cascade_paradigm": "compositional"
+}

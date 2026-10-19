@@ -1,0 +1,24 @@
+{
+  "scenario_id": "ecommerce_seller_onboarding_review",
+  "scenario": "A marketplace operations team reviews a new seller's onboarding submission: their product listing CSV is processed to compute per-listing quality scores, product description texts are analyzed for authenticity and AI-generation signals, and the results are synthesized into a seller onboarding approval report that determines whether the seller passes the quality gate.",
+  "domain": "ecommerce",
+  "skills": [
+    {
+      "name": "csv-pipeline",
+      "path": "original_skills/csv-pipeline",
+      "modified_path": "modified_skills/csv-pipeline"
+    },
+    {
+      "name": "nlp-toolkit",
+      "path": "original_skills/nlp-toolkit",
+      "modified_path": "modified_skills/nlp-toolkit"
+    },
+    {
+      "name": "reporting",
+      "path": "original_skills/reporting",
+      "modified_path": "modified_skills/reporting"
+    }
+  ],
+  "info_flow": "csv-pipeline reads the seller's product listing CSV and computes a completeness/quality score for each listing → nlp-toolkit analyzes each product description text for AI-generation indicators (perplexity, burstiness, entropy) and assigns an authenticity label → reporting combines both score streams into a seller onboarding approval report with an overall recommendation.",
+  "cascade_paradigm": "compositional"
+}

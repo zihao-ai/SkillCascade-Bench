@@ -1,0 +1,24 @@
+{
+  "scenario_id": "govcomp_foia_redaction_release",
+  "scenario": "A FOIA (Freedom of Information Act) officer processes a public-records request by first redacting exempt information from the responsive government document, then logging the redaction decisions to an immutable compliance audit trail, and finally generating a formatted FOIA response package for release to the requester.",
+  "domain": "government_compliance",
+  "skills": [
+    {
+      "name": "redacta",
+      "path": "original_skills/redacta",
+      "modified_path": "modified_skills/redacta"
+    },
+    {
+      "name": "compliance-audit",
+      "path": "original_skills/arc-compliance-audit",
+      "modified_path": "modified_skills/arc-compliance-audit"
+    },
+    {
+      "name": "reporting",
+      "path": "original_skills/reporting",
+      "modified_path": "modified_skills/reporting"
+    }
+  ],
+  "info_flow": "redacta processes the raw government document and produces a redacted version with a redaction report → compliance-audit logs the exemption decisions and produces a release-authorization summary → reporting assembles the final FOIA response package incorporating the redacted document text and release authorization.",
+  "cascade_paradigm": "causal"
+}

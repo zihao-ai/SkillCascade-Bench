@@ -1,0 +1,4 @@
+STUDYID,USUBJID,EGTESTCD,EGCAT,EGORRES,EGORRESU,EGSTRESC,EGDTC,DRUG,QT_RISK_TIER,MEAN_QTCF_DELTA_MS,NOTES
+RWEQT2026,SUBJ-001,QTCF_DELTA,ECG,65,ms,65,2026-03-01,sotalol,High-QT,65,"Sotalol 80mg BID; mean QTcF delta across 412 RWE patients with AF; Class III antiarrhythmic; FDA label states QT prolongation risk with dose-dependent torsades de pointes"
+RWEQT2026,SUBJ-001,QTCF_DELTA,ECG,12,ms,12,2026-03-01,azithromycin,Low-Moderate-QT,12,"Azithromycin 500mg day 1 then 250mg days 2-5; mean QTcF delta across 1240 RWE patients; macrolide antibiotic; FDA safety communication 2013 warns of potentially fatal arrhythmias"
+RWEQT2026,SUBJ-001,QTC,ECG,440,ms,440,2026-03-01,baseline,Normal,0,"Baseline QTcF (mean across cohort); normal range"

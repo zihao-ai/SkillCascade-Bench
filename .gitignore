@@ -1,0 +1,18 @@
+# Track repository documentation and benchmark artifacts.
+/*
+!/.gitignore
+!/.gitattributes
+!/README.md
+!/CITATION.cff
+!/LICENSE
+!/assets/
+!/data/
+
+# Machine-local files are never part of the dataset.
+**/.DS_Store
+**/__pycache__/
+**/*.py[cod]
+**/.venv/
+**/venv/
+**/.env
+**/.env.*

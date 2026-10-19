@@ -1,0 +1,14 @@
+PARAMETRIC WIND INSURANCE POLICY
+Policy Number: PWI-2025-CC-00312
+Insured: Coastal Logistics Partners LLC
+Coverage: $1,200,000
+
+Trigger Condition:
+  Peak sustained wind speed >= 64 kt at the nearest certified NWS station
+  (KCRP - Corpus Christi Intl) during the declared storm observation window.
+
+Storm Observation Window: 2025-07-08T12:00:00Z to 2025-07-08T23:59:00Z
+Storm Event: Tropical Storm Devika (2025 Gulf season)
+
+Payout: Full face value ($1,200,000) if trigger met; $0 if trigger not met.
+No partial payout provisions.

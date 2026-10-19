@@ -1,0 +1,24 @@
+{
+  "scenario_id": "insurance_travel_trip_cancellation",
+  "scenario": "A travel insurance adjuster processes a trip-cancellation claim. The claimant submits a free-text statement describing the reason for cancellation. The intake scorer evaluates the statement's urgency, intent, and sentiment to triage the claim into a priority bucket, the adjudicator then assesses coverage and determines a settlement recommendation, and reporting generates the final claim decision document.",
+  "domain": "insurance_claims",
+  "skills": [
+    {
+      "name": "sentiment-priority-scorer",
+      "path": "original_skills/sentiment-priority-scorer",
+      "modified_path": "modified_skills/sentiment-priority-scorer"
+    },
+    {
+      "name": "afrexai-insurance-claims",
+      "path": "original_skills/afrexai-insurance-claims",
+      "modified_path": "modified_skills/afrexai-insurance-claims"
+    },
+    {
+      "name": "reporting",
+      "path": "original_skills/reporting",
+      "modified_path": "modified_skills/reporting"
+    }
+  ],
+  "info_flow": "sentiment-priority-scorer analyzes the claimant's narrative statement and produces a priority_score and P1/P2/P3 bucket → afrexai-insurance-claims adjudicates the claim using the priority bucket as an input factor alongside the claim details → reporting writes the final claim decision to a structured report.",
+  "cascade_paradigm": "compositional"
+}

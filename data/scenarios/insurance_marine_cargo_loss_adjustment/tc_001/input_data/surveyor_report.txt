@@ -1,0 +1,48 @@
+MARINE CARGO SURVEY REPORT
+Survey Reference: MCL-2026-SHN-00714
+Date of Survey: 2026-04-08
+Surveyor: Hai Yang Marine Surveyors Ltd., Shanghai
+
+VESSEL & VOYAGE DETAILS
+Vessel: MV Pacific Meridian
+Voyage: SHN-RTM-2026-04
+Origin Port: Yantian International Container Terminal, Shenzhen, China
+Destination Port: ECT Delta Terminal, Rotterdam, Netherlands
+Bill of Lading No.: MAEUSK2600714
+Container No.: MSKU7341892-4
+
+CARGO DESCRIPTION
+Commodity: Consumer electronics — laptop computers (model: TechVision Pro 15)
+Shipper: ShenTech Export Co., Ltd., Shenzhen
+Consignee: EuroTech Distribution BV, Rotterdam
+Quantity: 920 cartons × 20 units = 18,400 units
+Gross Weight (surveyed): 18,400 kg
+Invoice Value (declared): CNY 4,200,000
+Incoterms: CIF Rotterdam
+
+CAUSE OF LOSS
+Seawater ingress through a fractured hatch cover gasket during North Sea passage (approx. 52°N, 3°E). Estimated duration of exposure: 36 hours. Seawater contamination confirmed on 14 of 22 stacks in the container.
+
+EXTENT OF DAMAGE
+Units surveyed: 18,400
+Units with irreparable water damage (total loss): 11,270
+Units with repairable cosmetic damage: 1,840
+Units undamaged: 5,290
+
+Salvage value of damaged units: CNY 180,000 (estimate; buyers identified in Rotterdam secondary market)
+
+SURVEYOR'S ASSESSMENT
+Total loss proportion: 61.25% of cargo (by unit count)
+Damaged-cargo gross weight (total-loss units): 11,270 kg
+Recommended basis for claim: replacement cost of damaged units per original invoice price, less salvage value.
+
+DOCUMENTATION ENCLOSED
+- Commercial invoice SHT-2026-00714
+- Packing list
+- Bill of Lading MAEUSK2600714
+- Vessel weather log excerpt (North Sea passage)
+- Photographic evidence (86 images)
+
+Signed: Li Wei, Principal Surveyor
+Hai Yang Marine Surveyors Ltd.
+Shanghai, 2026-04-10

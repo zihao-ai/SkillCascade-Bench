@@ -1,0 +1,24 @@
+{
+  "scenario_id": "real_estate_1031_exchange_deadline",
+  "scenario": "A real estate investor sells a relinquished investment property and needs to execute a 1031 like-kind exchange. The workflow extracts the closing date and sale proceeds from the settlement statement PDF, computes the IRS-mandated 45-day identification deadline and 180-day replacement property closing deadline from the sale close date, and generates a compliance status report showing whether the investor is on track to complete the exchange within the required windows.",
+  "domain": "real_estate",
+  "skills": [
+    {
+      "name": "pdf-extract",
+      "path": "original_skills/pdf-extract",
+      "modified_path": "modified_skills/pdf-extract"
+    },
+    {
+      "name": "temporal-cortex-datetime",
+      "path": "original_skills/temporal-cortex-datetime",
+      "modified_path": "modified_skills/temporal-cortex-datetime"
+    },
+    {
+      "name": "afrexai-real-estate-engine",
+      "path": "original_skills/afrexai-real-estate-engine",
+      "modified_path": "modified_skills/afrexai-real-estate-engine"
+    }
+  ],
+  "info_flow": "pdf-extract reads the closing settlement statement and outputs the sale close date and net proceeds → temporal-cortex-datetime computes the Day 45 identification deadline and Day 180 replacement closing deadline from the close date → afrexai-real-estate-engine synthesizes a 1031 exchange compliance report showing deadline status, boot exposure, and whether the exchange is on track.",
+  "cascade_paradigm": "causal"
+}

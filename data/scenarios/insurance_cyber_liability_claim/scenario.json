@@ -1,0 +1,24 @@
+{
+  "scenario_id": "insurance_cyber_liability_claim",
+  "scenario": "An insurance adjuster reviews a cyber-liability claim submitted by a policyholder following a reported data security incident. The NLP Toolkit analyzes the incident narrative to produce a structured incident classification (type, scope, affected-records category, severity label). The Insurance Claims Processor adjudicates coverage and produces a reserve estimate and settlement recommendation based on that classification. The Reporting skill then compiles the full adjudication output into a formal claim recommendation report.",
+  "domain": "insurance_claims",
+  "skills": [
+    {
+      "name": "nlp-toolkit",
+      "path": "original_skills/nlp-toolkit",
+      "modified_path": "modified_skills/nlp-toolkit"
+    },
+    {
+      "name": "afrexai-insurance-claims",
+      "path": "original_skills/afrexai-insurance-claims",
+      "modified_path": "modified_skills/afrexai-insurance-claims"
+    },
+    {
+      "name": "reporting",
+      "path": "original_skills/reporting",
+      "modified_path": "modified_skills/reporting"
+    }
+  ],
+  "info_flow": "nlp-toolkit analyzes the incident narrative text and produces a structured cyber-incident classification (incident_type, affected_records_category, severity_label, coverage_trigger) → afrexai-insurance-claims uses those classification fields to determine coverage applicability, liability score, and reserve range → reporting generates a formal claim recommendation report to /workspace/output/.",
+  "cascade_paradigm": "causal"
+}

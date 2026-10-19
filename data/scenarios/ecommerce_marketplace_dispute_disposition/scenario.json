@@ -1,0 +1,24 @@
+{
+  "scenario_id": "ecommerce_marketplace_dispute_disposition",
+  "scenario": "A marketplace operations analyst reviews a batch of buyer A-to-Z dispute claims. For each claim, the analyst uses the NLP toolkit to assess whether the buyer's dispute message appears to be human-written or automated/template-generated, applies the returns-and-reverse-logistics framework to compute a fraud score and disposition recommendation (refund, deny, or escalate), and then generates a consolidated dispute disposition report summarizing the outcomes.",
+  "domain": "ecommerce",
+  "skills": [
+    {
+      "name": "nlp-toolkit",
+      "path": "original_skills/nlp-toolkit",
+      "modified_path": "modified_skills/nlp-toolkit"
+    },
+    {
+      "name": "returns-reverse-logistics",
+      "path": "original_skills/returns-reverse-logistics",
+      "modified_path": "modified_skills/returns-reverse-logistics"
+    },
+    {
+      "name": "reporting",
+      "path": "original_skills/reporting",
+      "modified_path": "modified_skills/reporting"
+    }
+  ],
+  "info_flow": "nlp-toolkit analyzes each buyer dispute message and outputs authenticity metrics (perplexity, burstiness, isAI flag) → returns-reverse-logistics uses those metrics alongside claim metadata (return value, account age, product category) to compute a fraud score and disposition → reporting compiles all dispositions into a structured dispute report.",
+  "cascade_paradigm": "causal"
+}

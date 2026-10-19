@@ -1,0 +1,53 @@
+BUILDING ANNUAL ENERGY & CARBON REPORT
+NYC Local Law 97 Compliance Self-Assessment
+Reporting Year: 2025
+
+====================================================
+PROPERTY INFORMATION
+====================================================
+Building Name:       One Meridian Plaza
+Address:             1450 Broadway, New York, NY 10036
+BIN (Building ID):   1082247
+Occupancy Class:     Office (Group B)
+Gross Floor Area:    85,000 square feet
+
+====================================================
+ANNUAL ENERGY CONSUMPTION SUMMARY
+====================================================
+Electricity Usage:       4,820,000 kWh
+Natural Gas Usage:          68,500 therms
+District Steam:                  0 MMBtu
+
+====================================================
+CARBON EMISSIONS CALCULATION
+====================================================
+Electricity CO2e factor (NYC grid, 2025):  0.000288962 metric tons CO2e per kWh
+Natural Gas CO2e factor:                   0.00005311  metric tons CO2e per therm
+
+Electricity CO2e:   4,820,000 × 0.000288962  =  1,392.80 metric tons CO2e
+Natural Gas CO2e:      68,500 × 0.00005311   =      3.64 metric tons CO2e
+
+TOTAL ANNUAL CO2e EMISSIONS:  1,396.44 metric tons CO2e
+(= 1,396,440 kg CO2e)
+
+====================================================
+LL97 CARBON INTENSITY LIMIT (2024-2029 Period)
+====================================================
+Applicable threshold (Office/Group B):
+  167.5 kg CO2e per square metre of gross floor area per year
+
+NOTE: The property manager must convert the gross floor area from
+square feet to square metres using a regulatory-standard conversion
+before computing the building's annual carbon allowance.
+
+====================================================
+PENALTY RATE (if applicable)
+====================================================
+Per NYC Admin Code §28-320.3.5:
+  Fine = (Actual CO2e kg - Limit kg) × $268 per excess metric ton
+  (Divide excess kg by 1,000 to get metric tons before multiplying)
+
+====================================================
+SUBMISSION DEADLINE: May 1, 2026
+CONTACT: nyc.bps@buildings.nyc.gov
+====================================================

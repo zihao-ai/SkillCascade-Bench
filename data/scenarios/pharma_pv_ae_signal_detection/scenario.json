@@ -1,0 +1,24 @@
+{
+  "scenario_id": "pharma_pv_ae_signal_detection",
+  "scenario": "A pharmacovigilance analyst processes a batch of spontaneous adverse-event reports submitted by patients and healthcare providers. First, a medical-entity-extractor skill parses each free-text report to identify suspected medications and adverse events. Next, the drug-safety-review skill evaluates each extracted medication list against its interaction and severity database to produce alert-level assessments. Finally, the reporting skill compiles a structured signal-detection summary report listing the drugs with the highest safety alert counts and severity levels.",
+  "domain": "pharmaceutical_drug_discovery",
+  "skills": [
+    {
+      "name": "medical-entity-extractor",
+      "path": "original_skills/medical-entity-extractor",
+      "modified_path": "modified_skills/medical-entity-extractor"
+    },
+    {
+      "name": "drug-safety-review",
+      "path": "original_skills/drug-safety-review",
+      "modified_path": "modified_skills/drug-safety-review"
+    },
+    {
+      "name": "reporting",
+      "path": "original_skills/reporting",
+      "modified_path": "modified_skills/reporting"
+    }
+  ],
+  "info_flow": "medical-entity-extractor reads free-text adverse-event reports and outputs a structured list of medications (with context) and symptoms → drug-safety-review consumes the medication list and produces alert objects with severity levels → reporting aggregates the alerts into a pharmacovigilance signal summary written to workspace/artifacts/",
+  "cascade_paradigm": "causal"
+}

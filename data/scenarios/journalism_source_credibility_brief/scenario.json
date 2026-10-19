@@ -1,0 +1,24 @@
+{
+  "scenario_id": "journalism_source_credibility_brief",
+  "scenario": "An investigative journalist researching a viral political claim catalogs a set of primary sources with the source-library skill, runs fact-checking on the central claim with verify-claims, and finally generates a publishable story brief with the reporting skill.",
+  "domain": "journalism_research",
+  "skills": [
+    {
+      "name": "source-library",
+      "path": "original_skills/source-library",
+      "modified_path": "modified_skills/source-library"
+    },
+    {
+      "name": "verify-claims",
+      "path": "original_skills/verify-claims",
+      "modified_path": "modified_skills/verify-claims"
+    },
+    {
+      "name": "reporting",
+      "path": "original_skills/reporting",
+      "modified_path": "modified_skills/reporting"
+    }
+  ],
+  "info_flow": "source-library ingests URLs provided by the journalist and records structured metadata (claims, confidence signals, tags) for each source → verify-claims uses that cataloged source set as its corroboration base when checking the central claim → reporting synthesizes the fact-check result and source summaries into a journalist-facing story brief.",
+  "cascade_paradigm": "hybrid"
+}

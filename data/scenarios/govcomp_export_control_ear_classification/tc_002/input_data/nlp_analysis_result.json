@@ -1,0 +1,20 @@
+{
+  "isAI": false,
+  "confidence": 22,
+  "metrics": {
+    "perplexity": 48.21,
+    "burstiness": 0.71,
+    "entropy": 4.38
+  },
+  "tokenStats": {
+    "totalWords": 312,
+    "uniqueWords": 256,
+    "vocabularyRichness": 0.82
+  },
+  "sensitivityScore": 0.18,
+  "thresholds": {
+    "perplexity": 45.0,
+    "burstiness": 0.35
+  },
+  "explanation": "Natural variation in metrics suggests human writing"
+}

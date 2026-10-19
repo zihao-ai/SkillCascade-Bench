@@ -1,0 +1,24 @@
+{
+  "scenario_id": "real_estate_investment_appraisal_valuation",
+  "scenario": "A real estate investment analyst appraises an income-producing property: appraisal-ai extracts and structures the subject property data from the workfile, financial-calculator computes the capitalization rate and present value of projected net operating income, and reporting assembles the findings into a formal investment property valuation report.",
+  "domain": "real_estate",
+  "skills": [
+    {
+      "name": "appraisal-ai",
+      "path": "original_skills/appraisal-ai",
+      "modified_path": "modified_skills/appraisal-ai"
+    },
+    {
+      "name": "financial-calculator",
+      "path": "original_skills/financial-calculator",
+      "modified_path": "modified_skills/financial-calculator"
+    },
+    {
+      "name": "reporting",
+      "path": "original_skills/reporting",
+      "modified_path": "modified_skills/reporting"
+    }
+  ],
+  "info_flow": "appraisal-ai parses the property workfile and extracts structured comparable data with adjustment fields → financial-calculator receives those figures and computes capitalization rate and present value → reporting consolidates the appraisal narrative and financial figures into a final investment valuation report.",
+  "cascade_paradigm": "causal"
+}

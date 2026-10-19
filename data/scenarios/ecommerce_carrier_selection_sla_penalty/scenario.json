@@ -1,0 +1,24 @@
+{
+  "scenario_id": "ecommerce_carrier_selection_sla_penalty",
+  "scenario": "An e-commerce logistics coordinator evaluates freight carriers for a high-value product shipment lane. They use carrier performance scorecard data to score candidates, calculate total shipping cost including projected SLA penalty offsets from past late-delivery incidents, and generate a carrier selection recommendation report for procurement approval.",
+  "domain": "ecommerce",
+  "skills": [
+    {
+      "name": "carrier-relationship-management",
+      "path": "original_skills/carrier-relationship-management",
+      "modified_path": "modified_skills/carrier-relationship-management"
+    },
+    {
+      "name": "financial-calculator",
+      "path": "original_skills/financial-calculator",
+      "modified_path": "modified_skills/financial-calculator"
+    },
+    {
+      "name": "reporting",
+      "path": "original_skills/reporting",
+      "modified_path": "modified_skills/reporting"
+    }
+  ],
+  "info_flow": "carrier-relationship-management evaluates carrier performance scorecards and recommends a primary carrier → financial-calculator computes total lane cost (linehaul + FSC + SLA penalty credits) for each candidate → reporting generates a procurement recommendation report for sign-off.",
+  "cascade_paradigm": "causal"
+}

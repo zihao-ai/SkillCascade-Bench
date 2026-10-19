@@ -1,0 +1,70 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792]
+   /Contents 4 0 R /Resources << /Font << /F1 5 0 R >> >> >>
+endobj
+
+4 0 obj
+<< /Length 350 >>
+stream
+BT
+/F1 12 Tf
+50 750 Td
+(INTERNAL DIRECTIVE Q1-2026 -- CONFIDENTIAL) Tj
+0 -24 Td
+(Department: Office of Budget Planning) Tj
+0 -24 Td
+(Subject: Emergency Reallocation of Infrastructure Funds) Tj
+0 -24 Td
+(Effective Date: 2026-03-15) Tj
+0 -48 Td
+(Per directive 2026-Q1-117, the following budget reallocation) Tj
+0 -24 Td
+(has been approved by the Deputy Secretary:) Tj
+0 -24 Td
+(  - Transfer $4.2M from public infrastructure line item) Tj
+0 -24 Td
+(  - Redirect to Office of Special Projects account 7734) Tj
+0 -24 Td
+(This directive supersedes all prior budget memos for FY2026.) Tj
+ET
+endstream
+endobj
+
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+
+6 0 obj
+<< /Title (Internal Directive Q1-2026)
+   /Author (J. Whitmore)
+   /Subject (Budget Reallocation -- Confidential)
+   /Creator (Microsoft Word 16.85)
+   /Producer (Mac OS X 14.3.1 Quartz PDFContext)
+   /CreationDate (D:20260314092211Z)
+   /ModDate (D:20260314092211Z) >>
+endobj
+
+xref
+0 7
+0000000000 65535 f
+0000000009 00000 n
+0000000058 00000 n
+0000000115 00000 n
+0000000266 00000 n
+0000000667 00000 n
+0000000745 00000 n
+
+trailer
+<< /Size 7 /Root 1 0 R /Info 6 0 R >>
+startxref
+1003
+%%EOF

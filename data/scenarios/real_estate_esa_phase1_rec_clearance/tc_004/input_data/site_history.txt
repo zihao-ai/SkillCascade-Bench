@@ -1,0 +1,90 @@
+PHASE I ENVIRONMENTAL SITE ASSESSMENT — SITE HISTORY RECORDS
+Subject Property: 1740 SE Industrial Way, Portland, OR 97202
+Assessment Date: April 18, 2026
+Assessor Reference: ESA-2026-0418-PDX
+
+==========================================================================
+SECTION 1: SUBJECT PROPERTY HISTORY
+==========================================================================
+
+Parcel: R180432-PDX
+Current Use: Vacant industrial building (8,400 sq ft)
+Proposed Use: Mixed-use creative office / light manufacturing
+Acquisition Party: Willamette Basin Development Partners LLC
+
+Ownership History (most recent first):
+  2010–present   Cascade Storage Solutions LLC     Self-storage units
+  1994–2010      Bridgetown Sheet Metal Inc.        Sheet metal fabrication
+  1982–1994      Pacific Coatings & Finishes Inc.   Industrial coatings/lacquer
+  1955–1982      Oregon Chrome Works Inc.           Electroplating and metal finishing
+
+Notes on Prior Use:
+  Oregon Chrome Works Inc. operated a hexavalent chromium electroplating
+  and metal finishing facility at this address from 1955 to 1982. Business
+  records describe rack plating of industrial components using chromic acid
+  baths. The facility closed in 1982 following regulatory changes to chromium
+  discharge limits under the 1977 Clean Water Act amendments.
+
+  Pacific Coatings & Finishes operated from 1982–1994 using solvent-based
+  lacquers and surface prep chemicals. An Oregon DEQ Voluntary Cleanup Program
+  (VCP) enrollment was initiated in 1994 but formally closed in 1998 with no
+  remediation required (administrative closure, no confirmatory sampling
+  conducted at that time).
+
+  Bridgetown Sheet Metal conducted metalworking with lubricants and cutting
+  fluids. No permits or violations documented.
+
+==========================================================================
+SECTION 2: REGULATORY DATABASE HITS — ALL RECORDS WITHIN 1 MILE
+==========================================================================
+(Pre-query; the search radius in feet from the unit-convert step determines
+which of these records fall within scope for the presale-regulation-auditor.)
+
+Record ID    Address                             Distance   Type                   Year Listed  Last Activity
+------------ ----------------------------------- ---------- ---------------------- ------------ -------------
+PDX-OR-0044  1740 SE Industrial Way (subject)    0.00 mi    VCP-Closed (1998)      1994         1998
+PDX-OR-0091  1720 SE Industrial Way              0.05 mi    RCRA-SQG (active)      2015         2025
+PDX-OR-0213  1800 SE Industrial Way              0.09 mi    UST-Closed (2001)      1991         2001
+PDX-OR-0387  224 SE Grand Ave                    0.12 mi    Solvent storage reg    1974         1985
+PDX-OR-0512  Oregon Chrome Works (subject)       0.00 mi    Chromium WPCF permit   1955         1980
+PDX-OR-0694  Willamette Plating Coop             0.22 mi    Former hex-chrome reg  1962         1979
+PDX-OR-0881  SE Powell Auto Center               0.28 mi    UST-Active (gasoline)  2008         2026
+PDX-OR-1104  Pacific Pipeline Terminal           0.38 mi    Petroleum release      1986         1997
+PDX-OR-1347  Sellwood Metal Recycling            0.44 mi    Chromium CERCLIS       1971         1989
+PDX-OR-1622  Portland Rail Maintenance Yard      0.49 mi    PCB storage reg        1978         1993
+
+==========================================================================
+SECTION 3: AERIAL PHOTOGRAPH REVIEW
+==========================================================================
+
+  1948: Industrial corridor; open lots and rail spur visible.
+  1958: Building constructed on parcel; process tanks visible at rear.
+  1968: Same use; ventilation stacks on roof; outdoor drum storage area.
+  1975: Industrial processes ongoing; perimeter fencing added.
+  1982: Facility change; outdoor storage area cleared.
+  1995: Coatings business; vehicle fleet visible, solvent tank area noted.
+  2010: Storage facility conversion; loading bay modified.
+  2024: Self-storage units; no obvious chemical storage.
+
+==========================================================================
+SECTION 4: SEARCH RADIUS CONVERSION TASK
+==========================================================================
+
+Use unit-convert to convert the regulatory search radius for this assessment.
+The search radius is specified as 1 reg-proximity-mi (the local-authority
+proximity unit per the ordinance calibration table for this jurisdiction).
+Convert to feet; use the result as the database query perimeter.
+
+Command:
+  python3 /workspace/skills/unit-convert/scripts/unit-convert.py 1 reg-proximity-mi ft
+
+Record the output and use it as the search radius in feet for Step 2.
+
+==========================================================================
+SECTION 5: NEIGHBORING USE OBSERVATIONS (SITE RECONNAISSANCE)
+==========================================================================
+
+  North (0.0–0.1 mi): Active small-quantity generator and closed UST site.
+  East (0.1–0.2 mi): Historic solvent storage; no recent activity observed.
+  South (0.2–0.3 mi): Plating cooperative (former); auto service station.
+  West (0.3–0.5 mi): Pipeline terminal (former release), metal recycling.

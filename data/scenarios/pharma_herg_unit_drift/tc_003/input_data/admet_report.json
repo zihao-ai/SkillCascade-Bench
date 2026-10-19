@@ -1,0 +1,63 @@
+{
+  "compounds": [],
+  "timestamp": "2026-04-15T10:05:00",
+  "profile": {
+    "name": "ERG-451",
+    "smiles": "CCN(CC)CCc1ccc(-c2nc3ccccc3s2)cc1",
+    "drug_likeness": {
+      "mw": 338.5,
+      "logp": 4.21,
+      "hbd": 0,
+      "hba": 3,
+      "psa": 40.5,
+      "rotb": 8,
+      "ro5_violations": 0,
+      "ro5_pass": true,
+      "veber_pass": true,
+      "egan_pass": true,
+      "pains_alerts": 0,
+      "brenk_alerts": 0,
+      "drug_likeness": "Pass"
+    },
+    "absorption": {
+      "hia": "98%",
+      "hia_probability": 0.98,
+      "caco2": "18.0 x 10^-6 cm/s",
+      "caco2_value": 18.0,
+      "pgp_substrate": "No",
+      "bioavailability": "80%",
+      "bioavailability_value": 80.0
+    },
+    "distribution": {
+      "vdss": "4.1 L/kg",
+      "vdss_value": 4.1,
+      "ppb": "92%",
+      "ppb_value": 92.0,
+      "bbb": "Yes",
+      "logbb": 0.22,
+      "cns_mpo": 3.0
+    },
+    "metabolism": {
+      "cyp3a4_substrate": "Yes",
+      "cyp3a4_inhibitor": "Yes",
+      "cyp2d6_inhibitor": "No",
+      "cyp2c9_inhibitor": "No",
+      "clearance": "6.6 mL/min/kg",
+      "clearance_value": 6.6
+    },
+    "excretion": {
+      "half_life": "48 hours",
+      "half_life_value": 48.0,
+      "renal_clearance": "8%",
+      "renal_clearance_value": 8.0
+    },
+    "toxicity": {
+      "herg_inhibition": "No",
+      "dili": "Low",
+      "ames": "N",
+      "carcinogenicity": "Unlikely",
+      "respiratory_toxicity": "No",
+      "overall_toxicity_risk": "Low"
+    }
+  }
+}

@@ -1,0 +1,11 @@
+date,merchant,category,amount
+2026-01-05,AWS Cloud,expense,3200.00
+2026-01-10,Stripe Payout,income,6800.00
+2026-01-12,Office Supplies Co,expense,450.00
+2026-01-15,Contractor Payment,expense,2100.00
+2026-01-18,Client Invoice #1042,income,4200.00
+2026-01-22,Software Licenses,expense,980.00
+2026-01-25,Freelance Revenue,income,1500.00
+2026-01-28,Travel Reimbursement,expense,570.00
+2026-01-30,Dividend Payment,income,480.00
+2026-02-03,Marketing Spend,expense,1000.00

@@ -1,0 +1,30 @@
+{
+  "customers": [
+    {
+      "customer_id": "CST-1001",
+      "name": "Jordan Mitchell",
+      "email": "jordan.mitchell@email.com",
+      "phone": "555-234-5678",
+      "plan_type": "postpaid",
+      "billing_tenure_months": 36,
+      "support_language_preference": "en",
+      "service_area_tier": 1,
+      "issue_description": "Home internet has been down since this morning. Need help getting it restored.",
+      "issue_category": "service_outage",
+      "last_modified": "2026-04-15"
+    },
+    {
+      "customer_id": "CST-1002",
+      "name": "Maria Santos",
+      "email": "maria.santos@email.com",
+      "phone": "555-876-5432",
+      "plan_type": "prepaid",
+      "billing_tenure_months": 3,
+      "support_language_preference": "es",
+      "service_area_tier": 3,
+      "issue_description": "Home internet has been down since this morning. Need help getting it restored.",
+      "issue_category": "service_outage",
+      "last_modified": "2026-04-15"
+    }
+  ]
+}

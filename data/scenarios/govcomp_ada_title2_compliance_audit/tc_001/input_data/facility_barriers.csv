@@ -1,0 +1,13 @@
+barrier_id,location,barrier_type,measurement_field,measurement_value,measurement_unit,ada_threshold,threshold_unit,notes
+B001,Main Entrance,ramp_slope,ramp_slope_pct,12.5,pct,8.3,pct,Clearly non-compliant steep ramp at main lobby entrance
+B002,Main Entrance,door_clear_width,door_clear_width_in,28.0,in,32.0,in,Clearly non-compliant narrow entrance door
+B003,North Wing Corridor,ramp_slope,ramp_slope_pct,8.34,pct,8.3,pct,Marginal slope - rounds to 8.3% at 1 decimal place
+B004,North Wing Corridor,door_clear_width,door_clear_width_in,31.95,in,32.0,in,Marginal width - rounds to 32.0 in at 1 decimal place
+B005,South Wing Corridor,ramp_slope,ramp_slope_pct,8.36,pct,8.3,pct,Marginal slope just above threshold
+B006,South Wing Corridor,door_clear_width,door_clear_width_in,31.80,in,32.0,in,Marginal width below threshold
+B007,Conference Room A,counter_height,counter_height_in,36.2,in,34.0,in,Service counter too high
+B008,Conference Room A,reach_range,reach_range_in,50.0,in,48.0,in,Forward reach range exceeds maximum
+B009,Parking Lot,ramp_slope,ramp_slope_pct,8.35,pct,8.3,pct,Marginal slope - rounds to 8.4% at 1 decimal place
+B010,Parking Lot,door_clear_width,door_clear_width_in,31.98,in,32.0,in,Marginal width - rounds to 32.0 at 1 decimal place
+B011,Restroom Block A,counter_height,counter_height_in,34.04,in,34.0,in,Marginal counter height - rounds to 34.0 at 1 decimal place
+B012,Restroom Block A,reach_range,reach_range_in,48.04,in,48.0,in,Marginal reach range - rounds to 48.0 at 1 decimal place

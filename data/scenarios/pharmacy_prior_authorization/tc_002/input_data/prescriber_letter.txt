@@ -1,0 +1,45 @@
+PRIOR AUTHORIZATION REQUEST — PRESCRIBER LETTER
+
+Date: April 18, 2026
+Prescriber: Dr. Elena Marchetti, MD, Endocrinology
+Practice: Northbridge Metabolic & Diabetes Center
+NPI: 1234567890
+Fax: (555) 201-4400
+
+Patient: [REDACTED — Member ID: PBM-2026-44821]
+Date of Birth: 1978-09-14
+Insurance Group: PBM-GRP-7741
+
+Requested Medication: Semaglutide 0.5 mg/week subcutaneous injection (GLP-1 agonist)
+Requested Duration: 12 months
+Diagnosis: Type 2 Diabetes Mellitus with hyperglycemia; Obesity
+
+---
+
+To Whom It May Concern:
+
+I am writing to request prior authorization for semaglutide for my patient, a 47-year-old individual with a long-standing history of Type 2 Diabetes Mellitus and obesity.
+
+CLINICAL HISTORY:
+
+The patient was referred to our practice approximately 14 months ago after primary care noted persistent glycemic elevation. At the time of initial evaluation, the patient's glycosylated hemoglobin was elevated in the high-nines range. Body mass index at presentation measured thirty-eight, placing this patient firmly in Class II obesity with a metabolic risk profile consistent with accelerated cardiovascular risk.
+
+PRIOR THERAPY:
+
+The patient was placed on metformin 1000 mg twice daily as initial oral glucose-lowering therapy. Over the following six months, the dose was titrated to the maximum tolerated level of 2000 mg/day. Glycated hemoglobin at the six-month mark remained in the same elevated range as at baseline, consistent with suboptimal glycemic management on metformin monotherapy. Gastrointestinal tolerability was acceptable; the patient completed the full course as prescribed.
+
+Given the persistence of elevated glycated hemoglobin despite maximally tolerated metformin therapy, and considering the patient's BMI of 38 and the established cardiovascular risk reduction data for GLP-1 receptor agonists in this population, I am requesting authorization for semaglutide as intensification therapy.
+
+CLINICAL RATIONALE:
+
+This patient meets the PBM's standard criteria for GLP-1 agonist authorization. The diagnosis of T2DM with persistent hyperglycemia is confirmed by laboratory documentation. The patient has completed a trial of first-line oral therapy at maximally tolerated dosing. The patient's BMI and cardiovascular risk profile are consistent with the approved clinical indications for semaglutide per the current prescribing guidance.
+
+SUPPORTING DOCUMENTATION:
+
+Please see the attached chart excerpt (chart_extract.txt) summarizing the relevant laboratory and clinical data.
+
+I am available to discuss this case further at (555) 201-4400.
+
+Sincerely,
+Dr. Elena Marchetti, MD
+Board Certified, Endocrinology, Diabetes & Metabolism

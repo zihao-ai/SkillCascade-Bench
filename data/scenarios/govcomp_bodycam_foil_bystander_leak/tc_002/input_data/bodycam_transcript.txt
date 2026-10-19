@@ -1,0 +1,14 @@
+2026-01-09 09:14:02 [OFFICER] Officer Rivera on scene at 317 Fenwick Boulevard, shoplifting report.
+2026-01-09 09:14:18 [OFFICER] Sir, were you in the area when the incident took place?
+2026-01-09 09:14:24 Devon Okafor: Yes, Officer Rivera. I was right outside when it happened.
+2026-01-09 09:14:31 [OFFICER] I need to confirm your identity for the record. Your full name, date of birth, and address please.
+2026-01-09 09:14:39 Devon Okafor: Devon Okafor. Born July 22, 1988. I live at 5 Crescent Mill Road.
+2026-01-09 09:14:52 [OFFICER] Thank you, Mr. Okafor. What did you observe?
+2026-01-09 09:14:58 Devon Okafor: I saw a woman in a red jacket leave the store fast. The clerk ran after her and there was a scuffle at the door.
+2026-01-09 09:15:14 [OFFICER] Did you notice anyone else nearby?
+2026-01-09 09:15:20 Devon Okafor: There was an older woman watching from across the street. She looked shaken. She told me she saw the whole thing.
+2026-01-09 09:15:34 [OFFICER] Do you know who she was?
+2026-01-09 09:15:40 Devon Okafor: She gave me her name — Edith Kowalski. Said she lives at 21 Hartwell Place, has lived there thirty years.
+2026-01-09 09:15:57 [OFFICER] Anyone else you can recall?
+2026-01-09 09:16:03 Passerby: Nope, I just walked past.
+2026-01-09 09:16:14 [OFFICER] Officer Rivera, supplemental note, Incident 2026-0109-17C. Scene clear.

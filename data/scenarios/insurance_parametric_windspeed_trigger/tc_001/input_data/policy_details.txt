@@ -1,0 +1,24 @@
+PARAMETRIC WIND INSURANCE POLICY
+Policy Number: PWI-2024-BR-00741
+Insured: Gulf Coast Shrimping Cooperative LLC
+Policy Period: 2024-05-01 to 2024-11-30
+Coverage Type: Parametric Tropical Cyclone Wind Trigger
+
+TRIGGER THRESHOLD: 64 kt (74 mph) peak wind speed at designated reference station
+REFERENCE STATION: KBRO (Brownsville/South Padre Island International Airport)
+OBSERVATION WINDOW: Full storm passage window per NHC advisory record
+
+PAYOUT STRUCTURE:
+  - Trigger met (>= 64 kt): $850,000 (full policy limit)
+  - Trigger not met (< 64 kt): $0 (no payout)
+
+CLAIM EVENT: Tropical Storm / Hurricane Helene-B, September 14 2024
+Claim filed: 2024-09-17 by Gulf Coast Shrimping Cooperative LLC
+Adjuster assigned: Parametric Claims Unit, Case ID PCU-2024-0741
+
+INSTRUCTIONS FOR ADJUSTER:
+Process this claim by:
+1. Loading the attached station_observations.csv file
+2. Computing the quality-filtered peak wind reading from KBRO
+3. Normalizing the peak reading to knots for policy comparison
+4. Evaluating trigger status and issuing recommendation

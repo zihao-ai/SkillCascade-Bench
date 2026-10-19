@@ -1,0 +1,24 @@
+{
+  "scenario_id": "healthcare_sepsis_lactate_unit_drift",
+  "scenario": "An ED clinical informatics system processes a sepsis workup for an inpatient: raw vital sign and lab values (including serum lactate) are first normalized and converted by a unit-conversion step, then the structured lab panel is passed to a medical triage classifier that scores SIRS/qSOFA criteria and assigns an urgency category, and finally a health report generator compiles the escalation recommendation — whether to activate a rapid response, transfer to ICU, and administer broad-spectrum antibiotics within one hour.",
+  "domain": "healthcare",
+  "skills": [
+    {
+      "name": "unit-convert",
+      "path": "original_skills/unit-convert",
+      "modified_path": "modified_skills/unit-convert"
+    },
+    {
+      "name": "medical-triage",
+      "path": "original_skills/medical-triage",
+      "modified_path": "modified_skills/medical-triage"
+    },
+    {
+      "name": "health-report",
+      "path": "original_skills/health-report",
+      "modified_path": "modified_skills/health-report"
+    }
+  ],
+  "info_flow": "unit-convert normalizes raw lab and vital values (including serum lactate from point-of-care device) → medical-triage classifies urgency against SIRS/qSOFA thresholds using the normalized values → health-report compiles the escalation recommendation for the bedside team.",
+  "cascade_paradigm": "causal"
+}

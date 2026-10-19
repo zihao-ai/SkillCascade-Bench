@@ -1,0 +1,35 @@
+{
+  "wire_session_id": "WR-2026-04-18-0047",
+  "processing_date": "2026-04-18",
+  "originator": {
+    "name": "Hartmann & Sohn GmbH",
+    "account_number": "DE89370400440532013000",
+    "bank": "Commerzbank AG",
+    "country": "DE"
+  },
+  "wires": [
+    {
+      "wire_ref": "WR-2026-04-18-0047-A",
+      "amount": 4900,
+      "currency": "EUR",
+      "beneficiary_name": "Khalid Al-Rashidi Trading LLC",
+      "beneficiary_bank": "First Gulf International Bank",
+      "swift_bic": "FGIBAEADXXX",
+      "beneficiary_country": "AE",
+      "purpose_code": "GDS",
+      "purpose_text": "Goods and services — invoice INV-2026-0311"
+    },
+    {
+      "wire_ref": "WR-2026-04-18-0047-B",
+      "amount": 4600,
+      "currency": "EUR",
+      "beneficiary_name": "Khalid Al-Rashidi Trading LLC",
+      "beneficiary_bank": "First Gulf International Bank",
+      "swift_bic": "FGIBAEADXXX",
+      "beneficiary_country": "AE",
+      "purpose_code": "GDS",
+      "purpose_text": "Goods and services — invoice INV-2026-0312"
+    }
+  ],
+  "notes": "Customer states two separate invoices from same supplier; both require same-day settlement."
+}

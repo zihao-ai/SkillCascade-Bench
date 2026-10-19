@@ -1,0 +1,12 @@
+Personal Statement — Wei-Lin Chen
+
+I grew up in a small county in Hunan Province, China, where reliable internet access was a luxury. My father runs a small agricultural supply business and my mother handles the accounts; neither attended university. Watching my family navigate information asymmetries in rural markets — with only a 2G connection — led directly to my research interest in efficient machine learning inference at the network edge.
+
+My undergraduate studies at Hunan University gave me strong algorithmic foundations, though I recognize that the research infrastructure there differs from what elite Chinese institutions offer. I compensated by reading widely, reaching out to Professor Okafor at Michigan for a remote research collaboration, and learning to work without the lab resources many of my peers take for granted.
+
+My thesis prototype reduced inference latency by 40% on embedded hardware typical of rural Chinese township deployments. I believe my lived experience as a rural Chinese student — the first in my family to pursue an advanced degree — gives me a research perspective on edge computing that is both technically grounded and concretely motivated.
+
+I am excited to contribute this perspective to your program and to collaborate with researchers working on systems for underserved populations globally.
+
+Wei-Lin Chen
+wlchen1998@outlook.com

@@ -1,0 +1,24 @@
+{
+  "scenario_id": "insurance_parametric_windspeed_trigger",
+  "scenario": "A parametric insurance adjuster processes a tropical storm claim where payout depends on whether the nearest certified weather station recorded a peak sustained-wind reading at or above the policy trigger threshold (64 kt / 74 mph) during the storm observation window. The pipeline ingests raw station observation CSV data, normalizes wind speed units to a common scale, computes the quality-weighted peak reading from eligible stations, and submits the result to the insurance claims processor to determine trigger status and authorize or deny payout.",
+  "domain": "insurance_claims",
+  "skills": [
+    {
+      "name": "csv-pipeline",
+      "path": "original_skills/csv-pipeline",
+      "modified_path": "modified_skills/csv-pipeline"
+    },
+    {
+      "name": "unit-convert",
+      "path": "original_skills/unit-convert",
+      "modified_path": "modified_skills/unit-convert"
+    },
+    {
+      "name": "afrexai-insurance-claims",
+      "path": "original_skills/afrexai-insurance-claims",
+      "modified_path": "modified_skills/afrexai-insurance-claims"
+    }
+  ],
+  "info_flow": "csv-pipeline reads station_observations.csv, applies quality-flag filtering and computes weighted-average peak wind speed → unit-convert normalizes the peak reading to knots (kt) for policy comparison → afrexai-insurance-claims evaluates whether the normalized peak meets the 64 kt trigger and recommends payout or denial.",
+  "cascade_paradigm": "causal"
+}

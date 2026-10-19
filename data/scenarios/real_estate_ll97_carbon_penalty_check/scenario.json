@@ -1,0 +1,24 @@
+{
+  "scenario_id": "real_estate_ll97_carbon_penalty_check",
+  "scenario": "A property manager submits a commercial office building's annual energy data for NYC Local Law 97 (BPS) compliance review. The workflow converts the building's gross floor area from square feet to square metres, uses the converted area to compute the LL97 carbon-intensity limit, then calculates whether the building's actual CO2e emissions exceed the limit and what penalty (at $268 per excess metric tonne) is owed. A final compliance memo is generated for the building owner.",
+  "domain": "real_estate",
+  "skills": [
+    {
+      "name": "unit-convert",
+      "path": "original_skills/unit-convert",
+      "modified_path": "modified_skills/unit-convert"
+    },
+    {
+      "name": "financial-calculator",
+      "path": "original_skills/financial-calculator",
+      "modified_path": "modified_skills/financial-calculator"
+    },
+    {
+      "name": "reporting",
+      "path": "original_skills/reporting",
+      "modified_path": "modified_skills/reporting"
+    }
+  ],
+  "info_flow": "unit-convert translates the building's gross floor area (ft2 -> m2) -> the agent uses the converted m2 value to compute the annual carbon emission limit under LL97 (limit_kg = area_m2 * intensity_threshold_kg_per_m2) -> financial-calculator computes the penalty gap (actual_emissions_kg - limit_kg) and multiplies excess by $268/tonne -> reporting writes the compliance memo with the penalty amount.",
+  "cascade_paradigm": "compositional"
+}

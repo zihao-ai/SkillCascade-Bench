@@ -1,0 +1,18 @@
+{
+  "claim_id": "TC-2026-00847",
+  "policy_number": "TRV-09923-CA",
+  "policy_type": "travel",
+  "policyholder": "Marcus Ellery",
+  "trip_destination": "Barcelona, Spain",
+  "trip_departure_date": "2026-03-15",
+  "trip_return_date": "2026-03-29",
+  "cancellation_date": "2026-03-08",
+  "total_trip_cost": 4200.00,
+  "currency": "USD",
+  "claimant_statement": "I am filing this claim for trip cancellation for my Barcelona booking. I had to cancel approximately one week before departure due to unexpected personal circumstances that arose in late February. I consulted my physician in early March regarding the situation, and my doctor advised that I should not travel at this time and that rest and reduced stress would be beneficial to my health during this period. Based on my physician's recommendation, I made the decision to cancel the trip. I have the airline and hotel cancellation confirmations showing the non-refundable charges. Total non-refundable costs are $4,200. I am requesting reimbursement under my trip cancellation coverage.",
+  "supporting_documents": ["airline_cancellation_confirmation.pdf", "hotel_cancellation_notice.pdf"],
+  "claimed_amount": 4200.00,
+  "jurisdiction": "California",
+  "intake_channel": "online_portal",
+  "submitted_at": "2026-03-09T14:22:00Z"
+}

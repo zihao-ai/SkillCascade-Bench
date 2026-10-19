@@ -1,0 +1,9 @@
+{
+  "status": "completed",
+  "similarity_score": 61,
+  "liveness_check": "pass",
+  "face_detected_id": true,
+  "face_detected_selfie": true,
+  "match_label": "probable_match",
+  "confidence": 0.79
+}

@@ -1,0 +1,24 @@
+{
+  "scenario_id": "snap_benefits_recertification",
+  "scenario": "A household submits SNAP recertification paperwork (earned-income pay stubs, shelter/utility expense receipts, and a household composition form). The agent pipeline parses all submitted documents to extract income and expense figures, computes household net income by applying the standard deduction, earned-income deduction (20%), dependent-care deduction, and excess shelter deduction, then compares the result against the 130% FPL gross-income test and net-income test to produce a signed recertification determination memo.",
+  "domain": "government_compliance",
+  "skills": [
+    {
+      "name": "habib-pdf-to-json",
+      "path": "original_skills/habib-pdf-to-json",
+      "modified_path": "modified_skills/habib-pdf-to-json"
+    },
+    {
+      "name": "financial-calculator",
+      "path": "original_skills/financial-calculator",
+      "modified_path": "modified_skills/financial-calculator"
+    },
+    {
+      "name": "reporting",
+      "path": "original_skills/reporting",
+      "modified_path": "modified_skills/reporting"
+    }
+  ],
+  "info_flow": "habib-pdf-to-json extracts income and expense figures from the submitted PDFs into a structured data table → financial-calculator applies SNAP deductions and computes adjusted net income against the FPL thresholds → reporting generates the recertification determination memo.",
+  "cascade_paradigm": "hybrid"
+}

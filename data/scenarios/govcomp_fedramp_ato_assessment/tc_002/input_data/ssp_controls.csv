@@ -1,0 +1,62 @@
+Control ID,Control Family,Control Name,Status,Implementation Notes,Responsible Party
+AC-1,Access Control,Access Control Policy and Procedures,Implemented,Policy documented in SSP Section 3.1,ISSO
+AC-2,Access Control,Account Management,Partially Implemented,Account creation process defined but quarterly reviews not yet automated,System Owner
+AC-3,Access Control,Access Enforcement,Implemented,Role-based access enforced via IAM,System Owner
+AC-4,Access Control,Information Flow Enforcement,Partially Implemented,Network segmentation partial; east-west inspection not deployed,Network Team
+AC-5,Access Control,Separation of Duties,Not Implemented,Duty separation matrix not yet drafted,ISSO
+AC-6,Access Control,Least Privilege,Partially Implemented,Principle documented; privilege review cadence not established,System Owner
+AC-7,Access Control,Unsuccessful Logon Attempts,Implemented,Lockout policy configured at 5 attempts,System Owner
+AC-8,Access Control,System Use Notification,Implemented,Login banners deployed on all endpoints,System Owner
+AC-11,Access Control,Session Lock,Partially Implemented,Lock configured for workstations; servers exempt pending patch,System Owner
+AC-12,Access Control,Session Termination,Implemented,Idle timeout set to 15 minutes,System Owner
+AC-14,Access Control,Permitted Actions without Identification,Implemented,Public-facing pages do not expose sensitive functions,System Owner
+AC-17,Access Control,Remote Access,Partially Implemented,VPN enforced for admin; developer remote access via SSH keys only,Network Team
+AC-18,Access Control,Wireless Access,Implemented,WPA3 enforced; guest SSID isolated,Network Team
+AC-19,Access Control,Access Control for Mobile Devices,Partially Implemented,MDM enrolled for corporate devices; contractor devices unmanaged,ISSO
+AC-20,Access Control,Use of External Information Systems,Not Implemented,Third-party system inventory and agreements not completed,ISSO
+AC-21,Access Control,Information Sharing,Partially Implemented,Data sharing agreements in progress for 2 of 5 external partners,System Owner
+AC-22,Access Control,Publicly Accessible Content,Implemented,Content review process documented,ISSO
+IA-1,Identification & Authentication,Identification and Authentication Policy,Implemented,Policy in SSP Section 4.2,ISSO
+IA-2,Identification & Authentication,Identification and Authentication (Organizational Users),Implemented,MFA enforced for all organizational users,System Owner
+IA-3,Identification & Authentication,Device Identification and Authentication,Partially Implemented,Device certificates deployed for servers; IoT devices pending,Network Team
+IA-4,Identification & Authentication,Identifier Management,Partially Implemented,Unique IDs assigned; annual re-validation not yet scheduled,ISSO
+IA-5,Identification & Authentication,Authenticator Management,Partially Implemented,Password complexity enforced; hardware token rollout 60% complete,System Owner
+IA-6,Identification & Authentication,Authenticator Feedback,Implemented,Password masking enabled across all web forms,System Owner
+IA-7,Identification & Authentication,Cryptographic Module Authentication,Partially Implemented,FIPS 140-2 modules in use for 8 of 12 cryptographic services,System Owner
+IA-8,Identification & Authentication,Identification and Authentication (Non-Org Users),Implemented,Federated identity via PIV for external agency users,ISSO
+IA-9,Identification & Authentication,Service Identification and Authentication,Not Implemented,Service account inventory not completed; mutual TLS not deployed,Network Team
+IA-10,Identification & Authentication,Adaptive Identification and Authentication,Partially Implemented,Risk-based MFA in pilot for 30% of user base,System Owner
+IA-11,Identification & Authentication,Re-Authentication,Partially Implemented,Re-auth on privilege escalation; not enforced on extended sessions,System Owner
+SC-1,System & Communications Protection,System and Communications Protection Policy,Implemented,Policy documented in SSP Section 6.1,ISSO
+SC-2,System & Communications Protection,Application Partitioning,Partially Implemented,Application tier separated; database tier shares subnet with middleware,Network Team
+SC-3,System & Communications Protection,Security Function Isolation,Partially Implemented,Security functions run as separate OS processes; shared kernel,System Owner
+SC-4,System & Communications Protection,Information in Shared Resources,Implemented,Memory sanitized between sessions via OS controls,System Owner
+SC-5,System & Communications Protection,Denial of Service Protection,Partially Implemented,Rate limiting at edge; no volumetric DDoS mitigation contract,Network Team
+SC-7,System & Communications Protection,Boundary Protection,Partially Implemented,Perimeter firewall operational; micro-segmentation roadmap not funded,Network Team
+SC-8,System & Communications Protection,Transmission Confidentiality and Integrity,Implemented,TLS 1.2+ enforced on all external interfaces,System Owner
+SC-10,System & Communications Protection,Network Disconnect,Implemented,TCP keepalive and session expiry configured,System Owner
+SC-12,System & Communications Protection,Cryptographic Key Establishment and Management,Partially Implemented,Key management procedures documented; HSM pending procurement,System Owner
+SC-13,System & Communications Protection,Cryptographic Protection,Implemented,AES-256 used for data at rest and in transit,System Owner
+SC-15,System & Communications Protection,Collaborative Computing Devices,Not Implemented,Remote access controls for cameras and microphones not implemented,ISSO
+SC-17,System & Communications Protection,Public Key Infrastructure Certificates,Partially Implemented,Internal PKI operational; cross-certification with federal PKI in progress,ISSO
+SC-18,System & Communications Protection,Mobile Code,Implemented,Mobile code restrictions enforced via browser policy,System Owner
+SC-20,System & Communications Protection,Secure Name / Address Resolution Service,Implemented,DNSSEC validated; split-horizon DNS deployed,Network Team
+SC-22,System & Communications Protection,Architecture and Provisioning for Name/Address Resolution Service,Implemented,Redundant DNS resolvers deployed in separate availability zones,Network Team
+SC-23,System & Communications Protection,Session Authenticity,Implemented,Session tokens cryptographically bound; anti-replay enforced,System Owner
+SC-28,System & Communications Protection,Protection of Information at Rest,Partially Implemented,Encryption at rest for primary database; backup tapes unencrypted,System Owner
+AU-1,Audit and Accountability,Audit and Accountability Policy,Implemented,Policy in SSP Section 5.1,ISSO
+AU-2,Audit and Accountability,Audit Events,Implemented,Audit event categories defined and configured in SIEM,System Owner
+AU-3,Audit and Accountability,Content of Audit Records,Implemented,Audit records include user ID, timestamp, event type, outcome,System Owner
+AU-6,Audit and Accountability,Audit Review, Analysis, and Reporting,Implemented,Weekly automated SIEM review with monthly analyst review,ISSO
+AU-9,Audit and Accountability,Protection of Audit Information,Implemented,Audit logs written to immutable S3 bucket with object lock,System Owner
+CA-1,Security Assessment and Authorization,Security Assessment and Authorization Policy,Implemented,Policy documented in SSP Section 7.1,ISSO
+CA-2,Security Assessment and Authorization,Security Assessments,Implemented,Annual third-party security assessment completed,ISSO
+CA-3,Security Assessment and Authorization,System Interconnections,Implemented,ISA/MOU documented for all system interconnections,ISSO
+CM-1,Configuration Management,Configuration Management Policy,Implemented,Policy in SSP Section 8.1,ISSO
+CM-2,Configuration Management,Baseline Configuration,Implemented,Baseline configurations documented and stored in SCM,System Owner
+CM-6,Configuration Management,Configuration Settings,Implemented,CIS Level 2 benchmarks applied to all servers,System Owner
+IR-1,Incident Response,Incident Response Policy,Implemented,Policy in SSP Section 9.1,ISSO
+IR-4,Incident Response,Incident Handling,Implemented,Incident response plan tested annually; contacts updated quarterly,ISSO
+SI-1,System and Information Integrity,System and Information Integrity Policy,Implemented,Policy in SSP Section 10.1,ISSO
+SI-2,System and Information Integrity,Flaw Remediation,Implemented,Patching SLAs defined: critical 72h, high 30d,System Owner
+SI-3,System and Information Integrity,Malicious Code Protection,Implemented,EDR deployed on all endpoints and servers,System Owner

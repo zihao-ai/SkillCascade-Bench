@@ -1,0 +1,24 @@
+{
+  "scenario_id": "pharma_anda_bioequivalence_assessment",
+  "scenario": "A generic drug sponsor's regulatory affairs scientist processes raw pharmacokinetic data from a two-period crossover bioequivalence study, computes AUC and Cmax ratios with 90% confidence intervals, and generates an FDA-style bioequivalence assessment memo to determine whether the generic formulation meets the 80–125% BE acceptance window for ANDA submission.",
+  "domain": "pharmaceutical_drug_discovery",
+  "skills": [
+    {
+      "name": "clinical-data-cleaner",
+      "path": "original_skills/clinical-data-cleaner",
+      "modified_path": "modified_skills/clinical-data-cleaner"
+    },
+    {
+      "name": "ub2-csv-data-analyzer",
+      "path": "original_skills/ub2-csv-data-analyzer",
+      "modified_path": "modified_skills/ub2-csv-data-analyzer"
+    },
+    {
+      "name": "reporting",
+      "path": "original_skills/reporting",
+      "modified_path": "modified_skills/reporting"
+    }
+  ],
+  "info_flow": "clinical-data-cleaner ingests raw PK concentration-time data from the crossover study CSV and produces a cleaned SDTM-formatted dataset → ub2-csv-data-analyzer reads the cleaned data and computes AUC(0-t), Cmax, T/R geometric mean ratios, and 90% confidence intervals → reporting assembles a structured bioequivalence assessment memo citing whether the 80–125% acceptance criterion is met.",
+  "cascade_paradigm": "causal"
+}

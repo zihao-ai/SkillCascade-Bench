@@ -1,0 +1,19 @@
+PHYSICIAN CERTIFICATION FOR EMPLOYEE LEAVE
+Date: April 14, 2026
+Patient: Marcus Delray  DOB: 1988-07-22
+Physician: Dr. Anita Sorensen, MD  NPI: 1234567890
+Practice: Hillside Family Medicine, 44 Oak Blvd, Springfield, IL 62701
+
+CLINICAL FINDINGS:
+Patient presented on April 11, 2026 with nasal congestion, facial pressure, and purulent nasal discharge of approximately 8 days duration. Clinical examination and symptom history consistent with acute bacterial sinusitis. No fever recorded at time of visit (37.1°C). No evidence of systemic spread or complications.
+
+DIAGNOSIS: Acute bacterial sinusitis (ICD-10: J01.90)
+
+TREATMENT PLAN:
+Prescribed amoxicillin-clavulanate 875mg/125mg BID x 10 days. Patient advised to rest for 3 days and avoid workplace environments with circulated air systems during active infection phase to prevent transmission. Follow-up in 14 days if symptoms persist.
+
+WORK CAPACITY:
+Patient is capable of light office duties but physician recommends 3 days absence (April 11–13, 2026) to allow initial antibiotic response and reduce transmission risk. No surgical procedure or hospitalization required. Patient is expected to return to full capacity by April 14, 2026.
+
+PHYSICIAN SIGNATURE: Dr. A. Sorensen, MD
+LICENSE: IL-MD-298471

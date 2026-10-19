@@ -1,0 +1,9 @@
+station_id,obs_datetime,wind_speed_kt,wind_type,qc_flag,station_lat,station_lon,station_name
+KCRP,2025-07-08T14:00:00Z,47.5,sustained,good,27.7703,-97.5022,Corpus Christi Intl
+KCRP,2025-07-08T15:00:00Z,55.8,sustained,good,27.7703,-97.5022,Corpus Christi Intl
+KCRP,2025-07-08T16:00:00Z,62.1,sustained,good,27.7703,-97.5022,Corpus Christi Intl
+KCRP,2025-07-08T16:30:00Z,65.4,gust,good,27.7703,-97.5022,Corpus Christi Intl
+KCRP,2025-07-08T17:00:00Z,71.2,gust,good,27.7703,-97.5022,Corpus Christi Intl
+KCRP,2025-07-08T17:30:00Z,69.8,gust,good,27.7703,-97.5022,Corpus Christi Intl
+KCRP,2025-07-08T18:00:00Z,60.3,sustained,good,27.7703,-97.5022,Corpus Christi Intl
+KCRP,2025-07-08T19:00:00Z,52.1,sustained,good,27.7703,-97.5022,Corpus Christi Intl

@@ -1,0 +1,24 @@
+{
+  "scenario_id": "pretrial_release_risk_assessment",
+  "scenario": "A county court's pretrial services agent processes a defendant's arraignment packet to produce a detention/release recommendation for the presiding judge. The pipeline extracts structured defendant profile data (ZIP code, housing history, employment record, prior contacts, FTA history) from the booking PDF, computes a weighted risk tier score across multiple dimensions, and generates a formal pretrial recommendation memo (Release on Recognizance / Release with Conditions / Detain).",
+  "domain": "legal",
+  "skills": [
+    {
+      "name": "habib-pdf-to-json",
+      "path": "original_skills/habib-pdf-to-json",
+      "modified_path": "modified_skills/habib-pdf-to-json"
+    },
+    {
+      "name": "afrexai-hiring-scorecard",
+      "path": "original_skills/afrexai-hiring-scorecard",
+      "modified_path": "modified_skills/afrexai-hiring-scorecard"
+    },
+    {
+      "name": "reporting",
+      "path": "original_skills/reporting",
+      "modified_path": "modified_skills/reporting"
+    }
+  ],
+  "info_flow": "habib-pdf-to-json extracts and normalizes defendant profile fields from the arraignment PDF into a structured JSON record → afrexai-hiring-scorecard applies a weighted multi-criterion scoring model to compute a risk tier and recommendation → reporting produces a formatted pretrial memo for the judge.",
+  "cascade_paradigm": "compositional"
+}

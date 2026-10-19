@@ -1,0 +1,15 @@
+referral_id,referring_physician_npi,referring_physician_name,specialty,referred_to_facility,referral_date,service_category,referral_count_ytd
+REF-001,1234567890,Dr. Raymond Ortega,Orthopedic Surgery,Valley Regional Medical Center,2025-01-15,Orthopedic Procedures,389
+REF-002,1234567890,Dr. Raymond Ortega,Orthopedic Surgery,Valley Regional Medical Center,2025-02-20,Physical Therapy,241
+REF-003,2345678901,Dr. Sandra Kline,Orthopedic Surgery,Valley Regional Medical Center,2025-01-10,Orthopedic Procedures,354
+REF-004,2345678901,Dr. Sandra Kline,Orthopedic Surgery,Valley Regional Medical Center,2025-03-05,Physical Therapy,218
+REF-005,6789012345,Dr. Harold Chen,Orthopedic Surgery,Valley Regional Medical Center,2025-02-01,Orthopedic Procedures,44
+REF-006,7890123456,Dr. Angela Torres,Orthopedic Surgery,Valley Regional Medical Center,2025-02-10,Orthopedic Procedures,38
+REF-007,3456789012,Dr. Marcus Webb,Cardiology,Valley Regional Medical Center,2025-01-22,Cardiac Procedures,301
+REF-008,3456789012,Dr. Marcus Webb,Cardiology,Valley Regional Medical Center,2025-02-14,Cardiac Imaging,203
+REF-009,4567890123,Dr. Priya Nair,Cardiology,Valley Regional Medical Center,2025-01-30,Cardiac Procedures,278
+REF-010,4567890123,Dr. Priya Nair,Cardiology,Valley Regional Medical Center,2025-03-18,Cardiac Imaging,195
+REF-011,8901234567,Dr. Leon Park,Cardiology,Valley Regional Medical Center,2025-02-05,Cardiac Procedures,29
+REF-012,9012345678,Dr. Maria Santos,Cardiology,Valley Regional Medical Center,2025-03-01,Cardiac Procedures,21
+REF-013,5678901234,Dr. Thomas Fenn,Gastroenterology,Valley Regional Medical Center,2025-02-05,GI Procedures,198
+REF-014,5678901234,Dr. Thomas Fenn,Gastroenterology,Valley Regional Medical Center,2025-03-22,Colonoscopy,143

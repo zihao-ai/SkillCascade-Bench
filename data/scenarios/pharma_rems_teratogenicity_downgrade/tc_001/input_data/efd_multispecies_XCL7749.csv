@@ -1,0 +1,9 @@
+STUDYID,COMPOUND,SPECIES,DOSE_MG_KG,DOSE_GROUP,N_DAMS,N_LITTERS_EXAMINED,IMPLANTATIONS_PER_LITTER,LIVE_FETUSES_PER_LITTER,RESORPTIONS_PER_LITTER,FETAL_WEIGHT_G,EXTERNAL_MALFORMATIONS_PCT,VISCERAL_MALFORMATIONS_PCT,SKELETAL_MALFORMATIONS_PCT,TOTAL_MALFORMATIONS_PCT,MALFORMATION_TYPE,NOAEL_ESTABLISHED,LOAEL_MG_KG,FINDING_SEVERITY,NOTES
+XCL7749-EFD-2025,XCL-7749,Rat,0,Control,25,25,13.2,12.8,0.4,3.42,0.0,0.0,0.5,0.5,None,N/A,N/A,0.0,Historical background range
+XCL7749-EFD-2025,XCL-7749,Rat,10,Low,25,25,13.1,12.7,0.4,3.38,0.0,0.0,0.6,0.6,None,N/A,N/A,0.0,No treatment-related findings
+XCL7749-EFD-2025,XCL-7749,Rat,50,Mid,25,25,13.0,12.6,0.5,3.35,0.0,0.4,0.8,0.8,Minor rib variants (non-adverse),N/A,N/A,0.0,Rib variants within historical range; not considered adverse
+XCL7749-EFD-2025,XCL-7749,Rat,150,High,25,25,12.9,12.4,0.5,3.25,0.0,0.4,1.1,1.1,Minor rib variants (non-adverse),N/A,N/A,0.0,No malformations; maternal toxicity (reduced body weight gain 8%)
+XCL7749-EFD-2025,XCL-7749,Rabbit,0,Control,22,22,8.4,7.9,0.5,42.1,0.0,0.0,0.6,0.6,None,N/A,N/A,0.0,Historical background range
+XCL7749-EFD-2025,XCL-7749,Rabbit,3,Low,22,22,8.3,7.7,0.6,41.2,1.3,3.6,8.2,13.1,"Microphthalmia (2 fetuses); ventricular septal defect (3 fetuses); bent scapula (multiple litters)",No,3,1.0,Malformations at lowest tested dose; NOAEL not established
+XCL7749-EFD-2025,XCL-7749,Rabbit,10,Mid,22,22,8.2,7.4,0.8,38.9,2.7,6.1,14.3,23.1,"Microphthalmia (4 fetuses); VSD (6 fetuses); bent scapula/fused ribs (multiple litters); cleft palate (1 fetus)",No,3,1.0,Dose-response confirmed; malformations across all three litter-based parameters
+XCL7749-EFD-2025,XCL-7749,Rabbit,30,High,22,22,8.0,6.9,1.1,35.4,4.1,9.3,21.7,35.1,"Microphthalmia (6 fetuses); VSD (9 fetuses); bent scapula/fused ribs/cleft palate (multiple litters); fetal growth restriction",No,3,1.0,Severe dose-response; high fetal mortality; no NOAEL identified in rabbit

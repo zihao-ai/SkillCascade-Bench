@@ -1,0 +1,15 @@
+station_id,obs_datetime,wind_speed_kt,wind_type,qc_flag,station_lat,station_lon,station_name
+KBRO,2024-09-14T06:00:00Z,42.1,sustained,good,25.9063,-97.4244,Brownsville/South Padre Island
+KBRO,2024-09-14T07:00:00Z,48.3,sustained,good,25.9063,-97.4244,Brownsville/South Padre Island
+KBRO,2024-09-14T08:00:00Z,55.7,sustained,good,25.9063,-97.4244,Brownsville/South Padre Island
+KBRO,2024-09-14T08:30:00Z,58.2,sustained,good,25.9063,-97.4244,Brownsville/South Padre Island
+KBRO,2024-09-14T09:00:00Z,61.4,sustained,good,25.9063,-97.4244,Brownsville/South Padre Island
+KBRO,2024-09-14T09:15:00Z,68.9,gust,good,25.9063,-97.4244,Brownsville/South Padre Island
+KBRO,2024-09-14T09:30:00Z,72.3,gust,good,25.9063,-97.4244,Brownsville/South Padre Island
+KBRO,2024-09-14T09:45:00Z,70.1,gust,good,25.9063,-97.4244,Brownsville/South Padre Island
+KBRO,2024-09-14T10:00:00Z,66.8,gust,good,25.9063,-97.4244,Brownsville/South Padre Island
+KBRO,2024-09-14T10:30:00Z,60.2,sustained,good,25.9063,-97.4244,Brownsville/South Padre Island
+KBRO,2024-09-14T11:00:00Z,57.8,sustained,good,25.9063,-97.4244,Brownsville/South Padre Island
+KBRO,2024-09-14T12:00:00Z,51.3,sustained,good,25.9063,-97.4244,Brownsville/South Padre Island
+KBRO,2024-09-14T13:00:00Z,44.6,sustained,good,25.9063,-97.4244,Brownsville/South Padre Island
+KBRO,2024-09-14T14:00:00Z,38.1,sustained,good,25.9063,-97.4244,Brownsville/South Padre Island

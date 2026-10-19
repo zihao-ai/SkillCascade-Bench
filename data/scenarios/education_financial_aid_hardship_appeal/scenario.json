@@ -1,0 +1,24 @@
+{
+  "scenario_id": "education_financial_aid_hardship_appeal",
+  "scenario": "A university financial-aid office processes a student's hardship appeal. The student submits a written hardship narrative (PDF) explaining a parent's sudden job loss and an unexpected medical expense that occurred mid-semester. Supporting documents include a household income/expense breakdown in CSV format. The agent pipeline: (1) extracts text from the appeal PDF into a structured summary, (2) processes the income/expense CSV to compute a household need index, and (3) produces a formal appeal determination memo indicating APPROVED or DENIED with supporting rationale.",
+  "domain": "education",
+  "skills": [
+    {
+      "name": "pdf-extract",
+      "path": "original_skills/pdf-extract",
+      "modified_path": "modified_skills/pdf-extract"
+    },
+    {
+      "name": "csv-pipeline",
+      "path": "original_skills/csv-pipeline",
+      "modified_path": "modified_skills/csv-pipeline"
+    },
+    {
+      "name": "reporting",
+      "path": "original_skills/reporting",
+      "modified_path": "modified_skills/reporting"
+    }
+  ],
+  "info_flow": "pdf-extract extracts the hardship narrative and document text into plain text → csv-pipeline reads the household income/expense CSV, computes a household need index (total monthly expenses minus total monthly income, adjusted for household size), and outputs a summary JSON → reporting reads both the appeal text and the need-index summary to produce the formal determination memo.",
+  "cascade_paradigm": "causal"
+}

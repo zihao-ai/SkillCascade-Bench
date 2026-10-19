@@ -1,0 +1,20 @@
+BUILDING ENERGY & CARBON DATA SHEET
+NYC Local Law 97 — Annual Compliance Check
+Reporting Year: 2025
+
+Property: 200 Grand Street, New York, NY 10013
+BIN: 1006382
+Use Class: Residential / Mixed-Use (Group R-2 / B)
+Gross Floor Area: 62,000 sq ft
+
+Annual CO2e Emissions: 1,010,000 kg CO2e
+  (Electricity: 3,380,000 kWh @ 0.000289 t/kWh = 977 t; Gas: 625 therms @ 0.0531 kg/therm = 33 t)
+
+LL97 Intensity Threshold (2024-2029, mixed-use residential):
+  167.5 kg CO2e per square metre of gross floor area per year
+
+Penalty rate: $268 per excess metric ton CO2e
+  Fine = (Actual_kg - Limit_kg) / 1,000 * 268
+
+Submission deadline: May 1, 2026
+Contact: nyc.bps@buildings.nyc.gov

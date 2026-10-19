@@ -1,0 +1,24 @@
+{
+  "scenario_id": "legal_aid_eviction_intake",
+  "scenario": "A pro-bono legal-aid nonprofit processes a tenant's eviction defense application. The intake pipeline extracts the applicant's narrative and income documentation from a submitted PDF form, evaluates the applicant's eligibility against the organization's income threshold and case-type policy, and generates a formal intake determination memo indicating whether the applicant qualifies for free representation.",
+  "domain": "legal",
+  "skills": [
+    {
+      "name": "pdf-extract",
+      "path": "original_skills/pdf-extract",
+      "modified_path": "modified_skills/pdf-extract"
+    },
+    {
+      "name": "presale-regulation-auditor",
+      "path": "original_skills/presale-regulation-auditor",
+      "modified_path": "modified_skills/presale-regulation-auditor"
+    },
+    {
+      "name": "reporting",
+      "path": "original_skills/reporting",
+      "modified_path": "modified_skills/reporting"
+    }
+  ],
+  "info_flow": "pdf-extract parses the applicant's submitted intake form PDF to produce a structured text summary of income figures and case details → presale-regulation-auditor evaluates the extracted data against the legal-aid eligibility policy (income threshold, household size, case type) → reporting generates a formal intake determination memo with an ELIGIBLE or INELIGIBLE verdict.",
+  "cascade_paradigm": "compositional"
+}

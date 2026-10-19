@@ -1,0 +1,4 @@
+claim_id,claimant_id,claimant_name,policy_number,claim_date,incident_type,amount_claimed,amount_paid,status,fraud_flag,fraud_notes,closed_date
+CLM-2025-00831,CL-55107,Denise Okafor,AUTO-PA-55107-2021,2025-02-14,Vehicle theft - total loss,21000.00,0.00,Denied,Y,VIN found active in DMV records two weeks post-theft report; claimant could not provide key fob; SIU confirmed staged theft,2025-04-03
+CLM-2025-00194,CL-55107,Denise Okafor,AUTO-PA-55107-2021,2025-01-09,Collision - rear-end,6400.00,5700.00,Closed,Y,Third-party claimant recanted; police report lists no other vehicle at scene; photos show pre-existing frame damage,2025-03-01
+CLM-2024-01502,CL-55107,Denise Okafor,AUTO-PA-55107-2021,2024-10-22,Fire damage - interior,9800.00,8500.00,Closed,Y,Accelerant residue detected by fire investigator; claimant statement inconsistent with fire marshal report; SIU referred,2024-12-18

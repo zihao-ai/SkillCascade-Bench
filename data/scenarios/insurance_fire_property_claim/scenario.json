@@ -1,0 +1,24 @@
+{
+  "scenario_id": "insurance_fire_property_claim",
+  "scenario": "A property claims adjuster processes a residential fire damage claim: the replacement cost of damaged items is calculated using the financial calculator, the insurance claims processor evaluates coverage and produces a reserve estimate and settlement recommendation, and the reporting skill generates the final claim disposition report for the file.",
+  "domain": "insurance_claims",
+  "skills": [
+    {
+      "name": "financial-calculator",
+      "path": "original_skills/financial-calculator",
+      "modified_path": "modified_skills/financial-calculator"
+    },
+    {
+      "name": "afrexai-insurance-claims",
+      "path": "original_skills/afrexai-insurance-claims",
+      "modified_path": "modified_skills/afrexai-insurance-claims"
+    },
+    {
+      "name": "reporting",
+      "path": "original_skills/reporting",
+      "modified_path": "modified_skills/reporting"
+    }
+  ],
+  "info_flow": "financial-calculator computes the replacement cost of fire-damaged property items → afrexai-insurance-claims maps coverage, assesses liability, and produces a reserve estimate and settlement range using the replacement cost as input → reporting generates the final claim disposition report summarizing all findings.",
+  "cascade_paradigm": "compositional"
+}

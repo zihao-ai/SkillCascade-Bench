@@ -1,0 +1,31 @@
+{
+  "applicant_id": "APP-2026-0042",
+  "loan_request": {
+    "loan_amount": 304000,
+    "loan_purpose": "purchase",
+    "loan_type": "conventional_30yr"
+  },
+  "financials": {
+    "gross_monthly_income": 9500,
+    "monthly_debt_obligations": 1330,
+    "dti_ratio": 0.35,
+    "credit_score": 742,
+    "down_payment": 76000,
+    "down_payment_pct": 0.20
+  },
+  "collateral": {
+    "property_address": "214 Oakridge Blvd, Lakewood",
+    "zip_code": "80228",
+    "appraised_value": 380000,
+    "property_type": "single_family_residence",
+    "year_built": 1991,
+    "neighborhood_market_data": {
+      "annual_resale_volume": 520,
+      "avg_days_on_market": 18,
+      "new_construction_ratio": 0.22,
+      "primary_employer_sector": "technology/financial_services",
+      "employer_sector_share": 0.55
+    }
+  },
+  "notes": "First-time homebuyer. Stable employment 6 years at regional tech firm."
+}

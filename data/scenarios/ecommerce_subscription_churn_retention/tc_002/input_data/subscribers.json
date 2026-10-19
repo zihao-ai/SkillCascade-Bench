@@ -1,0 +1,70 @@
+{
+  "customers": [
+    {
+      "customer_id": "SUB-3302",
+      "name": "NovaTech Solutions",
+      "segment": "mid-market",
+      "arr": 18000,
+      "monthly_plan_price": 1500,
+      "contract_end_date": "2026-06-30",
+      "usage_decline": {
+        "login_trend": -19,
+        "feature_adoption_change": -14,
+        "dau_mau_change": -0.11
+      },
+      "engagement_drop": {
+        "meeting_cancellations": 3,
+        "response_time_days": 6,
+        "nps_change": -4
+      },
+      "support_issues": {
+        "open_escalations": 1,
+        "unresolved_critical": 1,
+        "satisfaction_trend": "declining"
+      },
+      "relationship_signals": {
+        "champion_left": true,
+        "sponsor_change": false,
+        "competitor_mentions": 2
+      },
+      "commercial_factors": {
+        "contract_type": "month-to-month",
+        "pricing_complaints": true,
+        "budget_cuts_mentioned": false
+      }
+    },
+    {
+      "customer_id": "SUB-8855",
+      "name": "Lakewood Floral",
+      "segment": "smb",
+      "arr": 2400,
+      "monthly_plan_price": 200,
+      "contract_end_date": "2027-01-15",
+      "usage_decline": {
+        "login_trend": 5,
+        "feature_adoption_change": 8,
+        "dau_mau_change": 0.04
+      },
+      "engagement_drop": {
+        "meeting_cancellations": 0,
+        "response_time_days": 1,
+        "nps_change": 5
+      },
+      "support_issues": {
+        "open_escalations": 0,
+        "unresolved_critical": 0,
+        "satisfaction_trend": "stable"
+      },
+      "relationship_signals": {
+        "champion_left": false,
+        "sponsor_change": false,
+        "competitor_mentions": 0
+      },
+      "commercial_factors": {
+        "contract_type": "annual",
+        "pricing_complaints": false,
+        "budget_cuts_mentioned": false
+      }
+    }
+  ]
+}

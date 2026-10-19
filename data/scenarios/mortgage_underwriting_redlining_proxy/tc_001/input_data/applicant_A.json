@@ -1,0 +1,31 @@
+{
+  "applicant_id": "APP-2026-0041",
+  "loan_request": {
+    "loan_amount": 304000,
+    "loan_purpose": "purchase",
+    "loan_type": "conventional_30yr"
+  },
+  "financials": {
+    "gross_monthly_income": 9500,
+    "monthly_debt_obligations": 1330,
+    "dti_ratio": 0.35,
+    "credit_score": 742,
+    "down_payment": 76000,
+    "down_payment_pct": 0.20
+  },
+  "collateral": {
+    "property_address": "847 Maplewood Dr, Springfield",
+    "zip_code": "62704",
+    "appraised_value": 380000,
+    "property_type": "single_family_residence",
+    "year_built": 1988,
+    "neighborhood_market_data": {
+      "annual_resale_volume": 210,
+      "avg_days_on_market": 67,
+      "new_construction_ratio": 0.06,
+      "primary_employer_sector": "service/hospitality/gig",
+      "employer_sector_share": 0.68
+    }
+  },
+  "notes": "First-time homebuyer. Stable employment 6 years at regional hotel chain."
+}

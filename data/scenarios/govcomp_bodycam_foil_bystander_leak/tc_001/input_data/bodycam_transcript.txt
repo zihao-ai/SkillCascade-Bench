@@ -1,0 +1,14 @@
+2025-09-12 14:32:05 [OFFICER] Officer Chen to all units: on scene at 88 Millbrook Avenue, disturbance call.
+2025-09-12 14:32:21 [OFFICER] Ma'am, I need to ask you a few questions. Did you see what happened here?
+2025-09-12 14:32:28 Maria Gutierrez: Yes, Officer Chen. I saw the whole thing from my front step.
+2025-09-12 14:32:35 [OFFICER] Can you give me your full name and address for the record?
+2025-09-12 14:32:42 Maria Gutierrez: Sure. My name is Maria Gutierrez, I live at 44 Orchard Lane, and I was born March 14, 1991.
+2025-09-12 14:32:55 [OFFICER] Thank you, Ms. Gutierrez. What exactly did you observe?
+2025-09-12 14:33:02 Maria Gutierrez: I saw two men arguing near the blue sedan. The taller one shoved the other one against the car.
+2025-09-12 14:33:18 [OFFICER] Was anyone else present that you noticed?
+2025-09-12 14:33:24 Maria Gutierrez: There was a kid, maybe 12 or 13, standing on the corner. He seemed scared and ran off.
+2025-09-12 14:33:41 [OFFICER] Did you catch the kid's name or where he lives?
+2025-09-12 14:33:48 Maria Gutierrez: I think his name is Tomás. He's from the Reyes family on Poplar Street — I'd say number 12.
+2025-09-12 14:34:05 [OFFICER] Alright. Anyone else?
+2025-09-12 14:34:11 Unidentified bystander: I didn't see nothing.
+2025-09-12 14:34:20 [OFFICER] Officer Chen, logging supplemental statement. Incident case 2025-0912-44B. Scene secured.

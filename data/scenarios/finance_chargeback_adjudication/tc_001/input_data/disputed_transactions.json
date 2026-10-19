@@ -1,0 +1,40 @@
+{
+  "dispute_batch_id": "CB-2026-0415",
+  "submitted_by": "CardHolder Services Team",
+  "submission_date": "2026-04-15",
+  "disputes": [
+    {
+      "txn_id": "TXN-001",
+      "card_last4": "4821",
+      "transaction_date": "2026-04-10",
+      "merchant": "ElectroMax Online",
+      "merchant_category": "Electronics",
+      "amount": 500.00,
+      "currency": "USD",
+      "cardholder_claim": "I never made this purchase. My card was used without authorization while I was traveling.",
+      "evidence_submitted": ["police_report_ref_2026-1042", "travel_itinerary_Apr10.pdf"]
+    },
+    {
+      "txn_id": "TXN-002",
+      "card_last4": "4821",
+      "transaction_date": "2026-04-11",
+      "merchant": "StreamNow Subscriptions",
+      "merchant_category": "Digital Services",
+      "amount": 320.00,
+      "currency": "USD",
+      "cardholder_claim": "This charge appeared twice on my statement for the same billing period. The first charge for $320 on April 9 was valid, but this second one on April 11 is a duplicate.",
+      "evidence_submitted": ["statement_screenshot_Apr.png", "subscription_confirmation_Apr9.pdf"]
+    },
+    {
+      "txn_id": "TXN-003",
+      "card_last4": "4821",
+      "transaction_date": "2026-04-12",
+      "merchant": "CafeBean Coffee",
+      "merchant_category": "Food & Beverage",
+      "amount": 18.50,
+      "currency": "USD",
+      "cardholder_claim": "I ordered a coffee and a sandwich but was charged for two sandwiches. The receipt shows the correct amount of $9.75 but my card was charged $18.50.",
+      "evidence_submitted": ["receipt_CafeBean_Apr12.pdf"]
+    }
+  ]
+}

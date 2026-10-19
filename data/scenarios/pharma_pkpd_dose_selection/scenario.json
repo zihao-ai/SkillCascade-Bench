@@ -1,0 +1,24 @@
+{
+  "scenario_id": "pharma_pkpd_dose_selection",
+  "scenario": "A clinical pharmacologist reviews sparse PK sampling data from a Phase I dose-escalation study. The workflow: (1) clean and standardize the raw LB-domain CDISC dataset to remove outlier concentration readings and impute missing values, (2) profile the investigational drug compound via ADME/PK analysis from its SMILES to derive plasma protein binding, CYP3A4 liability, and solubility characteristics, (3) generate a structured clinical pharmacology assessment memo that integrates the cleaned PK data summary with the ADME profile to recommend a Phase II starting dose for the IND submission package.",
+  "domain": "pharmaceutical_drug_discovery",
+  "skills": [
+    {
+      "name": "clinical-data-cleaner",
+      "path": "original_skills/clinical-data-cleaner",
+      "modified_path": "modified_skills/clinical-data-cleaner"
+    },
+    {
+      "name": "pharma-pharmacology-agent",
+      "path": "original_skills/pharma-pharmacology-agent",
+      "modified_path": "modified_skills/pharma-pharmacology-agent"
+    },
+    {
+      "name": "reporting",
+      "path": "original_skills/reporting",
+      "modified_path": "modified_skills/reporting"
+    }
+  ],
+  "info_flow": "clinical-data-cleaner cleans the Phase I PK concentration dataset (LB domain CSV) → pharma-pharmacology-agent computes ADME descriptors from the drug's SMILES and returns a PK profile with PPB, CYP3A4, solubility → reporting synthesizes the cleaned data summary and ADME profile into a clinical pharmacology dose-selection memo for IND filing.",
+  "cascade_paradigm": "causal"
+}

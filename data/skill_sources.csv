@@ -1,0 +1,87 @@
+skill_name,source_platform,github_url,clawhub_url,notes
+admet-prediction,ClawHub,,https://clawhub.ai/huifer/skills/admet-prediction,
+affiliate-master,ClawHub,https://github.com/vernox/affiliate-master,https://clawhub.ai,ClawHub listing unavailable (HTTP 404 on 2026-10-19). GitHub URL recorded in the original SKILL.md. ClawHub link points to the registry homepage; the publisher-specific URL could not be confirmed. Recorded GitHub URL returns HTTP 404 as of 2026-10-19; retained for provenance.
+afrexai-compensation-planner,ClawHub,,https://clawhub.ai/1kalin/skills/afrexai-compensation-planner,
+afrexai-hiring-scorecard,ClawHub,,https://clawhub.ai/1kalin/skills/afrexai-hiring-scorecard,
+afrexai-insurance-claims,ClawHub,,https://clawhub.ai/1kalin/skills/afrexai-insurance-claims,
+afrexai-payroll-audit,ClawHub,,https://clawhub.ai/1kalin/skills/afrexai-payroll-audit,
+afrexai-real-estate-engine,ClawHub,,https://clawhub.ai/1kalin/skills/afrexai-real-estate-engine,
+ai-resume-screener,ClawHub,,https://clawhub.ai/yang1002378395-cmyk/skills/ai-resume-screener,
+appraisal-ai,ClawHub,,https://clawhub.ai/chadru/skills/appraisal-ai,
+arc-compliance-audit,ClawHub,,https://clawhub.ai/trypto1019/skills/arc-compliance-audit,
+arc-compliance-checker,ClawHub,,https://clawhub.ai/trypto1019/skills/arc-compliance-checker,ClawHub listing unavailable (HTTP 404 on 2026-10-19).
+carrier-relationship-management,ClawHub,,https://clawhub.ai/nocodemf/skills/carrier-relationship-management,
+chemistry-query,ClawHub,,https://clawhub.ai/cheminem/skills/chemistry-query,
+clarity-clinical,ClawHub,,https://clawhub.ai/clarityprotocol/skills/clarity-clinical,
+clawpify,ClawHub,,https://clawhub.ai/alhwyn/skills/clawpify,
+clawver-digital-products,ClawHub,,https://clawhub.ai/nwang783/skills/clawver-digital-products,
+clawver-reviews,ClawHub,,https://clawhub.ai/nwang783/skills/clawver-reviews,
+clinical-data-cleaner,ClawHub,,https://clawhub.ai/renhaosu2024/skills/clinical-data-cleaner,
+compliance-officer,ClawHub,,https://clawhub.ai/arberx/skills/compliance-officer,
+credit-repair-skill,ClawHub,,https://clawhub.ai/yoavfael/skills/credit-repair-skill,
+critical-article-writer,ClawHub,,https://clawhub.ai/tomstools11/skills/critical-article-writer,
+crm-data-cleaner,GitHub (ClawHub archive),https://github.com/openclaw/skills/commit/ee67a5d86b2ea7853fcbd2e5f2cd5a70d54c1b06,https://clawhub.ai/luigi08001/skills/crm-data-cleaner,Recorded GitHub URL returns HTTP 404 as of 2026-10-19; retained for provenance.
+csv-pipeline,GitHub (ClawHub archive),https://github.com/clawdbot/skills/commit/894c035377b300d3635af52ffbb8def15cfd0d0a,https://clawhub.ai/gitgoodordietrying/skills/csv-pipeline,Recorded GitHub URL returns HTTP 404 as of 2026-10-19; retained for provenance.
+currency-exchange,GitHub (ClawHub archive),https://github.com/openclaw/skills/commit/4edd3f5e2ca73936e2db6286937d11c062bca44d,https://clawhub.ai/ouyangabel/skills/currency-exchange,Recorded GitHub URL returns HTTP 404 as of 2026-10-19; retained for provenance.
+customer-retention,ClawHub,,https://clawhub.ai/jk-0001/skills/customer-retention,
+customer-success-manager,GitHub (ClawHub archive),https://github.com/alirezarezvani/claude-skills/blob/main/business-growth/skills/customer-success-manager/SKILL.md,https://clawhub.ai/alirezarezvani/skills/customer-success-manager,ClawHub listing unavailable (HTTP 404 on 2026-10-19). GitHub link points to the verified upstream package; the original snapshot metadata references the ClawHub GitHub archive.
+didit-aml-screening,ClawHub,,https://clawhub.ai/rosasalberto/skills/didit-aml-screening,
+didit-face-match,ClawHub,,https://clawhub.ai/rosasalberto/skills/didit-face-match,
+didit-id-verification,GitHub (ClawHub archive),https://github.com/openclaw/skills/commit/3422a727323069637ea2fb38090053fe682f92fe,https://clawhub.ai/rosasalberto/skills/didit-id-verification,ClawHub listing unavailable (HTTP 404 on 2026-10-19). Recorded GitHub URL returns HTTP 404 as of 2026-10-19; retained for provenance.
+drug-interaction-checker,ClawHub,,https://clawhub.ai/aipoch-ai/skills/drug-interaction-checker,
+drug-safety-review,ClawHub,,https://clawhub.ai/andyxcg/skills/drug-safety-review,
+email-resend,GitHub (ClawHub archive),https://github.com/openclaw/skills/commit/b584e44bb38b4ba865dab61ab88016eb89283f35,https://clawhub.ai/ivelin/skills/email-resend,Recorded GitHub URL returns HTTP 404 as of 2026-10-19; retained for provenance.
+emotion-detector,GitHub (ClawHub archive),https://github.com/openclaw/skills/commit/9ed544a751bb356ec4a9912967397b9ece0e47a5,https://clawhub.ai/daisuke134/skills/emotion-detector,Recorded GitHub URL returns HTTP 404 as of 2026-10-19; retained for provenance.
+estimate-builder-qmohd,GitHub (ClawHub archive),https://github.com/openclaw/skills/commit/62be1438a1e8b90dbb00ceb17b0b9f26f40ee34a,https://clawhub.ai/qmohd/skills/estimate-builder-qmohd,Recorded GitHub URL returns HTTP 404 as of 2026-10-19; retained for provenance.
+expanso-pii-redact,ClawHub,,https://clawhub.ai/aronchick/skills/expanso-pii-redact,
+expanso-text-summarize,ClawHub,,https://clawhub.ai/aronchick/skills/expanso-text-summarize,
+facticity-ai,ClawHub,,https://clawhub.ai/shahruj/skills/facticity-ai,
+finance-skill,ClawHub,,https://clawhub.ai/safaiyeh/skills/finance-skill,
+financial-calculator,ClawHub,,https://clawhub.ai/tarigha/skills/financial-calculator,
+habib-pdf-to-json,GitHub (ClawHub archive),https://github.com/openclaw/skills/commit/877ae5c6da368c594f17c6cfa6712188c158cb4c,https://clawhub.ai/dbmoradi60/skills/habib-pdf-to-json,Recorded GitHub URL returns HTTP 404 as of 2026-10-19; retained for provenance.
+hash-toolkit,ClawHub,,https://clawhub.ai/raghulpasupathi/skills/hash-toolkit,
+health-report,ClawHub,,https://clawhub.ai/jiwenbing/skills/health-report,
+icd10-cpt-coding-assistant,ClawHub,,https://clawhub.ai/aipoch-ai/skills/icd10-cpt-coding-assistant,
+idx-cma-report,ClawHub,,https://clawhub.ai/danielfoch/skills/idx-cma-report,
+interview-analysis,ClawHub,,https://clawhub.ai/mikonos/skills/interview-analysis,
+interview-designer,ClawHub,,https://clawhub.ai/mikonos/skills/interview-designer,
+legaldoc-ai,ClawHub,,https://clawhub.ai/manas-io-ai/skills/legaldoc-ai,
+loan,ClawHub,,https://clawhub.ai/prabu12478/skills/loan,
+medical-clinicaltrials,GitHub (ClawHub archive),https://github.com/openclaw/skills/commit/181fa69fdd1147cc44f65d1b4e4fb9226d549352,https://clawhub.ai/pascalwhoop/skills/medical-clinicaltrials,ClawHub listing unavailable (HTTP 404 on 2026-10-19). Recorded GitHub URL returns HTTP 404 as of 2026-10-19; retained for provenance.
+medical-entity-extractor,ClawHub,,https://clawhub.ai/binubmuse/skills/medical-entity-extractor,
+medical-triage,ClawHub,,https://clawhub.ai/binubmuse/skills/medical-triage,
+message-parser,ClawHub,,https://clawhub.ai/vishalgojha/skills/message-parser,
+mineru-pdf-extractor,ClawHub,,https://clawhub.ai/a-i-r/skills/mineru-pdf-extractor,
+nlp-toolkit,GitHub (ClawHub archive),https://github.com/openclaw/skills/commit/a297c0da744cc0437ddd7b6b296ba4073acf0eaf,https://clawhub.ai/raghulpasupathi/skills/nlp-toolkit,Recorded GitHub URL returns HTTP 404 as of 2026-10-19; retained for provenance.
+norman-categorize-transactions,ClawHub,,https://clawhub.ai/stanlee000/skills/norman-categorize-transactions,
+norman-tax-deduction-finder,GitHub (ClawHub archive),https://github.com/openclaw/skills/commit/a61dd23025046ceb528428f64602ce2781d2e6c0,https://clawhub.ai/stanlee000/skills/norman-tax-deduction-finder,Recorded GitHub URL returns HTTP 404 as of 2026-10-19; retained for provenance.
+norman-tax-report,ClawHub,,https://clawhub.ai/stanlee000/skills/norman-tax-report,
+paramus-chemistry,ClawHub,,https://clawhub.ai/gressling/skills/paramus-chemistry,
+pascalwhoop-medical-research-toolkit,ClawHub,,https://clawhub.ai/pascalwhoop/skills/medical-research-toolkit,
+patiently-ai,ClawHub,,https://clawhub.ai/nickjlamb/skills/patiently-ai,
+pdf-extract,ClawHub,,https://clawhub.ai/xejrax/skills/pdf-extract,
+pharma-pharmacology-agent,ClawHub,,https://clawhub.ai/cheminem/skills/pharma-pharmacology-agent,
+phenoskill,ClawHub,,https://clawhub.ai/kaichop/skills/phenoskill,
+pregna-risk,ClawHub,,https://clawhub.ai/cryptoreumd/skills/pregna-risk,
+presale-regulation-auditor,GitHub (ClawHub archive),https://github.com/openclaw/skills/commit/7f65460c571f6d8d3785bd97a1102b5241a476a1,https://clawhub.ai/dtsiomo/skills/presale-regulation-auditor,Recorded GitHub URL returns HTTP 404 as of 2026-10-19; retained for provenance.
+recruiter-assistant,ClawHub,,https://clawhub.ai/gakkiismywife/skills/recruiter-assistant,
+redacta,ClawHub,,https://clawhub.ai/nickjlamb/skills/redacta,
+remove-metadata-from-pdf,ClawHub,,https://clawhub.ai/crossservicesolutions/skills/remove-metadata-from-pdf,
+reporting,ClawHub,,https://clawhub.ai/staybased/skills/reporting,
+resume-and-cover-letter,ClawHub,,https://clawhub.ai/seanwyngaard/skills/resume-and-cover-letter,
+returns-reverse-logistics,ClawHub,,https://clawhub.ai/nocodemf/skills/returns-reverse-logistics,
+riskofficer,ClawHub,,https://clawhub.ai/mib424242/skills/riskofficer,
+sec-watcher,ClawHub,,https://clawhub.ai/sukanto-m/skills/sec-watcher,
+sentiment-priority-scorer,ClawHub,,https://clawhub.ai/vishalgojha/skills/sentiment-priority-scorer,
+social-sentiment,GitHub (ClawHub archive),https://github.com/openclaw/skills/commit/242638e355a464bad6680a7be02d53c4f45bc0ff,https://clawhub.ai/atyachin/skills/social-sentiment,Recorded GitHub URL returns HTTP 404 as of 2026-10-19; retained for provenance.
+source-library,ClawHub,,https://clawhub.ai/don-gbot/skills/source-library,
+stock-prices,GitHub (ClawHub archive),https://github.com/openclaw/skills/commit/f3b6a9fe4e5561fea89756aebefb08be226ed384,https://clawhub.ai/anthonylee1994/skills/stock-prices,Recorded GitHub URL returns HTTP 404 as of 2026-10-19; retained for provenance.
+summarize-pro,GitHub (ClawHub archive),https://github.com/openclaw/skills/commit/3e5187f9ae75305b5d70a63714b066dca7825cde,https://clawhub.ai/mkpareek0315/skills/summarize-pro,Recorded GitHub URL returns HTTP 404 as of 2026-10-19; retained for provenance.
+temporal-cortex-datetime,ClawHub,,https://clawhub.ai/billylui/skills/temporal-cortex-datetime,
+truthcheck,ClawHub,,https://clawhub.ai/baiyishr/skills/truthcheck,
+ub2-csv-data-analyzer,ClawHub,,https://clawhub.ai/underbench2-gif/skills/ub2-csv-data-analyzer,
+ub2-markdown-report-generator,GitHub (ClawHub archive),https://github.com/openclaw/skills/commit/60acd7fbb964ae53a283eac094a2b5726509139b,https://clawhub.ai/underbench2-gif/skills/ub2-markdown-report-generator,Recorded GitHub URL returns HTTP 404 as of 2026-10-19; retained for provenance.
+unit-convert,GitHub (ClawHub archive),https://github.com/openclaw/skills/commit/6b745ebb5b42e84422c1ee30a89b32aead1015b5,https://clawhub.ai/ouyangabel/skills/unit-convert,Recorded GitHub URL returns HTTP 404 as of 2026-10-19; retained for provenance.
+upinvoice,GitHub (ClawHub archive),https://github.com/openclaw/skills/commit/aa00158bd6b11766c4857ca786c9f88921c0a929,https://clawhub.ai/upinvoice/skills/upinvoice,Recorded GitHub URL returns HTTP 404 as of 2026-10-19; retained for provenance.
+verify-claims,GitHub (ClawHub archive),https://github.com/openclaw/skills/commit/4d6102fe106a989ed1d98da4a0f59810ee0d3920,https://clawhub.ai/asgraf/skills/verify-claims,Recorded GitHub URL returns HTTP 404 as of 2026-10-19; retained for provenance.
+web-scraper,ClawHub,,https://clawhub.ai/guifav/skills/web-scraper,

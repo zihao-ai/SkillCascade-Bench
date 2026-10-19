@@ -1,0 +1,40 @@
+{
+  "request_id": "b7c3d9e1-4f2a-48bc-a031-9d8e7f6c5b2a",
+  "aml": {
+    "status": "Approved",
+    "total_hits": 1,
+    "score": 94.5,
+    "hits": [
+      {
+        "id": "hit-kalinin-001",
+        "caption": "Kalinin Export Group",
+        "match_score": 94,
+        "risk_score": 91.2,
+        "review_status": "False Positive",
+        "datasets": ["Sanctions", "OFAC SDN"],
+        "properties": {
+          "name": ["Kalinin Export Group"],
+          "country": ["RU"]
+        },
+        "score_breakdown": {
+          "name_score": 94,
+          "name_weight": 100,
+          "dob_score": 0,
+          "dob_weight": 0,
+          "country_score": 0,
+          "country_weight": 0
+        },
+        "risk_view": {
+          "categories": {"score": 100, "risk_level": "High"},
+          "countries": {"score": 88, "risk_level": "High"},
+          "crimes": {"score": 72, "risk_level": "Medium"}
+        }
+      }
+    ],
+    "screened_data": {
+      "full_name": "Kalinin Export",
+      "entity_type": "company"
+    },
+    "warnings": []
+  }
+}

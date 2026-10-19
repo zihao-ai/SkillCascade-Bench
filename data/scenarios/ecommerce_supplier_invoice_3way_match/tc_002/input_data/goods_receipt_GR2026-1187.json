@@ -1,0 +1,34 @@
+{
+  "goods_receipt_ref": "GR2026-1187",
+  "po_number": "PO-2026-8542",
+  "received_date": "2026-03-18",
+  "received_by": "warehouse@marketplace.com",
+  "line_items": [
+    {
+      "sku": "PKG-BUBBLE-L",
+      "description": "Large bubble wrap rolls, 500m",
+      "qty_received": 50,
+      "unit_price": 85.00,
+      "line_total": 4250.00,
+      "condition": "Good"
+    },
+    {
+      "sku": "PKG-TAPE-HD",
+      "description": "Heavy-duty packing tape, 48mm x 66m, case of 36",
+      "qty_received": 25,
+      "unit_price": 42.00,
+      "line_total": 1050.00,
+      "condition": "Good"
+    },
+    {
+      "sku": "BOX-DBLWALL-M",
+      "description": "Medium double-wall shipping boxes, pack of 20",
+      "qty_received": 100,
+      "unit_price": 32.00,
+      "line_total": 3200.00,
+      "condition": "Good"
+    }
+  ],
+  "total_received_value": 8500.00,
+  "notes": "All items received in good condition. No discrepancies noted at time of receipt."
+}

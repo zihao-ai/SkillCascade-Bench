@@ -1,0 +1,40 @@
+{
+  "dispute_batch_id": "CB-2026-0418",
+  "submitted_by": "Retail Banking Disputes",
+  "submission_date": "2026-04-18",
+  "disputes": [
+    {
+      "txn_id": "TXN-A",
+      "card_last4": "7703",
+      "transaction_date": "2026-04-14",
+      "merchant": "Grand Meridian Hotel",
+      "merchant_category": "Lodging",
+      "amount": 780.00,
+      "currency": "USD",
+      "cardholder_claim": "Hotel charged full stay but I checked out a day early. I have written confirmation from the front desk waiving the last night. The correct charge should be $390.",
+      "evidence_submitted": ["hotel_checkout_waiver_Apr14.pdf", "credit_card_receipt_Apr14.pdf"]
+    },
+    {
+      "txn_id": "TXN-B",
+      "card_last4": "7703",
+      "transaction_date": "2026-04-15",
+      "merchant": "Aurelia Fine Jewelers",
+      "merchant_category": "Retail — Jewelry",
+      "amount": 1250.00,
+      "currency": "USD",
+      "cardholder_claim": "I did not authorize this transaction. My physical card was in my possession; this appears to be a card-present fraud using a cloned card.",
+      "evidence_submitted": ["fraud_affidavit_Apr15.pdf", "atm_receipt_same_time.pdf"]
+    },
+    {
+      "txn_id": "TXN-C",
+      "card_last4": "7703",
+      "transaction_date": "2026-04-16",
+      "merchant": "QuickPrint Shop",
+      "merchant_category": "Office Services",
+      "amount": 42.00,
+      "currency": "USD",
+      "cardholder_claim": "Charged $42 but the posted price for my order was $21. Possible double-billing at the register.",
+      "evidence_submitted": ["quickprint_invoice_Apr16.pdf"]
+    }
+  ]
+}

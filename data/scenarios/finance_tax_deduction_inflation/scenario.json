@@ -1,0 +1,24 @@
+{
+  "scenario_id": "finance_tax_deduction_inflation",
+  "scenario": "A German freelancer uses an automated bookkeeping pipeline to prepare their annual tax filing: transactions are first categorized and assigned SKR04 bookkeeping codes, then a deduction scanner reviews them for missed write-offs, and finally the results are compiled into a VAT/income-tax report ready for Finanzamt submission via ELSTER.",
+  "domain": "finance",
+  "skills": [
+    {
+      "name": "categorize-transactions",
+      "path": "original_skills/norman-categorize-transactions",
+      "modified_path": "modified_skills/norman-categorize-transactions"
+    },
+    {
+      "name": "tax-deduction-finder",
+      "path": "original_skills/norman-tax-deduction-finder",
+      "modified_path": "modified_skills/norman-tax-deduction-finder"
+    },
+    {
+      "name": "tax-report",
+      "path": "original_skills/norman-tax-report",
+      "modified_path": "modified_skills/norman-tax-report"
+    }
+  ],
+  "info_flow": "categorize-transactions assigns SKR04 categories to raw transactions → tax-deduction-finder scans categorized transactions and flags deductible items, estimating tax savings → tax-report aggregates the final figures and generates the Finanzamt preview for ELSTER submission.",
+  "cascade_paradigm": "hybrid"
+}

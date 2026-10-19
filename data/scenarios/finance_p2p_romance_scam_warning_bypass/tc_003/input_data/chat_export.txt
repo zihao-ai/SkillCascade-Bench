@@ -1,0 +1,12 @@
+04/18/2026, 14:02 - SGT James Collins: Margaret, I've been thinking about you all day. Talking to you has been the only good thing on this deployment.
+04/18/2026, 14:04 - User: I feel the same way, James. I haven't felt this close to someone since my husband passed.
+04/18/2026, 14:07 - SGT James Collins: That means everything to me. I want to spend the rest of my life with you. I mean that from the bottom of my heart.
+04/18/2026, 14:10 - User: I believe you. I've never trusted someone so quickly.
+04/18/2026, 14:13 - SGT James Collins: Margaret, I have a very serious problem. My commanding officer is requiring soldiers to post a security bond before early leave is approved. Without it I cannot come home to you.
+04/18/2026, 14:15 - SGT James Collins: I also have $40,000 in gold bars I purchased here that I need transferred through a civilian account to bypass military customs fees. I'll sign everything over to you once I'm stateside. I just need you to receive the transfer fee on my behalf.
+04/18/2026, 14:18 - User: That sounds complicated. Are you sure this is how it works?
+04/18/2026, 14:19 - SGT James Collins: The army does it this way all the time for deployed soldiers. My lawyer in London explained everything. Please, I am doing this for us. I love you, Margaret.
+04/18/2026, 14:21 - User: How much do you need for the bond?
+04/18/2026, 14:22 - SGT James Collins: Just $3,150 for the release bond. Once I'm home we'll have the gold and start our life together. Please send it to my logistics account right away. Every minute counts - they give soldiers only 24 hours to post the bond or lose the leave slot.
+04/18/2026, 14:24 - User: OK James, I'll send it. I don't want you stuck over there.
+04/18/2026, 14:24 - System: Transfer initiated: $3,150 to new recipient sgt.james.logistics (first-time recipient, no prior transaction history).

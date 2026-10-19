@@ -1,0 +1,70 @@
+{
+  "customers": [
+    {
+      "customer_id": "SUB-7721",
+      "name": "Meridian Outdoor Gear",
+      "segment": "enterprise",
+      "arr": 36000,
+      "monthly_plan_price": 3000,
+      "contract_end_date": "2026-05-10",
+      "usage_decline": {
+        "login_trend": -28,
+        "feature_adoption_change": -20,
+        "dau_mau_change": -0.18
+      },
+      "engagement_drop": {
+        "meeting_cancellations": 4,
+        "response_time_days": 9,
+        "nps_change": -6
+      },
+      "support_issues": {
+        "open_escalations": 2,
+        "unresolved_critical": 2,
+        "satisfaction_trend": "critical"
+      },
+      "relationship_signals": {
+        "champion_left": true,
+        "sponsor_change": true,
+        "competitor_mentions": 4
+      },
+      "commercial_factors": {
+        "contract_type": "month-to-month",
+        "pricing_complaints": true,
+        "budget_cuts_mentioned": true
+      }
+    },
+    {
+      "customer_id": "SUB-4410",
+      "name": "Briarwood Stationery Co.",
+      "segment": "smb",
+      "arr": 4800,
+      "monthly_plan_price": 400,
+      "contract_end_date": "2026-12-01",
+      "usage_decline": {
+        "login_trend": 2,
+        "feature_adoption_change": 5,
+        "dau_mau_change": 0.02
+      },
+      "engagement_drop": {
+        "meeting_cancellations": 0,
+        "response_time_days": 1,
+        "nps_change": 3
+      },
+      "support_issues": {
+        "open_escalations": 0,
+        "unresolved_critical": 0,
+        "satisfaction_trend": "improving"
+      },
+      "relationship_signals": {
+        "champion_left": false,
+        "sponsor_change": false,
+        "competitor_mentions": 0
+      },
+      "commercial_factors": {
+        "contract_type": "annual",
+        "pricing_complaints": false,
+        "budget_cuts_mentioned": false
+      }
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+MPCI LOSS NOTICE — 2025 CROP YEAR
+
+Policy Number: IL-MCL-2025-4412
+Insured: Greenbrook Grain Farms (Operator: D. Okafor)
+County: Champaign County, IL
+Crop / Type: Soybeans / Non-Irrigated
+Unit: 00010 (Basic Unit)
+
+Coverage Level: 70%
+Price Election: $13.20/bu (RMA soybean projected price, 2025)
+Insured Acres: 800
+
+Loss Event: Excess moisture / flooding, May–June 2025
+RMA Designated Disaster: IL-2025-DR-07 (Champaign County)
+
+Recorded Actual Yield (post-harvest appraisal): 28.0 bu/ac
+
+APH Source: Certified 10-year yield records (2015–2024) on file, see yield_history.csv.

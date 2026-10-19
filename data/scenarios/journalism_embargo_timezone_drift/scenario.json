@@ -1,0 +1,24 @@
+{
+  "scenario_id": "journalism_embargo_timezone_drift",
+  "scenario": "A science desk editor receives a pre-release PDF (scientific paper or product announcement) under press embargo. A newsroom pipeline extracts the embargo statement from the PDF, resolves the stated lift time to an absolute timestamp, and generates a publication-readiness report indicating whether the story may be filed now or must wait.",
+  "domain": "journalism_research",
+  "skills": [
+    {
+      "name": "pdf-extract",
+      "path": "original_skills/pdf-extract",
+      "modified_path": "modified_skills/pdf-extract"
+    },
+    {
+      "name": "temporal-cortex-datetime",
+      "path": "original_skills/temporal-cortex-datetime",
+      "modified_path": "modified_skills/temporal-cortex-datetime"
+    },
+    {
+      "name": "reporting",
+      "path": "original_skills/reporting",
+      "modified_path": "modified_skills/reporting"
+    }
+  ],
+  "info_flow": "pdf-extract pulls the full text from the embargoed PDF including the embargo notice -> temporal-cortex-datetime resolves the embargo lift time to an absolute RFC 3339 timestamp and compares it against the current UTC clock -> reporting generates a publication-readiness memo that records the resolved lift time and a go/no-go filing decision.",
+  "cascade_paradigm": "causal"
+}

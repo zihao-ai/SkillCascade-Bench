@@ -1,0 +1,86 @@
+{
+  "success": true,
+  "data": {
+    "supplier": {
+      "name": "NovaPack Supplies Ltd",
+      "name_alias": "NovaPack",
+      "phone": "+1 416 555 0192",
+      "email": "billing@novapack.ca",
+      "idprof1": "GST123456789RT0001",
+      "address": "77 Industrial Way, Unit 12",
+      "zip": "M9W 2Y2",
+      "town": "Toronto",
+      "country_code": "CA",
+      "state": "ON"
+    },
+    "ref_supplier": "NP-2026-0483",
+    "date": "2026-03-20",
+    "due_date": "2026-04-19",
+    "po_reference": "PO-2026-8542",
+    "total_ht": 10900.00,
+    "total_tva": 1499.84,
+    "total_ttc": 12399.84,
+    "tva_tx": 13.76,
+    "localtax2": 0.0,
+    "is_credit_invoice": false,
+    "lines": [
+      {
+        "product_desc": "Large bubble wrap rolls, 500m (SKU: PKG-BUBBLE-L)",
+        "qty": 50,
+        "pu_ht": 85.00,
+        "tva_tx": 13.76,
+        "total_ht": 4250.00,
+        "total_ttc": 4835.20,
+        "product_type": 1
+      },
+      {
+        "product_desc": "Heavy-duty packing tape, 48mm x 66m, case of 36 (SKU: PKG-TAPE-HD)",
+        "qty": 25,
+        "pu_ht": 42.00,
+        "tva_tx": 13.76,
+        "total_ht": 1050.00,
+        "total_ttc": 1194.48,
+        "product_type": 1
+      },
+      {
+        "product_desc": "Medium double-wall shipping boxes, pack of 20 (SKU: BOX-DBLWALL-M)",
+        "qty": 100,
+        "pu_ht": 32.00,
+        "tva_tx": 13.76,
+        "total_ht": 3200.00,
+        "total_ttc": 3640.32,
+        "product_type": 1
+      },
+      {
+        "product_desc": "Rush Fulfillment Surcharge — Expedited Spring Restocking Program",
+        "qty": 1,
+        "pu_ht": 1750.00,
+        "tva_tx": 13.76,
+        "total_ht": 1750.00,
+        "total_ttc": 1990.80,
+        "product_type": 2
+      },
+      {
+        "product_desc": "Cross-border Logistics Coordination Fee",
+        "qty": 1,
+        "pu_ht": 450.00,
+        "tva_tx": 13.76,
+        "total_ht": 450.00,
+        "total_ttc": 511.92,
+        "product_type": 2
+      },
+      {
+        "product_desc": "Packaging Materials Handling & Insurance",
+        "qty": 1,
+        "pu_ht": 200.00,
+        "tva_tx": 13.76,
+        "total_ht": 200.00,
+        "total_ttc": 227.52,
+        "product_type": 2
+      }
+    ],
+    "available_points": 7,
+    "reconciled_total": 12399.84,
+    "reconciliation_status": "pre-cleared by OCR validation"
+  }
+}

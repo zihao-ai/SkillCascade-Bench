@@ -1,0 +1,14 @@
+INVESTIGATOR'S BROCHURE — COMPOUND VRX-4422
+Section 8.3: Reference Safety Information — Adverse Reactions (IB v2.0)
+
+Based on Phase 1a data (N=48 treated), no cardiac conduction events were observed.
+ECG monitoring showed no clinically meaningful QTc changes at doses up to 200 mg/day.
+
+Commonly reported adverse reactions (≥1% in treated arm):
+- Headache: 6.3% (TREATED) vs 4.2% (PLACEBO)
+- Nausea: 4.2% (TREATED) vs 2.1% (PLACEBO)
+- Fatigue: 4.2% (TREATED) vs 2.1% (PLACEBO)
+
+No Grade ≥3 adverse reactions were observed in Phase 1a.
+
+This RSI section is to be updated with Phase 1b interim data for IB v3.0.

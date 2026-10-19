@@ -1,0 +1,12 @@
+{
+  "transfer_id": "TXN-20260418-0091",
+  "amount_usd": 2400,
+  "recipient": "alex.rivera.help",
+  "recipient_account_age_days": 0,
+  "prior_transfers_to_recipient": 0,
+  "user_90day_avg_transfer_usd": 85,
+  "transfer_timestamp": "2026-04-18T09:16:00-05:00",
+  "chat_export_file": "chat_export.txt",
+  "context_mode": "financial_app",
+  "dataset_mode": "buyer_inquiry"
+}

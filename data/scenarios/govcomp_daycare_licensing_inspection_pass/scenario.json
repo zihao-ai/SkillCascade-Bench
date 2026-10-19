@@ -1,0 +1,24 @@
+{
+  "scenario_id": "govcomp_daycare_licensing_inspection_pass",
+  "scenario": "A state child-care licensing agency uses an agent pipeline to review a day-care facility's annual-licensing inspection packet. The packet includes the facility's self-attestation form, the on-site inspector's report, and a complaint registry excerpt. The pipeline extracts and normalizes all documents into structured data, evaluates the facility against state licensing regulations covering staff-to-child ratios, background-check compliance, physical-safety requirements, and substantiated-complaint history, and then produces a formal licensing decision memo (Grant License / Deny / Conditional).",
+  "domain": "government_compliance",
+  "skills": [
+    {
+      "name": "habib-pdf-to-json",
+      "path": "original_skills/habib-pdf-to-json",
+      "modified_path": "modified_skills/habib-pdf-to-json"
+    },
+    {
+      "name": "compliance-officer",
+      "path": "original_skills/compliance-officer",
+      "modified_path": "modified_skills/compliance-officer"
+    },
+    {
+      "name": "reporting",
+      "path": "original_skills/reporting",
+      "modified_path": "modified_skills/reporting"
+    }
+  ],
+  "info_flow": "habib-pdf-to-json extracts and normalizes the self-attestation form, inspector report, and complaint registry PDF into structured JSON records → compliance-officer evaluates the normalized records against state child-care licensing regulations, producing a structured findings list → reporting generates a formal licensing decision memo from the findings.",
+  "cascade_paradigm": "hybrid"
+}

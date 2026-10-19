@@ -1,0 +1,63 @@
+{
+  "compounds": [],
+  "timestamp": "2026-04-18T09:05:00",
+  "profile": {
+    "name": "KIN-782",
+    "smiles": "Fc1ccc(CN2CCN(Cc3cnc4ncccc4n3)CC2)cc1",
+    "drug_likeness": {
+      "mw": 355.4,
+      "logp": 2.89,
+      "hbd": 0,
+      "hba": 5,
+      "psa": 52.2,
+      "rotb": 5,
+      "ro5_violations": 0,
+      "ro5_pass": true,
+      "veber_pass": true,
+      "egan_pass": true,
+      "pains_alerts": 0,
+      "brenk_alerts": 0,
+      "drug_likeness": "Pass"
+    },
+    "absorption": {
+      "hia": "94%",
+      "hia_probability": 0.94,
+      "caco2": "14.2 x 10^-6 cm/s",
+      "caco2_value": 14.2,
+      "pgp_substrate": "No",
+      "bioavailability": "72%",
+      "bioavailability_value": 72.0
+    },
+    "distribution": {
+      "vdss": "3.6 L/kg",
+      "vdss_value": 3.6,
+      "ppb": "88%",
+      "ppb_value": 88.0,
+      "bbb": "No",
+      "logbb": -0.18,
+      "cns_mpo": 4.2
+    },
+    "metabolism": {
+      "cyp3a4_substrate": "Yes",
+      "cyp3a4_inhibitor": "No",
+      "cyp2d6_inhibitor": "No",
+      "cyp2c9_inhibitor": "No",
+      "clearance": "9.1 mL/min/kg",
+      "clearance_value": 9.1
+    },
+    "excretion": {
+      "half_life": "24 hours",
+      "half_life_value": 24.0,
+      "renal_clearance": "12%",
+      "renal_clearance_value": 12.0
+    },
+    "toxicity": {
+      "herg_inhibition": "No",
+      "dili": "Low",
+      "ames": "N",
+      "carcinogenicity": "Unlikely",
+      "respiratory_toxicity": "No",
+      "overall_toxicity_risk": "Low"
+    }
+  }
+}

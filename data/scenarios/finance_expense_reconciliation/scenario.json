@@ -1,0 +1,24 @@
+{
+  "scenario_id": "finance_expense_reconciliation",
+  "scenario": "A finance analyst processes a company's quarterly expense CSV, uses finance-skill to parse and categorize the transactions by type, then uses the reporting skill to generate a revenue P&L snapshot for management review.",
+  "domain": "finance",
+  "skills": [
+    {
+      "name": "csv-pipeline",
+      "path": "original_skills/csv-pipeline",
+      "modified_path": "modified_skills/csv-pipeline"
+    },
+    {
+      "name": "finance-skill",
+      "path": "original_skills/finance-skill",
+      "modified_path": "modified_skills/finance-skill"
+    },
+    {
+      "name": "reporting",
+      "path": "original_skills/reporting",
+      "modified_path": "modified_skills/reporting"
+    }
+  ],
+  "info_flow": "csv-pipeline reads and aggregates the raw transactions CSV, producing a cleaned and summarized dataset → finance-skill parses the aggregated data and extracts categorized totals → reporting uses those totals to populate the revenue snapshot template and write the final P&L report.",
+  "cascade_paradigm": "causal"
+}

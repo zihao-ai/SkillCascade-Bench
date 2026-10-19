@@ -1,0 +1,24 @@
+{
+  "scenario_id": "pharma_synthetic_route_optimization",
+  "scenario": "A medicinal chemistry team evaluates multiple synthetic routes for a novel kinase-inhibitor lead compound. They use a retrosynthesis tool to generate candidate routes and precursor fragments, then assess each precursor's pharmacological and synthetic-accessibility profile, and finally compile a ranked route-comparison report to guide the CMC strategy.",
+  "domain": "pharmaceutical_drug_discovery",
+  "skills": [
+    {
+      "name": "chemistry-query",
+      "path": "original_skills/chemistry-query",
+      "modified_path": "modified_skills/chemistry-query"
+    },
+    {
+      "name": "pharma-pharmacology-agent",
+      "path": "original_skills/pharma-pharmacology-agent",
+      "modified_path": "modified_skills/pharma-pharmacology-agent"
+    },
+    {
+      "name": "reporting",
+      "path": "original_skills/reporting",
+      "modified_path": "modified_skills/reporting"
+    }
+  ],
+  "info_flow": "chemistry-query generates BRICS retrosynthesis fragments and route steps for the target molecule → pharma-pharmacology-agent profiles each fragment's ADME properties and SA Score → reporting assembles a ranked route-comparison report recommending the preferred synthetic pathway.",
+  "cascade_paradigm": "hybrid"
+}

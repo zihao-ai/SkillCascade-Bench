@@ -1,0 +1,24 @@
+{
+  "scenario_id": "pharma_herg_unit_drift",
+  "scenario": "A medicinal chemist evaluates a novel kinase inhibitor scaffold. First, chemistry-query retrieves the compound's properties and measured hERG IC50 from PubChem ChEMBL data. Next, admet-prediction runs a full ADMET safety profile including hERG liability assessment. Finally, reporting generates a lead-candidate brief summarizing whether the compound is safe to advance.",
+  "domain": "pharmaceutical_drug_discovery",
+  "skills": [
+    {
+      "name": "chemistry-query",
+      "path": "original_skills/chemistry-query",
+      "modified_path": "modified_skills/chemistry-query"
+    },
+    {
+      "name": "admet-prediction",
+      "path": "original_skills/admet-prediction",
+      "modified_path": "modified_skills/admet-prediction"
+    },
+    {
+      "name": "reporting",
+      "path": "original_skills/reporting",
+      "modified_path": "modified_skills/reporting"
+    }
+  ],
+  "info_flow": "chemistry-query retrieves compound properties and hERG IC50 from bioactivity databases, emitting a structured JSON payload with the measured value and its unit label → admet-prediction ingests the payload, applies hERG risk thresholds, and produces an ADMET safety classification → reporting synthesizes the classification into a lead-candidate advancement brief.",
+  "cascade_paradigm": "causal"
+}

@@ -1,0 +1,24 @@
+{
+  "scenario_id": "finance_lcr_stress_report",
+  "scenario": "A bank treasury analyst uses an automated pipeline to produce the monthly Basel III Liquidity Coverage Ratio (LCR) regulatory stress report. The pipeline reads the bank's High-Quality Liquid Asset (HQLA) position file (CSV), normalises units for each asset's run-off rate, applies Basel III haircuts to compute the adjusted HQLA stock, aggregates 30-day net cash outflows, computes LCR = Adjusted HQLA / Net Cash Outflows, and writes a formatted LCR report to be submitted to the prudential regulator.",
+  "domain": "finance",
+  "skills": [
+    {
+      "name": "csv-pipeline",
+      "path": "original_skills/csv-pipeline",
+      "modified_path": "modified_skills/csv-pipeline"
+    },
+    {
+      "name": "unit-convert",
+      "path": "original_skills/unit-convert",
+      "modified_path": "modified_skills/unit-convert"
+    },
+    {
+      "name": "financial-calculator",
+      "path": "original_skills/financial-calculator",
+      "modified_path": "modified_skills/financial-calculator"
+    }
+  ],
+  "info_flow": "csv-pipeline reads the HQLA position CSV and enriches each row with a tier classification and haircut rate → unit-convert normalises the outflow stress-rate percentages to decimals → financial-calculator applies haircuts to each asset, sums the adjusted HQLA stock, aggregates net cash outflows, divides to produce the LCR ratio, and outputs the regulatory report.",
+  "cascade_paradigm": "compositional"
+}

@@ -1,0 +1,24 @@
+{
+  "scenario_id": "insurance_dental_oral_surgery_claim",
+  "scenario": "A dental insurance adjuster reviews an oral-surgery claim submitted by a patient who underwent a third-molar extraction with alveoloplasty. The clinical note from the oral surgeon is first parsed to extract diagnoses and procedural entities, then routed to a medical coding assistant to assign ICD-10 diagnosis codes and CPT procedure codes, and finally submitted to the insurance claims processor for coverage determination and settlement recommendation.",
+  "domain": "insurance_claims",
+  "skills": [
+    {
+      "name": "medical-entity-extractor",
+      "path": "original_skills/medical-entity-extractor",
+      "modified_path": "modified_skills/medical-entity-extractor"
+    },
+    {
+      "name": "icd10-cpt-coding-assistant",
+      "path": "original_skills/icd10-cpt-coding-assistant",
+      "modified_path": "modified_skills/icd10-cpt-coding-assistant"
+    },
+    {
+      "name": "afrexai-insurance-claims",
+      "path": "original_skills/afrexai-insurance-claims",
+      "modified_path": "modified_skills/afrexai-insurance-claims"
+    }
+  ],
+  "info_flow": "medical-entity-extractor parses the oral surgeon's clinical note and produces structured entities (diagnoses, procedures, medications, symptoms) → icd10-cpt-coding-assistant maps those entities to ICD-10 diagnosis codes and CPT procedure codes with confidence scores → afrexai-insurance-claims receives the structured coding output and renders a coverage determination, reserve estimate, and settlement recommendation.",
+  "cascade_paradigm": "hybrid"
+}

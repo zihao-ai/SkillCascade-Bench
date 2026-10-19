@@ -1,0 +1,15 @@
+Deferment Request — BRW-2026-04471 (Marcus Rivera)
+Account: FDL-994-2026-47
+Request Date: 2026-04-18
+Type: Economic-Hardship Deferment (34 CFR §685.204/§685.205)
+Household Size: 2
+Documentation Submitted: Two recent pay stubs (part-time retail, March 2026 / April 2026)
+                          Gig-platform earnings statement (Q1 2026)
+Income per supporting documentation: $1,800/month combined
+
+Servicer notes: Income figure on stubs appears to reflect take-home pay (no pre-tax
+gross shown separately). income_type field left blank per servicer data-entry guidance
+pending further verification.
+
+Requested action: Process deferment eligibility determination and produce formal
+determination letter to /workspace/output/determination_letter.md.

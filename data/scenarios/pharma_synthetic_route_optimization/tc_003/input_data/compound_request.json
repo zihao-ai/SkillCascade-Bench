@@ -1,0 +1,9 @@
+{
+  "compound_name": "ribociclib",
+  "smiles": "C1CN(CCN1c1ccnc2[nH]cnc12)C(=O)c1cnc2c(N)ncnc2c1",
+  "project_id": "CDK4-INH-2026-07",
+  "stage": "lead-optimization",
+  "objective": "Select the lowest-complexity synthetic route for process chemistry scale-up to support Phase II manufacturing.",
+  "retro_depth": 2,
+  "notes": "CMC team requires a ranked route comparison report with at least 3 BRICS-derived fragments. Prioritize synthetic accessibility and commercially available building blocks."
+}

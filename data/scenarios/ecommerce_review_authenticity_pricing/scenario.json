@@ -1,0 +1,24 @@
+{
+  "scenario_id": "ecommerce_review_authenticity_pricing",
+  "scenario": "A marketplace operations manager audits a seller's existing product reviews to assess authenticity and sentiment quality, runs NLP analysis on the review text to produce a content-quality index, and then uses both metrics to determine an appropriate price tier before publishing or updating the product listing on Clawver.",
+  "domain": "ecommerce",
+  "skills": [
+    {
+      "name": "clawver-reviews",
+      "path": "original_skills/clawver-reviews",
+      "modified_path": "modified_skills/clawver-reviews"
+    },
+    {
+      "name": "nlp-toolkit",
+      "path": "original_skills/nlp-toolkit",
+      "modified_path": "modified_skills/nlp-toolkit"
+    },
+    {
+      "name": "clawver-digital-products",
+      "path": "original_skills/clawver-digital-products",
+      "modified_path": "modified_skills/clawver-digital-products"
+    }
+  ],
+  "info_flow": "clawver-reviews fetches the product's reviews and computes a review quality score from rating distribution and sentiment → nlp-toolkit analyzes review body text to produce a content authenticity index (perplexity/burstiness metrics) → clawver-digital-products uses the combined quality score and authenticity index to select a price tier and publish the listing.",
+  "cascade_paradigm": "hybrid"
+}

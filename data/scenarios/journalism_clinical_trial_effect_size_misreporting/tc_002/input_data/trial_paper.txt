@@ -1,0 +1,38 @@
+PHASE III RANDOMIZED CONTROLLED TRIAL
+
+Title: Efficacy and Safety of Velatinib versus Placebo in Patients with Advanced Non-Small Cell Lung Cancer (NSCLC) Following Platinum-Based Chemotherapy: The VELOCE-3 Trial
+
+Journal: The Lancet Oncology (Accepted 2026-03-15)
+DOI: 10.1016/S1470-2045(26)00147-X
+
+AUTHORS
+Harrington MK, Okonkwo T, Sato Y, et al.
+
+ABSTRACT
+Background: Velatinib, a selective FGFR2/3 inhibitor, showed activity in preclinical NSCLC models. We assessed its efficacy as maintenance therapy.
+
+Methods: VELOCE-3 was a double-blind, placebo-controlled phase III trial. Adults with stage IIIB/IV NSCLC who had not progressed after 4–6 cycles of platinum doublet chemotherapy were randomly assigned (1:1) to velatinib 400 mg orally once daily or matching placebo. The primary endpoint was overall survival (OS). Secondary endpoints included progression-free survival (PFS) and objective response rate (ORR).
+
+Findings: 1,247 patients were enrolled. Median OS was 18.3 months in the velatinib group versus 15.7 months in the placebo group (HR 0.85; 95% CI 0.75–0.97; p=0.018). ORR was 80/624 (12.8%) versus 44/623 (7.1%) (OR 1.93; p=0.0007). Median PFS was 6.4 vs 4.1 months (HR 0.71; 95% CI 0.62–0.81; p<0.0001).
+
+Grade 3–4 adverse events included hyperphosphataemia (14.3%), fatigue (11.9%), and nail changes (5.0%).
+
+Interpretation: Velatinib demonstrated a statistically significant improvement in OS compared with placebo, meeting the pre-specified significance boundary (p<0.025).
+
+Conclusions: Velatinib as maintenance therapy provided a statistically significant OS improvement. Regulatory review is pending.
+
+---
+
+TABLE 1. PRIMARY AND SECONDARY EFFICACY OUTCOMES
+
+Endpoint                        | Velatinib (n=624)              | Placebo (n=623)               | HR or OR (95% CI)             | p value
+Overall Survival (primary)      | 18.3 mo (95% CI 16.9–20.1)     | 15.7 mo (95% CI 14.2–17.3)    | HR 0.85 (95% CI 0.75–0.97)    | 0.018
+Progression-Free Survival       | 6.4 mo (95% CI 5.8–7.2)        | 4.1 mo (95% CI 3.6–4.8)       | HR 0.71 (95% CI 0.62–0.81)    | <0.0001
+Objective Response Rate (ORR)   | 80/624 (12.8%)                 | 44/623 (7.1%)                 | OR 1.93 (95% CI 1.31–2.84)    | 0.0007
+
+TABLE 2. GRADE 3–4 ADVERSE EVENTS (VELATINIB GROUP)
+Hyperphosphataemia: 89 (14.3%)
+Fatigue: 74 (11.9%)
+Nail changes: 31 (5.0%)
+Elevated liver enzymes: 28 (4.5%)
+Stomatitis: 19 (3.0%)

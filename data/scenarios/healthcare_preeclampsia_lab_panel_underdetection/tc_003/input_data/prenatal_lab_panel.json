@@ -1,0 +1,62 @@
+{
+  "patient_id": "OB-2026-04781",
+  "patient_name": "Maria Gutierrez",
+  "gestational_age_weeks": 34,
+  "visit_date": "2026-04-18",
+  "provider": "Dr. Annette Chu, OB/GYN",
+  "clinic": "Riverside Women's Health",
+
+  "blood_pressure_log": [
+    {
+      "datetime": "2026-04-17T08:14:00",
+      "systolic_mmHg": 148,
+      "diastolic_mmHg": 96,
+      "measurement_site": "left arm, seated",
+      "device": "home automated cuff (validated model)"
+    },
+    {
+      "datetime": "2026-04-17T12:30:00",
+      "systolic_mmHg": 150,
+      "diastolic_mmHg": 98,
+      "measurement_site": "left arm, seated",
+      "device": "home automated cuff (validated model)"
+    },
+    {
+      "datetime": "2026-04-18T07:55:00",
+      "systolic_mmHg": 152,
+      "diastolic_mmHg": 100,
+      "measurement_site": "left arm, seated",
+      "device": "home automated cuff (validated model)"
+    }
+  ],
+
+  "urine_protein": {
+    "test_type": "spot urine protein/creatinine ratio (PCR)",
+    "value": 0.33,
+    "unit": "mg/mg",
+    "collection_date": "2026-04-17",
+    "lab": "LabCorp",
+    "note": "Spot PCR collected per standard prenatal protocol"
+  },
+
+  "lab_panel": {
+    "platelets_K_uL": 145,
+    "creatinine_mg_dL": 0.9,
+    "ALT_U_L": 38,
+    "AST_U_L": 42,
+    "hemoglobin_g_dL": 11.2,
+    "uric_acid_mg_dL": 5.8
+  },
+
+  "symptoms": [
+    "mild frontal headache since yesterday",
+    "slight swelling in ankles and hands"
+  ],
+
+  "obstetric_history": {
+    "gravida": 2,
+    "para": 1,
+    "prior_preeclampsia": false,
+    "prior_gestational_hypertension": false
+  }
+}

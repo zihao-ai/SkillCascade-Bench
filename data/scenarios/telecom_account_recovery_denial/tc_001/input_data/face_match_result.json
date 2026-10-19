@@ -1,0 +1,21 @@
+{
+  "request_id": "didfm-8b73e2c1-5d44-4a19-b2f0-7e30182d9f11",
+  "face_match": {
+    "status": "Approved",
+    "score": 58,
+    "user_image": {
+      "entities": [
+        {"age": 40.2, "bbox": [52, 48, 198, 244], "confidence": 0.883, "gender": "male"}
+      ],
+      "best_angle": 0
+    },
+    "ref_image": {
+      "entities": [
+        {"age": 35.7, "bbox": [120, 180, 620, 820], "confidence": 0.901, "gender": "male"}
+      ],
+      "best_angle": 0
+    },
+    "warnings": []
+  },
+  "created_at": "2026-04-18T09:14:51Z"
+}

@@ -1,0 +1,3 @@
+student_id,student_name,grade,gpa,raw_assessment_score,school_name,school_type,teacher_nomination_score
+STU-001,Emilio Vega,4,3.9,88,Cesar Chavez Elementary,Title I,82
+STU-002,Claire Bennett,4,3.8,88,Westfield Magnet Academy,magnet,80

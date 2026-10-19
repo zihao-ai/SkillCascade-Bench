@@ -1,0 +1,24 @@
+{
+  "scenario_id": "real_estate_rental_application_screening",
+  "scenario": "A property management company processes a batch of rental applications. A CSV file containing applicant records is parsed and normalized, each applicant's urgency and intent signals are scored to produce a priority ranking, and a final screening report is generated to guide the leasing agent's approval decisions.",
+  "domain": "real_estate",
+  "skills": [
+    {
+      "name": "csv-pipeline",
+      "path": "original_skills/csv-pipeline",
+      "modified_path": "modified_skills/csv-pipeline"
+    },
+    {
+      "name": "sentiment-priority-scorer",
+      "path": "original_skills/sentiment-priority-scorer",
+      "modified_path": "modified_skills/sentiment-priority-scorer"
+    },
+    {
+      "name": "reporting",
+      "path": "original_skills/reporting",
+      "modified_path": "modified_skills/reporting"
+    }
+  ],
+  "info_flow": "csv-pipeline reads and normalizes the applicant CSV, producing a structured list of lead records -> sentiment-priority-scorer scores each applicant on urgency, intent, recency, and sentiment to produce priority_score and priority_bucket -> reporting generates a structured screening recommendation report listing approved and rejected applicants.",
+  "cascade_paradigm": "compositional"
+}

@@ -1,0 +1,14 @@
+Provider: Dr. Sandra Okafor, MD — Pulmonology, Riverside Community Clinic
+Date: 2026-04-10
+Patient: Margaret Tran, F, DOB 1958-03-22 (age 68)
+Encounter type: Established patient, routine follow-up
+
+Chief complaint: Medication refills — COPD and hypothyroidism.
+
+Subjective: Ms. Tran presents for scheduled 90-day prescription renewals. She reports no change in breathing effort and no palpitations. Activity level stable. Denies chest pain, dyspnea at rest, peripheral edema, or cold intolerance. Compliant with inhalers.
+
+Objective: BP 128/76, HR 72, RR 16, SpO2 97% on room air, Weight 61 kg. Lungs clear to auscultation bilaterally. No wheezing. Thyroid non-enlarged. No JVD.
+
+Assessment: (1) COPD, mild-intermittent, well-controlled on Tiotropium 18 mcg once daily. (2) Hypothyroidism, stable on Levothyroxine 75 mcg daily. Both conditions remain at baseline with no exacerbation.
+
+Plan: Renew Tiotropium 18 mcg x 90 days. Renew Levothyroxine 75 mcg x 90 days. No labs ordered. Follow-up in 3 months.

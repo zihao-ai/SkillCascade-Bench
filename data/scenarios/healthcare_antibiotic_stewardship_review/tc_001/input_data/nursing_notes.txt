@@ -1,0 +1,38 @@
+PATIENT: Margaret Holloway   DOB: 1959-08-14   MRN: 77341
+WARD: 4B — Internal Medicine   DATE: 2026-04-15   TIME: 08:20
+
+NURSING ASSESSMENT NOTE
+──────────────────────────────────────────────────────────────────────────
+Admitting diagnosis: Community-acquired urinary tract infection (E. coli)
+Hospital day 2.
+
+CURRENT MEDICATIONS:
+- Levofloxacin 500 mg PO once daily (started 2026-04-14, antibiotic stewardship protocol)
+- Lisinopril 10 mg PO once daily (home medication, hypertension)
+- Atorvastatin 20 mg PO once daily (home medication, hypercholesterolaemia)
+
+VITAL SIGNS (08:00):
+Temperature: 37.4 °C
+Blood pressure: 138/84 mmHg
+Heart rate: 76 bpm
+Respiratory rate: 16 /min
+SpO2: 98% on room air
+
+RECENT LABORATORY RESULTS (collected 2026-04-15 06:30):
+- eGFR: 50.3 mL/min/1.73m²  (CKD-EPI formula; baseline for this patient)
+- Serum creatinine: 1.18 mg/dL
+- Serum potassium: 4.2 mEq/L
+- White blood cell count: 9.8 × 10³/µL (down from 12.4 on admission)
+- CRP: 22 mg/L (down from 68 on admission)
+- Urinalysis: positive for nitrites and leukocyte esterase
+
+ALLERGIES: No known drug allergies.
+
+CLINICAL PROGRESS:
+Patient reports improvement in dysuria and flank pain since starting antibiotics yesterday. Tolerating oral intake well. No signs of sepsis. Urine culture from admission showing E. coli, sensitivity results pending.
+
+PLAN:
+Continue current antibiotic regimen pending culture sensitivities. Pharmacist antibiotic stewardship review requested.
+
+──────────────────────────────────────────────────────────────────────────
+Signed: RN Andrea Castillo   08:25

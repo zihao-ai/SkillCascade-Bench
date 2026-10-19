@@ -1,0 +1,98 @@
+================================================================
+HARTWELL LIFE INSURANCE COMPANY
+LIFE INSURANCE CLAIM PACKAGE
+Claim Reference: HLI-2026-043892
+================================================================
+
+----------------------------------------------------------------
+DOCUMENT 1: CERTIFICATE OF DEATH (State of Illinois)
+----------------------------------------------------------------
+Decedent: Robert J. Calloway
+Date of Death: March 14, 2026
+Date of Birth: November 9, 1958 (age 67)
+Sex: Male
+Place of Death: Northwestern Memorial Hospital, Chicago, IL
+
+CAUSE OF DEATH (Part I — Immediate Cause and Underlying Cause):
+  (a) Closed head injury with subdural hematoma
+  (b) Blunt force trauma to head sustained in fall from residential staircase
+  (c) Accidental fall on stairs at home (unspecified)
+
+MANNER OF DEATH: Accident
+
+TIME INTERVAL from onset to death: Approximately 14 hours
+
+OTHER SIGNIFICANT CONDITIONS (Part II — Contributing to death but not causing
+the underlying cause in Part I):
+  Hypertensive cardiovascular disease
+
+CERTIFYING PHYSICIAN: Dr. Angela Torres, M.D.
+  Northwestern Memorial Hospital, Chicago, IL
+  Date Signed: March 15, 2026
+
+MEDICAL EXAMINER NOTE: Decedent was found at base of residential staircase.
+Physical examination and imaging consistent with fall from height. No
+evidence of assault or self-harm. Manner determined as accident.
+
+----------------------------------------------------------------
+DOCUMENT 2: EMERGENCY PHYSICIAN STATEMENT
+----------------------------------------------------------------
+Date: March 14, 2026
+Patient: Robert J. Calloway
+Treating Physician: Dr. Samuel Park, M.D., Emergency Medicine
+
+Patient arrived via EMS at 02:14 hours following reported fall on residential
+stairs at home. Witnesses (spouse) reported patient lost footing on the top
+step and fell down approximately 12 stairs. Patient was unresponsive on
+arrival. CT head demonstrated large acute subdural hematoma with midline shift.
+Patient taken to neurosurgery; declared deceased at 16:22 hours.
+
+Assessment: Death due to blunt force closed head injury secondary to
+accidental fall on residential stairs. Pre-existing hypertension was noted
+in the medical history but was not the cause of the fall or the proximate
+cause of death.
+
+----------------------------------------------------------------
+DOCUMENT 3: ATTENDING PHYSICIAN CERTIFICATE
+----------------------------------------------------------------
+I, Dr. Angela Torres, M.D., certify that Robert J. Calloway was under my
+care and that his death resulted from an accidental fall on stairs at his
+home, causing closed head injury and subdural hematoma. Death was
+accidental in nature. The notation of hypertensive cardiovascular disease
+in Part II represents a pre-existing background condition present in the
+patient's history; it did not cause or contribute to the mechanism of fall
+or head injury.
+
+Signed: March 15, 2026
+
+----------------------------------------------------------------
+DOCUMENT 4: POLICY SUMMARY — HARTWELL LIFE INSURANCE
+----------------------------------------------------------------
+Policy Number: HLI-POL-2019-88341
+Policyholder: Robert J. Calloway
+Beneficiary: Margaret A. Calloway (spouse)
+
+BASE LIFE INSURANCE BENEFIT: $500,000.00
+
+RIDER: Accidental Death and Dismemberment (AD&D) Rider
+  AD&D Rider Benefit: Doubles the base benefit payable when death results
+  from an accident.
+  Effective AD&D payout when applicable: $1,000,000.00 (base $500,000 x 2)
+
+Policy Status: Active
+Premium: Paid current through May 2026
+
+----------------------------------------------------------------
+DOCUMENT 5: BENEFICIARY CLAIM FORM
+----------------------------------------------------------------
+Claimant: Margaret A. Calloway
+Relationship to Decedent: Spouse
+Claimed Benefit: Full policy benefit including AD&D rider ($1,000,000)
+Supporting Documents Submitted: Death certificate, physician statements,
+  emergency room records, policy documents
+
+Signature: Margaret A. Calloway
+Date: March 20, 2026
+================================================================
+END OF CLAIM PACKAGE
+================================================================

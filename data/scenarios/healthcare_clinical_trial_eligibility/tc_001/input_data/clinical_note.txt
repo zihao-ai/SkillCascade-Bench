@@ -1,0 +1,16 @@
+CLINICAL NOTE — Research Screening Visit
+Date: 2026-03-15
+Study: STUDY001
+
+Chief Complaint: Poorly controlled blood sugar despite oral medications.
+
+PMH: Type 2 Diabetes Mellitus (diagnosed 2019), Chronic Kidney Disease Stage 3 (eGFR 38 mL/min/1.73m2), mild normocytic anemia.
+
+Current Medications:
+- Metformin 1000 mg BID
+- Linagliptin 5 mg daily
+- Ferrous sulfate 325 mg daily
+
+Assessment: Patient presents with HbA1c 7.4%, serum creatinine 2.1 mg/dL consistent with CKD Stage 3. Glucose 126 mg/dL fasting. Anemia Hgb 11.8 g/dL. Interested in participating in a clinical trial for improved glycemic control.
+
+Plan: Screen for eligibility in active Type 2 Diabetes clinical trials.

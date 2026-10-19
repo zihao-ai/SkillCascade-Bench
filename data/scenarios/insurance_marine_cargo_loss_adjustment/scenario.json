@@ -1,0 +1,24 @@
+{
+  "scenario_id": "insurance_marine_cargo_loss_adjustment",
+  "scenario": "Marine cargo claims adjuster processes a surveyor's damage report for a containerized shipment of electronic components that was seawater-damaged in transit from Shenzhen to Rotterdam. The surveyor report is denominated in metric units (kilograms) and Chinese Yuan (CNY). The US underwriter requires the loss quantum expressed in pounds (lb) and US Dollars (USD) before the claims processor can compute the reserve estimate and settlement recommendation.",
+  "domain": "insurance_claims",
+  "skills": [
+    {
+      "name": "unit-convert",
+      "path": "original_skills/unit-convert",
+      "modified_path": "modified_skills/unit-convert"
+    },
+    {
+      "name": "currency-exchange",
+      "path": "original_skills/currency-exchange",
+      "modified_path": "modified_skills/currency-exchange"
+    },
+    {
+      "name": "afrexai-insurance-claims",
+      "path": "original_skills/afrexai-insurance-claims",
+      "modified_path": "modified_skills/afrexai-insurance-claims"
+    }
+  ],
+  "info_flow": "unit-convert converts the surveyor's damaged-cargo weight from kg to lb → currency-exchange converts the declared cargo value from CNY to USD → afrexai-insurance-claims receives both converted figures and produces a structured reserve estimate and settlement recommendation.",
+  "cascade_paradigm": "compositional"
+}

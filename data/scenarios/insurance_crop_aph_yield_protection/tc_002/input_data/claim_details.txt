@@ -1,0 +1,35 @@
+MPCI CROP INSURANCE LOSS NOTICE
+Policy Number: IL-MCL-2025-0847
+Insured: Hartwell Family Farms LLC
+County: McLean County, Illinois
+Crop: Corn (Non-Irrigated)
+Policy Year: 2025
+Insured Acres: 500.0
+
+POLICY PARAMETERS
+Coverage Level: 75%
+Price Election: $5.10 per bushel
+Unit Type: Basic Unit (all McLean County acres)
+
+LOSS EVENT
+Cause of Loss: Drought (verified RMA drought designation, July–August 2025)
+Date of Loss: August 14, 2025
+Claim Filed: September 3, 2025
+
+PRODUCTION EVIDENCE
+Actual measured yield (post-harvest scale tickets): 88.0 bu/ac
+Adjuster field inspection: Confirmed severe moisture stress; ear fill compromised.
+Scale ticket certification: Provided by insured. Verified by adjuster.
+
+COVERAGE BASELINE
+APH Yield: To be computed from yield_history.csv (10-year certified yield records, 2015–2024)
+Coverage guarantee = APH Yield × Coverage Level (75%)
+
+COMPUTATION REQUIRED
+1. Compute the APH average yield from yield_history.csv
+2. Calculate indemnity: (APH_yield × 0.75 − 88.0) × $5.10 × 500 acres
+3. Generate adjudicated claim settlement recommendation
+
+RMA UNIT OFFICER: Patricia Navarro, CPA-F
+Adjusting Company: Meridian Crop Loss Services
+Contact: p.navarro@meridiancls.com | (309) 555-0192

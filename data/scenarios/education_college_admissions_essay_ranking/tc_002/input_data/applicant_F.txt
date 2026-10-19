@@ -1,0 +1,15 @@
+APPLICANT PROFILE
+Name: Applicant F
+GPA: 3.88 (weighted), 3.73 (unweighted)
+SAT: 1400 (Evidence-Based Reading & Writing: 700, Math: 700)
+Extracurriculars: School choir (2 years), after-school job at family restaurant (3 years), Spanish club
+Recommendation: Teacher writes that applicant brings genuine effort to every assignment and cares about learning.
+
+PERSONAL STATEMENT:
+My parents came here with almost nothing. They opened a small restaurant and I have worked there since I was twelve. I know how to keep going when things are hard. That is not something I learned in a classroom.
+
+I want to study computer science. I started coding on my own using free tutorials online. I built a small program that helped my dad track inventory. It was not perfect. But it worked, and he used it every day for a year. That felt like enough.
+
+I do not have a lot of activities on this application. I was working. But I was also reading, and thinking, and wondering about algorithms and why they work the way they do. I found a book on discrete math in a used bookstore and read it twice.
+
+I am asking for a chance. I will not waste it.

@@ -1,0 +1,7 @@
+NEWSROOM SCHEDULING CONTEXT
+============================
+Current assignment desk UTC clock: 2026-04-21T00:05:00Z
+Editor on duty: Sarah Menchetti (science desk)
+Story slug: nn-2026-ptsd-memory-erase
+Filing deadline: rolling (first to publish)
+Distribution: wire + web simultaneous

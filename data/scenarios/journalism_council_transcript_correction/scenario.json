@@ -1,0 +1,24 @@
+{
+  "scenario_id": "journalism_council_transcript_correction",
+  "scenario": "A newsroom journalist receives a city council meeting transcript and runs a three-skill pipeline to audit it for accuracy: first NLP-analyze all council member statements for linguistic quality signals, then verify any flagged statements against professional fact-checking databases, then generate a structured correction memo for publication.",
+  "domain": "journalism_research",
+  "skills": [
+    {
+      "name": "nlp-toolkit",
+      "path": "original_skills/nlp-toolkit",
+      "modified_path": "modified_skills/nlp-toolkit"
+    },
+    {
+      "name": "verify-claims",
+      "path": "original_skills/verify-claims",
+      "modified_path": "modified_skills/verify-claims"
+    },
+    {
+      "name": "reporting",
+      "path": "original_skills/reporting",
+      "modified_path": "modified_skills/reporting"
+    }
+  ],
+  "info_flow": "nlp-toolkit analyzes each council member statement and annotates it with linguistic quality metrics → verify-claims receives the annotated statements and verifies those tagged as requiring attention against fact-checker databases → reporting assembles a correction memo from the verification verdicts.",
+  "cascade_paradigm": "compositional"
+}

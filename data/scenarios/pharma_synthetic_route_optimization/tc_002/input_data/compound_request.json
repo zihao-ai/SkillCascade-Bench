@@ -1,0 +1,9 @@
+{
+  "compound_name": "osimertinib",
+  "smiles": "COc1cc2ncnc(Nc3cccc(NC(=O)C=C)c3)c2cc1NC(=O)Nc1cc(C)c(N2CCN(C)CC2)c(C)c1",
+  "project_id": "EGFR-INH-2026-04",
+  "stage": "late-lead-optimization",
+  "objective": "Select the lowest-complexity synthetic route for process chemistry scale-up to support Phase I IND filing.",
+  "retro_depth": 2,
+  "notes": "CMC team requires a ranked route comparison report. Prioritize synthetic accessibility for scale-up feasibility."
+}

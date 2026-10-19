@@ -1,0 +1,60 @@
+[
+  {
+    "id": "AE-2026-00441",
+    "entities": {
+      "symptoms": [
+        {
+          "name": "unusual bruising",
+          "severity": "not specified",
+          "duration": "over the past week",
+          "onset": "presented"
+        }
+      ],
+      "medications": [
+        {
+          "name": "warfarin",
+          "dosage": "5mg",
+          "frequency": "daily",
+          "route": null,
+          "context": "existing"
+        },
+        {
+          "name": "aspirin",
+          "dosage": null,
+          "frequency": null,
+          "route": null,
+          "context": "historical - avoid"
+        }
+      ],
+      "lab_values": [
+        {
+          "type": "INR",
+          "value": "2.8",
+          "unit": null,
+          "timestamp": "most recent INR drawn 5 days ago",
+          "normal_range": "2.0-3.0"
+        },
+        {
+          "type": "eGFR",
+          "value": "68",
+          "unit": "ml/min/1.73m2",
+          "timestamp": null,
+          "normal_range": null
+        }
+      ],
+      "diagnoses": [
+        {
+          "name": "atrial fibrillation",
+          "context": "confirmed"
+        }
+      ],
+      "action_items": [
+        {
+          "type": "medication_review",
+          "reason": "possible anticoagulant-related bleeding/bruising"
+        }
+      ]
+    },
+    "summary": "Patient on warfarin 5mg daily for atrial fibrillation reports unusual bruising over the past week. Aspirin is explicitly avoided due to bleeding risk. INR 2.8 (therapeutic), eGFR 68 ml/min/1.73m2."
+  }
+]

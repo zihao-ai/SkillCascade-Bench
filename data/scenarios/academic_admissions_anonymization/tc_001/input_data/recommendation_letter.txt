@@ -1,0 +1,28 @@
+Department of Computer Science
+California State University, Los Angeles
+5151 State University Drive
+Los Angeles, CA 90032
+
+April 10, 2026
+
+Graduate Admissions Committee
+Department of Computer Science
+University of Michigan
+
+Dear Members of the Admissions Committee,
+
+I am writing to enthusiastically recommend Maria Elena Gutierrez for admission to your doctoral program in Computer Science. I have had the privilege of knowing Maria Elena for three years as her undergraduate thesis advisor at California State University, Los Angeles (Cal State LA), a Hispanic-Serving Institution serving a predominantly first-generation college student population.
+
+Maria Elena is one of the most talented students I have mentored in fifteen years of teaching. Her background is remarkable: she grew up in a bilingual Spanish-English household in East Los Angeles and was the first in her family to attend a four-year university. Despite beginning her undergraduate career without the AP coursework and research exposure common at more resourced institutions, she has more than compensated through exceptional drive and intellectual ability.
+
+Her undergraduate thesis, "Cross-lingual Transfer in Low-Resource NLP: A Case Study in Indigenous Mexican Languages," represents work of genuine scholarly originality. She identified a gap in the NLP literature regarding Nahuatl and Mixtec language modeling, assembled a dataset through collaboration with community elders and language documentation nonprofits, and demonstrated significant improvements in zero-shot transfer accuracy over the baseline. This work was accepted as a workshop paper at ACL 2025 — an extraordinary achievement for an undergraduate, particularly one at a primarily teaching-focused institution without a graduate research program.
+
+Maria Elena's cultural background has directly enriched her research vision. Her lived experience as a Latina woman from an immigrant household gives her a perspective on language technology that most of her peers at elite research universities simply do not have. She has identified real-world problems that remain invisible to researchers operating primarily in English-language contexts, and she has the technical skill to address them rigorously.
+
+I strongly recommend Maria Elena without reservation. Please feel free to contact me at professor_delgado@calstatela.edu or 323-555-0198.
+
+Sincerely,
+
+Professor Carlos Delgado
+Associate Professor of Computer Science
+California State University, Los Angeles

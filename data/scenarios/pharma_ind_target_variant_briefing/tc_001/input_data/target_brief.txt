@@ -1,0 +1,22 @@
+Target Gene: LRRK2 (Leucine-rich repeat kinase 2)
+Disease Indication: Parkinson's disease (PD)
+IND Filing Stage: Pre-IND consultation
+Compound Code: NX-4071 (selective LRRK2 kinase inhibitor)
+Requested Analysis: Genetic variant evidence and target-disease association evidence for LRRK2 in Parkinson's disease
+
+Clinical Context:
+NX-4071 is a first-in-class small-molecule LRRK2 kinase inhibitor under development for Parkinson's disease.
+Before filing the IND, the team requires a target validation briefing covering:
+1. Pathogenic and likely pathogenic ClinVar variants in LRRK2 with gnomAD population frequencies
+2. OpenTargets overall disease-association score for LRRK2 in Parkinson's disease
+3. A structured briefing report summarizing the genetic evidence supporting LRRK2 as a validated PD target
+
+Specific Variants of Interest:
+- LRRK2 G2019S (most common PD-linked variant, HGVS: NM_198578.3:c.6055G>A)
+- LRRK2 R1441C (NM_198578.3:c.4321C>T)
+
+Notes:
+- Use ClinVar classification and gnomAD allele frequency data from the clarity-clinical skill
+- Use OpenTargets association data from the medical-research-toolkit skill
+- Generate the final briefing report using the reporting skill
+- Output file should be saved as /workspace/output/lrrk2_ind_target_brief.md

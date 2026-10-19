@@ -1,0 +1,5 @@
+contract_id,vendor_name,beneficiary_practice,service_category,contract_type,annual_equipment_value_usd,number_of_practice_sites,per_site_annual_value_usd,category_median_equipment_spend_usd,start_date,end_date,notes
+VC-2025-001,MedEquip Solutions LLC,Valley Orthopedic Associates,Arthroscopic Equipment,Equipment Placement,42000,1,42000,55000,2025-01-01,2025-12-31,Arthroscopic tower and instruments placed at practice with no rental charge; per-site value below category median
+VC-2025-002,CardioTech Instruments,Valley Cardiology Group,Cardiac Monitoring Equipment,Equipment Placement,38000,1,38000,48000,2025-01-01,2025-12-31,Ambulatory cardiac monitors placed at practice office at no cost to practice; per-site value below category median
+VC-2025-003,GI Endoscopy Supply Co.,Valley GI Partners,Endoscopy Equipment,Equipment Placement,45000,1,45000,51000,2025-01-01,2025-12-31,Endoscopy video system placed at practice with no charge; per-site value below category median
+VC-2025-004,ValleyPharm Distributors,Valley Regional Medical Center,Pharmaceutical Supplies,Supply Agreement,120000,1,120000,115000,2025-01-01,2025-12-31,Pharmaceutical supply at standard contract rates

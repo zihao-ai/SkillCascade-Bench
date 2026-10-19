@@ -1,0 +1,4 @@
+[
+  {"agent": "fentanyl_transdermal", "dose_mcg_per_hr": 50},
+  {"agent": "oxycodone_oral", "dose_mg_per_day": 30}
+]

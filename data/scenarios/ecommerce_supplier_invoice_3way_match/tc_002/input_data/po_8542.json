@@ -1,0 +1,33 @@
+{
+  "po_number": "PO-2026-8542",
+  "vendor": "NovaPack Supplies Ltd",
+  "issue_date": "2026-03-01",
+  "approved_by": "procurement@marketplace.com",
+  "line_items": [
+    {
+      "sku": "PKG-BUBBLE-L",
+      "description": "Large bubble wrap rolls, 500m",
+      "qty_ordered": 50,
+      "unit_price": 85.00,
+      "line_total": 4250.00
+    },
+    {
+      "sku": "PKG-TAPE-HD",
+      "description": "Heavy-duty packing tape, 48mm x 66m, case of 36",
+      "qty_ordered": 25,
+      "unit_price": 42.00,
+      "line_total": 1050.00
+    },
+    {
+      "sku": "BOX-DBLWALL-M",
+      "description": "Medium double-wall shipping boxes, pack of 20",
+      "qty_ordered": 100,
+      "unit_price": 32.00,
+      "line_total": 3200.00
+    }
+  ],
+  "po_subtotal": 8500.00,
+  "currency": "USD",
+  "payment_terms": "Net 30",
+  "delivery_address": "Marketplace Distribution Center, 4501 Logistics Pkwy, Columbus OH 43228"
+}

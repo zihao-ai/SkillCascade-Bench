@@ -1,0 +1,13 @@
+claim_id,contact_id,buyer_email,billing_address,payment_token_last4,claim_amount_usd,seller_id,claim_date,item_description
+INR-2001,CUST-001,buyer.abel.m@freemail.io,742 Maple Ave Unit 1 Chicago IL 60614,7731,89.99,SELL-A11,2026-04-15,Wireless Earbuds Model X3
+INR-2002,CUST-002,buyer.bella.k@webmail.net,742 Maple Ave Unit 2 Chicago IL 60614,7731,124.50,SELL-B22,2026-04-15,Smart Watch Band SE
+INR-2003,CUST-003,buyer.carl.d@freemail.io,742 Maple Ave Unit 3 Chicago IL 60614,7731,67.00,SELL-A11,2026-04-16,USB-C Hub 7-Port
+INR-2004,CUST-004,buyer.diana.p@webmail.net,742 Maple Ave Unit 4 Chicago IL 60614,7731,210.00,SELL-C33,2026-04-16,Mechanical Keyboard TKL
+INR-2005,CUST-005,buyer.evan.t@freemail.io,742 Maple Ave Unit 5 Chicago IL 60614,7731,55.25,SELL-B22,2026-04-16,Phone Case Premium
+INR-2006,CUST-006,buyer.faye.r@webmail.net,742 Maple Ave Unit 6 Chicago IL 60614,7731,179.99,SELL-D44,2026-04-17,Portable Charger 20000mAh
+INR-2007,CUST-007,buyer.greg.s@freemail.io,742 Maple Ave Unit 7 Chicago IL 60614,7731,95.00,SELL-A11,2026-04-17,Bluetooth Speaker Mini
+INR-2008,CUST-008,buyer.hana.v@webmail.net,742 Maple Ave Unit 8 Chicago IL 60614,7731,143.75,SELL-C33,2026-04-17,Laptop Stand Adjustable
+INR-2009,CUST-009,buyer.ivan.w@freemail.io,742 Maple Ave Unit 9 Chicago IL 60614,7731,88.00,SELL-B22,2026-04-18,Screen Protector Pack
+INR-2010,CUST-010,buyer.jane.o@webmail.net,742 Maple Ave Unit 10 Chicago IL 60614,7731,312.00,SELL-D44,2026-04-18,Gaming Mouse Wireless
+INR-2011,CUST-011,buyer.kyle.n@freemail.io,742 Maple Ave Unit 11 Chicago IL 60614,7731,74.50,SELL-A11,2026-04-18,Cable Management Kit
+INR-2012,CUST-012,buyer.lily.q@webmail.net,742 Maple Ave Unit 12 Chicago IL 60614,7731,99.99,SELL-C33,2026-04-19,LED Desk Lamp RGB

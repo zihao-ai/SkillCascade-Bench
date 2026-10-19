@@ -1,0 +1,36 @@
+EXIT SURVEY RESPONSES — Q1 2026 — ENGINEERING TEAM A
+=====================================================
+Survey administered: 2026-01-15. Responses are raw and unprocessed.
+Team A headcount at time of survey: 6 employees (3 departures this quarter).
+
+--- RESPONDENT 1 ---
+Tenure: 6.5 years | Role: Senior Backend Engineer | Team: Engineering A | Education: PhD Computer Science | Gender: Female
+Q1 (Why are you leaving?): I spent over six years building the core distributed systems infrastructure here, and honestly the decision to move the entire platform to a vendor-managed solution without input from the team was the last straw. I have a PhD — I came here to do hard technical work, not to watch it get outsourced. The culture changed enormously after the Series C.
+
+Q2 (What could the company have done differently?): Kept the principal engineers involved in architectural decisions. We should have had a seat at the table. Instead, management made the call in a room we were never invited to.
+
+Q3 (Any other comments?): I genuinely liked my colleagues. The product was interesting. But when you spend years building something and then watch it get deprecated for a vendor solution, it's demoralizing in a way that's hard to describe.
+
+--- RESPONDENT 2 ---
+Tenure: 1.2 years | Role: Junior Frontend Engineer | Team: Engineering A | Education: Bachelor's CS | Gender: Male
+Q1 (Why are you leaving?): Better compensation at a startup. Nothing personal.
+
+Q2 (What could the company have done differently?): Pay closer to market rate. I was getting 15% below my offer from the new place.
+
+Q3 (Any other comments?): Onboarding was chaotic and my manager changed twice in my first 6 months. Hard to build momentum.
+
+--- RESPONDENT 3 ---
+Tenure: 3.1 years | Role: DevOps Engineer | Team: Engineering A | Education: Master's Systems Engineering | Gender: Male
+Q1 (Why are you leaving?): Burnout. The on-call rotation is unsustainable for a team our size. We were effectively running 24/7 support with 6 people, two of whom were junior.
+
+Q2 (What could the company have done differently?): Hire faster. We flagged the staffing gap in every quarterly review for a year and nothing changed.
+
+Q3 (Any other comments?): I want to stay in the industry and I have no hard feelings, but I need to sleep.
+
+TEAM A DEMOGRAPHIC MANIFEST (for cohort reporting)
+====================================================
+Total headcount (start of Q1): 6
+PhD holders: 1
+Employees with tenure > 5 years: 1
+Female employees: 1
+Employees with tenure < 2 years: 2

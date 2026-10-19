@@ -1,0 +1,24 @@
+{
+  "scenario_id": "finance_repo_margin_call",
+  "scenario": "A collateral management analyst at a prime brokerage reviews a hedge fund client's repo agreement collateral schedule, computes haircut-adjusted eligible collateral values against the fund's gross exposure, and generates a formal margin adequacy notice to determine whether a margin call is required.",
+  "domain": "finance",
+  "skills": [
+    {
+      "name": "ub2-csv-data-analyzer",
+      "path": "original_skills/ub2-csv-data-analyzer",
+      "modified_path": "modified_skills/ub2-csv-data-analyzer"
+    },
+    {
+      "name": "financial-calculator",
+      "path": "original_skills/financial-calculator",
+      "modified_path": "modified_skills/financial-calculator"
+    },
+    {
+      "name": "reporting",
+      "path": "original_skills/reporting",
+      "modified_path": "modified_skills/reporting"
+    }
+  ],
+  "info_flow": "ub2-csv-data-analyzer reads the collateral position CSV and computes net eligible collateral and gross exposure totals → financial-calculator applies haircut discounts and computes the margin adequacy ratio (eligible collateral / gross exposure) → reporting generates a formal margin adequacy notice with the pass/fail determination.",
+  "cascade_paradigm": "compositional"
+}

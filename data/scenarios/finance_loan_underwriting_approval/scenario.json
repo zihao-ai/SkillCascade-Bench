@@ -1,0 +1,24 @@
+{
+  "scenario_id": "finance_loan_underwriting_approval",
+  "scenario": "A retail bank loan officer uses three skills to pre-qualify a personal loan applicant: first assessing FICO creditworthiness and tier classification, then computing the debt-to-income ratio and monthly payment affordability, and finally packaging a structured loan origination recommendation.",
+  "domain": "finance",
+  "skills": [
+    {
+      "name": "credit-repair-skill",
+      "path": "original_skills/credit-repair-skill",
+      "modified_path": "modified_skills/credit-repair-skill"
+    },
+    {
+      "name": "financial-calculator",
+      "path": "original_skills/financial-calculator",
+      "modified_path": "modified_skills/financial-calculator"
+    },
+    {
+      "name": "loan",
+      "path": "original_skills/loan",
+      "modified_path": "modified_skills/loan"
+    }
+  ],
+  "info_flow": "credit-repair-skill classifies the applicant's FICO score into a risk tier and produces a creditworthiness summary → financial-calculator computes the monthly payment, annualized cost, and debt-to-income ratio → loan packages the tier classification and DTI figure into a final origination recommendation including term structure and approval disposition.",
+  "cascade_paradigm": "compositional"
+}

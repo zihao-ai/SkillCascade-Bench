@@ -1,0 +1,9 @@
+claim_id,provider_npi,provider_name,member_id,member_name,service_date,procedure_code,diagnosis_code,billed_amount,place_of_service
+CLM-2026-0401,1234567890,Northgate Outpatient Clinic,MBR-10041,James Harlow,2026-04-07,99213,Z00.00,185.00,11
+CLM-2026-0402,1234567890,Northgate Outpatient Clinic,MBR-10042,Sandra Voss,2026-04-07,99214,J06.9,245.00,11
+CLM-2026-0403,1234567890,Northgate Outpatient Clinic,MBR-10043,Derek Finch,2026-04-08,99213,Z00.00,185.00,11
+CLM-2026-0404,1234567890,Northgate Outpatient Clinic,MBR-10044,Patricia Doyle,2026-04-09,99215,M54.5,305.00,11
+CLM-2026-0405,1234567890,Northgate Outpatient Clinic,MBR-10045,Calvin Estes,2026-04-10,99213,Z00.00,185.00,11
+CLM-2026-0406,1234567890,Northgate Outpatient Clinic,MBR-10046,Brenda Kwan,2026-04-11,99213,J06.9,185.00,11
+CLM-2026-0407,1234567890,Northgate Outpatient Clinic,MBR-10047,Marcus Steed,2026-04-14,99214,Z00.00,245.00,11
+CLM-2026-0408,1234567890,Northgate Outpatient Clinic,MBR-10048,Angela Park,2026-04-15,99213,Z00.00,185.00,11

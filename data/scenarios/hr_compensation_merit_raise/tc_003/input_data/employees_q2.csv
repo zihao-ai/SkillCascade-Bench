@@ -1,0 +1,11 @@
+employee_id,name,department,level,base_salary,band_midpoint
+F001,Rachel Torres,Finance,L3,118400,105000
+F002,Kevin Okafor,Operations,L4,142600,125000
+F003,Mei-Ling Zhang,Finance,L5,178300,155000
+F004,Brandon Hall,HR,L2,84700,82000
+F005,Natalia Ivanova,Operations,L3,109200,105000
+F006,Derek Sanchez,Finance,L4,139800,125000
+F007,Yuki Tanaka,HR,L3,121500,105000
+F008,Carla Ruiz,Operations,L2,80100,82000
+F009,Samuel Adeyemi,Finance,L5,185200,155000
+F010,Priya Nair,Operations,L4,130600,125000

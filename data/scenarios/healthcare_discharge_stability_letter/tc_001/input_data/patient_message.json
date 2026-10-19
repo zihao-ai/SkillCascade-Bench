@@ -1,0 +1,40 @@
+{
+  "triage_messages": [
+    {
+      "id": "msg-discharge-001",
+      "subject": "Feeling worse after discharge — shortness of breath",
+      "from": "eleanor.voss@patientmail.org",
+      "date": "2026-04-15T08:14:00Z",
+      "body": "Hello, I was discharged yesterday afternoon. I have a known history of congestive heart failure and have been experiencing worsening shortness of breath since last night. It's harder to breathe when lying flat and I've had to sleep sitting up. My legs are more swollen than usual. The hospital noted my troponin was elevated at 0.08 ng/mL on discharge — they said it had been coming down but it was still above normal. I'm not sure if this is just my ongoing chronic condition flaring up or if I need to be seen urgently. I've been on furosemide 40mg and carvedilol 12.5mg for years."
+    }
+  ],
+  "patient_vitals": {
+    "patient_id": "EVoss-2026-0414",
+    "name": "Eleanor Voss",
+    "age": 71,
+    "recorded": "2026-04-14T15:30:00Z",
+    "vitals": {
+      "blood_pressure_systolic": 148,
+      "blood_pressure_diastolic": 94,
+      "heart_rate_bpm": 102,
+      "oxygen_saturation_pct": 93,
+      "weight_kg": 74.2,
+      "weight_change_note": "+3.1 kg over 48 hours"
+    },
+    "labs": {
+      "troponin_I_ng_mL": 0.08,
+      "troponin_reference_range": "< 0.04 ng/mL",
+      "BNP_pg_mL": 820,
+      "BNP_reference_range": "< 100 pg/mL",
+      "creatinine_mg_dL": 1.4,
+      "eGFR": 48
+    },
+    "medications": [
+      {"name": "furosemide", "dose": "40mg", "frequency": "daily"},
+      {"name": "carvedilol", "dose": "12.5mg", "frequency": "twice daily"},
+      {"name": "lisinopril", "dose": "5mg", "frequency": "daily"},
+      {"name": "aspirin", "dose": "81mg", "frequency": "daily"}
+    ],
+    "diagnosis_on_record": "Congestive heart failure (HFrEF, EF 35%), CKD stage 3"
+  }
+}

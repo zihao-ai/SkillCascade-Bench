@@ -1,0 +1,9 @@
+account_id,event_type,amount,clearance_status,opening_balance,release_status,customer_tier,description
+ACC-1001,deposit,48500.00,pending,3200.00,n/a,Standard,Remote deposit capture - check #4471
+ACC-1001,deposit,1500.00,cleared,3200.00,n/a,Standard,ACH credit - payroll
+ACC-1001,withdrawal,47000.00,n/a,3200.00,pending,Standard,Wire transfer request
+ACC-1002,deposit,46800.00,pending,4100.00,n/a,Standard,Remote deposit capture - check #8823
+ACC-1002,deposit,2200.00,cleared,4100.00,n/a,Standard,ACH credit - vendor payment
+ACC-1002,withdrawal,45500.00,n/a,4100.00,pending,Standard,Wire transfer request
+ACC-1003,deposit,1200.00,cleared,8500.00,n/a,Premier,ACH credit - direct deposit
+ACC-1003,withdrawal,900.00,n/a,8500.00,pending,Premier,Bill payment

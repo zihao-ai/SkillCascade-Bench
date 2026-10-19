@@ -1,0 +1,6 @@
+cardholder_name,card_pan,card_last4,cvv,billing_address,dob,txn_date,txn_time,txn_amount,merchant_name,merchant_zip
+Margaret Howell,4532015112830366,0366,847,"1204 Birchwood Lane, Austin, TX 78701",1974-06-12,2026-03-14,09:23:00,142.50,Whole Foods Market,78701
+Derek Sanchez,5425233430109903,9903,291,"89 Oakridge Drive, Portland, OR 97201",1988-11-03,2026-03-14,11:05:00,28.75,Shell Gas,97201
+Fiona Blackwell,4916338506082832,2832,563,"45 Maple Street, Denver, CO 80203",1965-09-28,2026-03-14,13:47:00,67.20,Target,80203
+Raymond Cho,4539578763621486,1486,712,"302 Sunset Blvd, Miami, FL 33101",1992-02-17,2026-03-15,08:31:00,315.00,Delta Airlines,33101
+Priya Nair,4916338506082911,2911,404,"17 Elm Court, Chicago, IL 60601",1979-04-30,2026-03-15,15:22:00,89.99,Best Buy,60601

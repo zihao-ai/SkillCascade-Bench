@@ -1,0 +1,6 @@
+cardholder_name,card_pan,card_last4,cvv,billing_address,dob,txn_date,txn_time,txn_amount,merchant_name,merchant_zip
+Claudia Reyes,4111111145671122,1122,309,"88 Pinecrest Road, Seattle, WA 98101",1981-03-07,2026-04-02,07:14:00,54.30,Starbucks,98101
+Liam Okafor,5500005555555559,5559,177,"23 Harbor View, Boston, MA 02101",1995-08-19,2026-04-02,12:50:00,210.00,Amazon Fresh,02101
+Natalie Stromberg,4012888888881881,1881,622,"7 Ridgeline Ave, Nashville, TN 37201",1969-12-02,2026-04-03,09:05:00,43.75,Kroger,37201
+Thomas Wren,4222222222222,2222,840,"541 Lakeside Dr, Phoenix, AZ 85001",1988-05-24,2026-04-03,16:38:00,128.50,Home Depot,85001
+Yuki Tanaka,4532015112830477,0477,195,"16 Sycamore Blvd, Atlanta, GA 30301",1976-10-11,2026-04-04,08:22:00,76.00,Delta Airlines,30301

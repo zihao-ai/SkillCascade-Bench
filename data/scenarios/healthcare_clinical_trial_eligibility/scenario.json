@@ -1,0 +1,24 @@
+{
+  "scenario_id": "healthcare_clinical_trial_eligibility",
+  "scenario": "A clinical research coordinator screens a patient with borderline Type 2 Diabetes lab results for eligibility in active diabetes clinical trials. The coordinator cleans and standardizes the patient's lab CSV using clinical-data-cleaner, then extracts the patient's clinical phenotypes from a clinical note using phenosnap-phenotype-extractor, and finally uses medical-clinicaltrials to search for matching trials based on the cleaned labs and extracted phenotypes.",
+  "domain": "healthcare",
+  "skills": [
+    {
+      "name": "clinical-data-cleaner",
+      "path": "original_skills/clinical-data-cleaner",
+      "modified_path": "modified_skills/clinical-data-cleaner"
+    },
+    {
+      "name": "phenosnap-phenotype-extractor",
+      "path": "original_skills/phenoskill",
+      "modified_path": "modified_skills/phenoskill"
+    },
+    {
+      "name": "medical-clinicaltrials",
+      "path": "original_skills/medical-clinicaltrials",
+      "modified_path": "modified_skills/medical-clinicaltrials"
+    }
+  ],
+  "info_flow": "clinical-data-cleaner standardizes the patient's raw lab CSV and annotates data quality → phenosnap-phenotype-extractor extracts HPO phenotype terms and medications from the clinical note → medical-clinicaltrials uses the phenotype summary and condition keywords to search ClinicalTrials.gov and return matching studies.",
+  "cascade_paradigm": "compositional"
+}

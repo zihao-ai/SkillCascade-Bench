@@ -1,0 +1,24 @@
+{
+  "scenario_id": "healthcare_antibiotic_stewardship_review",
+  "scenario": "Hospital pharmacist conducts an antibiotic stewardship review for a patient on levofloxacin: nursing notes are parsed for current medications and renal function labs, a medication safety review is run to detect any dosing adjustments required based on renal clearance, and a clinical summary report is generated for the attending physician.",
+  "domain": "healthcare",
+  "skills": [
+    {
+      "name": "medical-entity-extractor",
+      "path": "original_skills/medical-entity-extractor",
+      "modified_path": "modified_skills/medical-entity-extractor"
+    },
+    {
+      "name": "drug-safety-review",
+      "path": "original_skills/drug-safety-review",
+      "modified_path": "modified_skills/drug-safety-review"
+    },
+    {
+      "name": "health-report",
+      "path": "original_skills/health-report",
+      "modified_path": "modified_skills/health-report"
+    }
+  ],
+  "info_flow": "medical-entity-extractor parses nursing notes into structured medication and lab-value entities → drug-safety-review evaluates the extracted medication list with the patient's renal function for interaction and renal-dosing alerts → health-report compiles the safety alerts into a physician-facing clinical summary with escalation recommendations.",
+  "cascade_paradigm": "causal"
+}

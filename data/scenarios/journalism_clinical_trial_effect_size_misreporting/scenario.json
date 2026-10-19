@@ -1,0 +1,24 @@
+{
+  "scenario_id": "journalism_clinical_trial_effect_size_misreporting",
+  "scenario": "A science-desk agent pipeline drafts a news article summarizing a newly published clinical trial. The pipeline extracts methodology and outcome data from the trial PDF, normalizes and interprets the statistical findings into plain-language takeaways, then produces a formatted news-article draft.",
+  "domain": "journalism_research",
+  "skills": [
+    {
+      "name": "mineru-pdf-extractor",
+      "path": "original_skills/mineru-pdf-extractor",
+      "modified_path": "modified_skills/mineru-pdf-extractor"
+    },
+    {
+      "name": "summarize-pro",
+      "path": "original_skills/summarize-pro",
+      "modified_path": "modified_skills/summarize-pro"
+    },
+    {
+      "name": "ub2-markdown-report-generator",
+      "path": "original_skills/ub2-markdown-report-generator",
+      "modified_path": "modified_skills/ub2-markdown-report-generator"
+    }
+  ],
+  "info_flow": "mineru-pdf-extractor extracts the trial PDF to structured Markdown including tables and statistical results → summarize-pro converts the extracted content into Key Takeaways plain-language points → ub2-markdown-report-generator uses those takeaways to produce a formatted news-article report.",
+  "cascade_paradigm": "hybrid"
+}

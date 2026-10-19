@@ -1,0 +1,19 @@
+EMPLOYEE PAY STUB
+Period: March 1 – March 31, 2026
+Employer: Metro Cleaning Services LLC
+Employee: Jordan Rivera
+SSN: XXX-XX-4921
+
+Earnings:
+  Regular wages (162 hrs @ $11.57/hr)     $1,874.34
+  Overtime                                      $0.00
+  Gross Earned Income                       $1,874.34
+
+Deductions:
+  Federal income tax withholding             -$74.00
+  State income tax                           -$37.00
+  Social Security (6.2%)                   -$116.21
+  Medicare (1.45%)                           -$27.18
+  Net Pay (direct deposit)                $1,619.95
+
+Pay Date: April 3, 2026

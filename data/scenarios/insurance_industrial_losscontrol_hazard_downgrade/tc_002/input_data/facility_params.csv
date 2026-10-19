@@ -1,0 +1,14 @@
+parameter,value,unit,notes
+facility_name,Coastline Polymers LLC – Plant 7,,
+facility_type,Chemical processing and plastics manufacturing,,
+insured_value_building,6800000,USD,
+insured_value_contents,3100000,USD,
+current_annual_premium,134000,USD,
+policy_expiry,2026-09-30,,
+inspection_type,Annual Loss-Control Engineering,,
+inspector_firm,Apex Risk Engineering LLC,,
+occupancy_class,Special (Class 4 – Chemical/Flammable),,
+construction_type,Tilt-up concrete with partial steel mezzanine,,
+sprinkler_coverage,Full (wet pipe),,%
+employee_count,87,,
+prior_losses_3yr,45000,USD,One minor chemical spill 2024 (remediation cost only)

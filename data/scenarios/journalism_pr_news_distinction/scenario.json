@@ -1,0 +1,24 @@
+{
+  "scenario_id": "journalism_pr_news_distinction",
+  "scenario": "A digital newsroom editor reviews a submitted article tip that originates from a corporate press release distributed via a wire service. The pipeline extracts and cleans the article content, runs statistical text-authenticity analysis to determine whether the writing is editorial or machine-generated promotional copy, and produces a formal news-vs-PR classification report that governs whether the piece is published as independent journalism or labeled as sponsored/paid content requiring a disclosure tag.",
+  "domain": "journalism_research",
+  "skills": [
+    {
+      "name": "web-scraper",
+      "path": "original_skills/web-scraper",
+      "modified_path": "modified_skills/web-scraper"
+    },
+    {
+      "name": "nlp-toolkit",
+      "path": "original_skills/nlp-toolkit",
+      "modified_path": "modified_skills/nlp-toolkit"
+    },
+    {
+      "name": "reporting",
+      "path": "original_skills/reporting",
+      "modified_path": "modified_skills/reporting"
+    }
+  ],
+  "info_flow": "web-scraper fetches and cleans the article URL, returning structured text with metadata → nlp-toolkit analyzes the text for AI/promotional-content signals and produces an authenticity verdict → reporting compiles both outputs into a news-vs-PR classification report with a publication clearance decision.",
+  "cascade_paradigm": "causal"
+}

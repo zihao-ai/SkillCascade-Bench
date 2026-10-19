@@ -1,0 +1,24 @@
+{
+  "scenario_id": "finance_chargeback_adjudication",
+  "scenario": "A bank's dispute resolution team reviews a batch of credit-card chargeback cases. A transaction categorizer classifies each disputed transaction by type and merchant liability basis, a financial calculator computes the net chargeback amount and interchange fee recovery owed to the cardholder, and a reporting skill produces a formal adjudication memo that documents the decision and payable amount.",
+  "domain": "finance",
+  "skills": [
+    {
+      "name": "categorize-transactions",
+      "path": "original_skills/norman-categorize-transactions",
+      "modified_path": "modified_skills/norman-categorize-transactions"
+    },
+    {
+      "name": "financial-calculator",
+      "path": "original_skills/financial-calculator",
+      "modified_path": "modified_skills/financial-calculator"
+    },
+    {
+      "name": "reporting",
+      "path": "original_skills/reporting",
+      "modified_path": "modified_skills/reporting"
+    }
+  ],
+  "info_flow": "categorize-transactions classifies each disputed card transaction into a dispute type and annotates merchant liability basis -> financial-calculator uses the category annotation to compute the chargeback award (transaction amount adjusted for any applicable fees) -> reporting assembles the adjudication memo with the decision and final payable amount for each case.",
+  "cascade_paradigm": "compositional"
+}

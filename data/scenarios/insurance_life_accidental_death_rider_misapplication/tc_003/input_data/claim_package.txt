@@ -1,0 +1,51 @@
+LIFE INSURANCE CLAIM PACKAGE
+Carrier: Meridian Life & Casualty
+Claim Reference: MLC-2026-08847
+Date Prepared: 2026-04-10
+
+=== POLICYHOLDER INFORMATION ===
+Insured: Maria L. Fontaine
+Date of Birth: 1984-09-22
+Policy Number: ML-7743918-F
+Policy Type: Whole Life with AD&D Rider
+Base Face Amount: $750,000
+AD&D Rider: Double indemnity — total benefit $1,500,000 when rider applies
+Beneficiary: Carlos R. Fontaine (spouse)
+
+=== DEATH CERTIFICATE (Certified Copy) ===
+State: Arizona
+Date of Death: 2026-03-02
+
+PART I — CAUSE OF DEATH
+Immediate Cause: Multiple blunt-force thoracic injuries
+Due to (or as a consequence of): High-speed motor vehicle collision (driver)
+Interval between onset and death: Approximately 2 hours
+
+Manner of Death: ACCIDENT
+
+Certifying Physician: Dr. Karen Osei, MD, Emergency Medicine, Banner University Medical Center
+
+Physician Statement (attached): "Ms. Fontaine sustained catastrophic thoracic injuries as a direct result of the motor vehicle collision. Cause of death is the traumatic injuries from the accident. The diabetes noted under Part II is a background medical history item and played no role in the collision or the traumatic injuries sustained."
+
+PART II — OTHER SIGNIFICANT CONDITIONS CONTRIBUTING TO DEATH BUT NOT RESULTING IN THE UNDERLYING CAUSE IN PART I
+- Type 2 diabetes mellitus, well-controlled (diagnosed 2019)
+
+ICD-10 External Cause: V49.40XA — Car occupant injured in collision with unspecified motor vehicle in traffic accident, initial encounter
+
+=== POLICE/ACCIDENT REPORT (Summary) ===
+Incident Date: 2026-03-02, approx. 07:45 AM
+Location: I-10 Westbound near milepost 144, Maricopa County, AZ
+Description: Insured vehicle rear-ended at highway speed by commercial truck. Insured vehicle suffered severe structural deformation. Responding officers classified the incident as a traffic accident. No impairment by the insured; other driver cited for distracted driving.
+
+=== POLICY SUMMARY ===
+Policy Inception: 2015-11-01
+Premium Status: Current — no lapse
+AD&D Rider Effective: 2015-11-01
+AD&D Benefit: Payable in addition to base face amount when death results solely from accidental bodily injury. Base face amount: $750,000. Total with rider: $1,500,000.
+Exclusions on AD&D Rider: Death resulting from illness, disease, suicide, war, or felonious act by the insured.
+
+=== BENEFICIARY CLAIM FORM ===
+Claimant: Carlos R. Fontaine
+Relationship: Spouse
+Claimed Benefit: Full policy amount including AD&D rider ($1,500,000)
+Supporting Documents Enclosed: Certified death certificate, accident/police report, attending physician statement, hospital discharge summary, policy documents

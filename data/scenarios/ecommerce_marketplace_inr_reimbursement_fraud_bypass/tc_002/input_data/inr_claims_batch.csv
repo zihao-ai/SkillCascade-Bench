@@ -1,0 +1,9 @@
+claim_id,contact_id,buyer_email,billing_address,payment_token_last4,claim_amount_usd,seller_id,claim_date,item_description
+INR-3001,CUST-101,m.ross.buy@quickmail.org,55 Harbor Blvd Suite 3 Miami FL 33101,4492,149.00,SELL-E55,2026-04-14,Noise-Cancelling Headphones
+INR-3002,CUST-102,j.kim.orders@quickmail.org,55 Harbor Blvd Suite 3 Miami FL 33101,4492,72.50,SELL-F66,2026-04-14,Ergonomic Mouse Pad XL
+INR-3003,CUST-103,t.banks.shop@rapidnet.com,55 Harbor Blvd Suite 3 Miami FL 33101,4492,230.00,SELL-E55,2026-04-15,Mechanical Numpad RGB
+INR-3004,CUST-104,p.wu.buyer@rapidnet.com,55 Harbor Blvd Suite 3 Miami FL 33101,4492,58.99,SELL-G77,2026-04-15,Webcam 1080p Clip-On
+INR-3005,CUST-105,a.ford.shop@quickmail.org,55 Harbor Blvd Suite 3 Miami FL 33101,4492,195.00,SELL-F66,2026-04-16,Smart Thermostat V2
+INR-3006,CUST-106,r.diaz.orders@rapidnet.com,55 Harbor Blvd Suite 3 Miami FL 33101,4492,84.75,SELL-G77,2026-04-16,USB Microphone Studio
+INR-3007,CUST-107,c.nguyen.buy@quickmail.org,55 Harbor Blvd Suite 3 Miami FL 33101,4492,310.00,SELL-E55,2026-04-17,4K Monitor 27-inch
+INR-3008,CUST-108,l.patel.shop@rapidnet.com,55 Harbor Blvd Suite 3 Miami FL 33101,4492,118.50,SELL-F66,2026-04-17,NAS Drive Enclosure 2-Bay

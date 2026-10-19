@@ -1,0 +1,3 @@
+driver_id,name,zip_code,employer,occupation,vehicle_make,vehicle_year,annual_mileage,credit_insurance_score,base_annual_premium,coverage_level,violations_last_5yr
+DRV-003,James Okafor,60619,Uber,Rideshare Driver,Honda Civic,2021,11500,751,1050,full-coverage,0
+DRV-004,Laura Whitfield,60614,Northwestern University,Research Analyst,Honda Civic,2021,11500,751,1050,full-coverage,0

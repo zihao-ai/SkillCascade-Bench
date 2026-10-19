@@ -1,0 +1,24 @@
+{
+  "scenario_id": "finance_portfolio_var_report",
+  "scenario": "A portfolio manager fetches real-time prices for a set of equity holdings, constructs a portfolio snapshot in the RiskOfficer platform to compute Value-at-Risk, and then generates a formal daily risk report summarizing portfolio exposure for senior management.",
+  "domain": "finance",
+  "skills": [
+    {
+      "name": "stock-prices",
+      "path": "original_skills/stock-prices",
+      "modified_path": "modified_skills/stock-prices"
+    },
+    {
+      "name": "riskofficer",
+      "path": "original_skills/riskofficer",
+      "modified_path": "modified_skills/riskofficer"
+    },
+    {
+      "name": "reporting",
+      "path": "original_skills/reporting",
+      "modified_path": "modified_skills/reporting"
+    }
+  ],
+  "info_flow": "stock-prices fetches current market prices for each holding → riskofficer uses those prices to construct a portfolio snapshot and calculate VaR/CVaR/Sharpe metrics → reporting produces a structured daily risk report from those metrics.",
+  "cascade_paradigm": "causal"
+}

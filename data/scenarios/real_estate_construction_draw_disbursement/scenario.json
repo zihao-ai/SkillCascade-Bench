@@ -1,0 +1,24 @@
+{
+  "scenario_id": "real_estate_construction_draw_disbursement",
+  "scenario": "A commercial lender processes a mid-project construction loan draw request for a mixed-use development. The loan officer uses the loan origination skill to spread the project's operating pro forma and normalize income/expense figures, then passes the normalized figures to the financial calculator to compute Debt-Service Coverage Ratio (DSCR) and Loan-to-Value (LTV) metrics for the draw, and finally uses the reporting skill to generate a formal draw authorization packet.",
+  "domain": "real_estate",
+  "skills": [
+    {
+      "name": "loan",
+      "path": "original_skills/loan",
+      "modified_path": "modified_skills/loan"
+    },
+    {
+      "name": "financial-calculator",
+      "path": "original_skills/financial-calculator",
+      "modified_path": "modified_skills/financial-calculator"
+    },
+    {
+      "name": "reporting",
+      "path": "original_skills/reporting",
+      "modified_path": "modified_skills/reporting"
+    }
+  ],
+  "info_flow": "loan spreads and normalizes the construction project pro forma (income, expenses, add-backs) → financial-calculator computes DSCR and LTV from the normalized figures → reporting assembles a draw authorization packet citing the computed metrics.",
+  "cascade_paradigm": "causal"
+}

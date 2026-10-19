@@ -1,0 +1,9 @@
+account_id,event_type,amount,clearance_status,opening_balance,release_status,customer_tier,description
+ACC-2041,deposit,62400.00,pending,1800.00,n/a,New,Cashier check deposit - ref CC-9901
+ACC-2041,withdrawal,61000.00,n/a,1800.00,pending,New,Inter-bank transfer request
+ACC-2042,deposit,58750.00,pending,2300.00,n/a,Standard,Cashier check deposit - ref CC-9902
+ACC-2042,withdrawal,57200.00,n/a,2300.00,pending,Standard,Wire transfer request
+ACC-2043,deposit,55100.00,pending,1500.00,n/a,New,Cashier check deposit - ref CC-9903
+ACC-2043,withdrawal,53800.00,n/a,1500.00,pending,New,Inter-bank transfer request
+ACC-2044,deposit,3200.00,cleared,11000.00,n/a,Premier,ACH credit - payroll
+ACC-2044,withdrawal,1500.00,n/a,11000.00,pending,Premier,Bill payment

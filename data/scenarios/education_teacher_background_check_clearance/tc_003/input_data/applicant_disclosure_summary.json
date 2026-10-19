@@ -1,0 +1,38 @@
+{
+  "applicant": {
+    "name": "Jordan M. Caldwell",
+    "application_id": "DIST-2026-04-7731",
+    "position_applied": "8th Grade Science Teacher",
+    "district": "Riverstone Unified School District"
+  },
+  "self_disclosure": {
+    "criminal_record_declared": false,
+    "prior_employment_separation_declared": false,
+    "licensing_discipline_declared": false,
+    "child_abuse_registry_declared": false
+  },
+  "documents_submitted": [
+    "reference_letter_prior_district.txt",
+    "credential_transcript.pdf"
+  ],
+  "disqualifier_rules": [
+    {
+      "rule_id": "EDU-DQ-001",
+      "description": "Prior district separation for substantiated Title IX finding",
+      "source_document": "reference_letter_prior_district.txt",
+      "statutory_basis": "Education Code Section 44940"
+    },
+    {
+      "rule_id": "EDU-DQ-002",
+      "description": "Open CTC disciplinary proceeding",
+      "source_document": "reference_letter_prior_district.txt",
+      "statutory_basis": "Education Code Section 44944"
+    },
+    {
+      "rule_id": "EDU-DQ-003",
+      "description": "Self-disclosure inconsistency: separation not declared",
+      "source_document": "applicant_disclosure_summary.json",
+      "statutory_basis": "Ed Code Section 44830.1"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+payment_id,vendor,department,description,amount,payment_date,fiscal_year
+P-1001,AlphaGov Solutions,Public Works,Road resurfacing contract Phase 1,185000,2025-01-15,2025
+P-1002,AlphaGov Solutions,Parks & Recreation,Park renovation design services,95000,2025-02-03,2025
+P-1003,AlphaGov Solutions,IT Department,Enterprise software licensing Q1,72000,2025-03-10,2025
+P-1004,AlphaGov Solutions,Public Works,Road resurfacing contract Phase 2,68000,2025-04-22,2025
+P-1005,Metro Infrastructure LLC,Transportation,Bridge inspection services,45000,2025-01-20,2025
+P-1006,Metro Infrastructure LLC,Transportation,Bridge inspection services - correction,0,2025-01-28,2025
+P-1007,Metro Infrastructure LLC,Transportation,Bridge inspection services - revised invoice,38000,2025-02-05,2025
+P-1008,Metro Infrastructure LLC,Public Works,Utility corridor survey,12000,2025-03-15,2025
+P-1009,CityBridge Consulting,Planning,Zoning study Phase 1,55000,2025-01-10,2025
+P-1010,CityBridge Consulting,Planning,Zoning study Phase 2,42000,2025-02-18,2025
+P-1011,CityBridge Consulting,Planning,Zoning study overbilling correction,0,2025-03-01,2025
+P-1012,CityBridge Consulting,Planning,Supplemental planning review,18000,2025-04-05,2025
+P-1013,Apex Tech Partners,IT Department,Network security assessment,32000,2025-02-12,2025
+P-1014,Apex Tech Partners,IT Department,Cloud migration consulting,28000,2025-03-20,2025
+P-1015,Apex Tech Partners,IT Department,Overpayment refund adjustment,0,2025-03-25,2025
+P-1016,Apex Tech Partners,IT Department,Data governance framework,19500,2025-04-14,2025
+P-1017,Riverbend Facilities,Public Works,Facilities management monthly - Jan,8500,2025-01-31,2025
+P-1018,Riverbend Facilities,Public Works,Facilities management monthly - Feb,8500,2025-02-28,2025
+P-1019,Riverbend Facilities,Public Works,Facilities management monthly - Mar,8500,2025-03-31,2025
+P-1020,Riverbend Facilities,Public Works,Service credit - Jan overage,0,2025-02-05,2025

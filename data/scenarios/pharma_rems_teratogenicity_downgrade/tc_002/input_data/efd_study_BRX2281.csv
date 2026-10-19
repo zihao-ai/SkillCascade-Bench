@@ -1,0 +1,9 @@
+STUDYID,COMPOUND,SPECIES,DOSE_MG_KG,DOSE_GROUP,N_DAMS,LIVE_FETUSES_PER_LITTER,TOTAL_MALFORMATIONS_PCT,MALFORMATION_TYPE,NOAEL_ESTABLISHED,FINDING_SEVERITY
+BRX2281-EFD-2025,BRX-2281,Rat,0,Control,20,13.1,0.4,None,N/A,0.0
+BRX2281-EFD-2025,BRX-2281,Rat,5,Low,20,12.9,0.5,None,N/A,0.0
+BRX2281-EFD-2025,BRX-2281,Rat,25,Mid,20,12.7,0.6,Minor ossification delays (non-adverse),N/A,0.0
+BRX2281-EFD-2025,BRX-2281,Rat,75,High,20,12.5,0.7,Minor ossification delays (non-adverse),N/A,0.0
+BRX2281-EFD-2025,BRX-2281,Rabbit,0,Control,18,7.8,0.5,None,N/A,0.0
+BRX2281-EFD-2025,BRX-2281,Rabbit,2,Low,18,7.5,9.8,"Ectrodactyly (3 fetuses); short limbs (multiple litters)",No,1.0
+BRX2281-EFD-2025,BRX-2281,Rabbit,8,Mid,18,7.1,18.3,"Ectrodactyly (6 fetuses); short limbs; syndactyly (4 fetuses)",No,1.0
+BRX2281-EFD-2025,BRX-2281,Rabbit,25,High,18,6.4,27.6,"Ectrodactyly (10 fetuses); short limbs; syndactyly; polydactyly (multiple litters)",No,1.0

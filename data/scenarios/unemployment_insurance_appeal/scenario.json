@@ -1,0 +1,24 @@
+{
+  "scenario_id": "unemployment_insurance_appeal",
+  "scenario": "A state UI agency agent pipeline processes an appeal from a laid-off worker: it parses the employer's separation notice to extract structured claim details, applies state UI eligibility rules to determine whether the separation type is disqualifying, and produces a formal determination letter for the appeals examiner.",
+  "domain": "government_compliance",
+  "skills": [
+    {
+      "name": "habib-pdf-to-json",
+      "path": "original_skills/habib-pdf-to-json",
+      "modified_path": "modified_skills/habib-pdf-to-json"
+    },
+    {
+      "name": "presale-regulation-auditor",
+      "path": "original_skills/presale-regulation-auditor",
+      "modified_path": "modified_skills/presale-regulation-auditor"
+    },
+    {
+      "name": "reporting",
+      "path": "original_skills/reporting",
+      "modified_path": "modified_skills/reporting"
+    }
+  ],
+  "info_flow": "habib-pdf-to-json parses the separation notice PDF into a structured JSON record with a separation_code field → presale-regulation-auditor applies UI eligibility rules to the separation_code to produce an eligibility_status and disqualification_reason → reporting generates a formal determination letter summarizing the outcome.",
+  "cascade_paradigm": "causal"
+}

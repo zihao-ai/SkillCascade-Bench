@@ -1,0 +1,38 @@
+PATIENT CHART EXTRACT
+Patient: Carlos Rivera | DOB: 1978-03-12 | MRN: 4402817 | Member ID: BX-991047
+
+--- PROBLEM LIST ---
+- M05.79: Rheumatoid arthritis with rheumatoid factor, unspecified site (active, moderate-to-severe)
+- M79.3: Panniculitis (resolved)
+- Z87.39: Personal history of NSAID-related GI bleed (2021)
+
+--- MEDICATION HISTORY ---
+Methotrexate 20 mg/week oral: 2023-08-01 to 2024-02-15 | Outcome: Inadequate response (DAS28-CRP 5.8 at 6 mo)
+Hydroxychloroquine 400 mg/day: 2024-02-16 to 2024-06-10 | Outcome: Inadequate response (DAS28-CRP 5.4 at 4 mo)
+Folic acid 1 mg/day: 2023-08-01 to 2024-02-15 (co-prescription with MTX)
+Naproxen 500 mg PRN: 2022-2023 (pre-DMARD, d/c due to GI history)
+
+--- LAB RESULTS (2026-03-08) ---
+Anti-CCP: >250 U/mL (positive, high titer)
+Rheumatoid Factor: 186 IU/mL (positive)
+CRP: 18.2 mg/L (H; ref <5)
+ESR: 44 mm/hr (H; ref <20)
+CBC: WBC 7.1 / Hgb 12.8 / Plt 298
+AST: 22 U/L | ALT: 19 U/L
+HBsAg: Negative | HBcAb: Negative
+QuantiFERON-TB: Negative
+ANA: 1:80 speckled
+
+--- DISEASE ACTIVITY SCORES ---
+2023-08 (MTX start): DAS28-CRP 6.4
+2024-02 (MTX end/HCQ start): DAS28-CRP 5.8
+2024-06 (HCQ end): DAS28-CRP 5.4
+2026-04 (current, baseline for biologic request): DAS28-CRP 5.7
+Tender joints: 9/28 | Swollen joints: 7/28 | Patient global: 68/100
+
+--- IMAGING ---
+2023-02: Hand/wrist X-rays: marginal erosions at 2nd MCP bilateral; periarticular osteopenia. Consistent with active seropositive RA.
+2025-10: Follow-up hand X-rays: progression of erosions at 2nd and 3rd MCP bilateral.
+
+--- CLINICAL NOTES SUMMARY ---
+2026-04-10 (Dr. Okonkwo): Patient presents with ongoing active RA despite adequate DMARD therapy. Both MTX and HCQ trials completed at therapeutic doses and adequate duration. Radiographic progression confirmed. Biologic initiation appropriate per ACR 2021 guidelines. Pre-biologic infectious workup completed and negative. Proceeding with adalimumab PA request.

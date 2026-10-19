@@ -1,0 +1,46 @@
+[
+  {
+    "address": "388 Birchwood Lane, Austin, TX 78704",
+    "price": 520000,
+    "beds": 3,
+    "baths": 2,
+    "sqft": 1820,
+    "year_built": 2004,
+    "distance_miles": 0.1,
+    "days_on_market": 14,
+    "status": "closed"
+  },
+  {
+    "address": "450 Maplecrest Dr, Austin, TX 78704",
+    "price": 535000,
+    "beds": 3,
+    "baths": 2,
+    "sqft": 1900,
+    "year_built": 2006,
+    "distance_miles": 0.3,
+    "days_on_market": 22,
+    "status": "closed"
+  },
+  {
+    "address": "317 Elmwood Ct, Austin, TX 78704",
+    "price": 505000,
+    "beds": 3,
+    "baths": 2,
+    "sqft": 1780,
+    "year_built": 2003,
+    "distance_miles": 0.5,
+    "days_on_market": 31,
+    "status": "closed"
+  },
+  {
+    "address": "521 Lakeview Pkwy, Austin, TX 78704",
+    "price": 545000,
+    "beds": 4,
+    "baths": 2,
+    "sqft": 1980,
+    "year_built": 2007,
+    "distance_miles": 0.7,
+    "days_on_market": 18,
+    "status": "closed"
+  }
+]

@@ -1,0 +1,2 @@
+STUDYID,USUBJID,SUBJID,patient_id,active_nephritis,anti_dsdna_low_complement,triple_apl,la_positive,acl_high,prior_apo,sledai_gt4,egfr_low,proteinuria,hypertension,thrombocytopenia,on_hcq,on_aspirin,on_lmwh,disease_quiescent_6mo,age_over_35,bmi_over_30
+RHEUM-2026,SUBJ-001,001,MARIA-G,0,0,0,1,0,1,0,0,0,1,0,,1,0,,1,0

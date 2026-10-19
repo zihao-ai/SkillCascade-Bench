@@ -1,0 +1,24 @@
+{
+  "scenario_id": "pharma_ind_target_variant_briefing",
+  "scenario": "A biotech scientist prepares a preclinical target validation briefing to support an IND filing. They query ClinVar and gnomAD for pathogenicity and population frequency data for variants in the disease gene, then retrieve OpenTargets disease-target associations and GWAS evidence for the same gene, and finally produce a structured target-evidence summary report for regulatory review.",
+  "domain": "pharmaceutical_drug_discovery",
+  "skills": [
+    {
+      "name": "clarity-clinical",
+      "path": "original_skills/clarity-clinical",
+      "modified_path": "modified_skills/clarity-clinical"
+    },
+    {
+      "name": "pascalwhoop-medical-research-toolkit",
+      "path": "original_skills/pascalwhoop-medical-research-toolkit",
+      "modified_path": "modified_skills/pascalwhoop-medical-research-toolkit"
+    },
+    {
+      "name": "reporting",
+      "path": "original_skills/reporting",
+      "modified_path": "modified_skills/reporting"
+    }
+  ],
+  "info_flow": "clarity-clinical queries ClinVar/gnomAD and returns a variant list with clinical significance and population frequency → pascalwhoop-medical-research-toolkit queries OpenTargets and GWAS Catalog for disease-gene association scores and genetic evidence → reporting synthesizes both outputs into a structured target-evidence brief.",
+  "cascade_paradigm": "compositional"
+}

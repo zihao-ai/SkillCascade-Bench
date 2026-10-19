@@ -1,0 +1,11 @@
+category,description,amount,flow,expense_type,notes
+income,Part-time delivery driver (father - current),2800,income,recurring,New employment after layoff
+expense,Rent - monthly,1400,expense,recurring,Lease through December 2026
+expense,Utilities (electricity + water + internet),180,expense,recurring,Average monthly
+expense,Groceries and household supplies,320,expense,recurring,Family of 3
+expense,Transportation (gas + insurance),500,expense,recurring,Father commutes to delivery job
+expense,Student loan minimum payment,300,expense,recurring,Federal subsidized loan
+expense,Health insurance premium,200,expense,recurring,Continued on father's plan (COBRA partial)
+expense,Phone (family plan),100,expense,recurring,Two lines
+expense,Medical bill - emergency surgery out-of-pocket,8500,expense,one_time,Paid February 2026; insurance appeal pending for partial reimbursement ~$4000
+expense,Miscellaneous household,200,expense,recurring,Estimated

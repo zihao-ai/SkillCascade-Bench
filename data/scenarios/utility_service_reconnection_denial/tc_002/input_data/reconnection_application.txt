@@ -1,0 +1,12 @@
+ACCOUNT: 7730-554-019
+CUSTOMER: Priya Nkemdirim
+UTILITY: SoCal Gas Partners
+
+RECONNECTION APPLICATION
+DPA Enrollment: DPA-2026-CA-03371
+DPA Status: ACTIVE
+Deposit Receipt: DEP-RCP-2026-7730
+Deposit Amount: $400.00 (paid in full)
+Theft-of-Service Finding: NONE
+Service Type: Natural Gas
+Service Status: DISCONNECTED

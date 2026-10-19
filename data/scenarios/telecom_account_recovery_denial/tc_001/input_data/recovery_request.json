@@ -1,0 +1,16 @@
+{
+  "request_type": "account_recovery",
+  "request_id": "REC-2026-04-18-00847",
+  "customer": {
+    "account_number": "TLK-8842-7731",
+    "registered_name": "Marcus Osei Bonsu",
+    "account_created": "2023-02-01",
+    "registered_phone": "+1-415-555-0192",
+    "reason_for_recovery": "Lost SIM card, unable to receive SMS verification codes"
+  },
+  "documents_submitted": {
+    "id_front": "id_front.jpg",
+    "selfie": "selfie.jpg"
+  },
+  "notes": "Customer reports losing physical SIM three days ago. No secondary authentication method available. Requests account unlock and SIM replacement."
+}

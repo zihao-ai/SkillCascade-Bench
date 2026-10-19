@@ -1,0 +1,18 @@
+{
+  "transfer_id": "TXN-20260418-0147",
+  "amount": 3150.00,
+  "currency": "USD",
+  "recipient_handle": "sgt.james.logistics",
+  "recipient_account_age_days": 0,
+  "first_time_recipient": true,
+  "sender_id": "USR-0089214",
+  "sender_display_name": "Margaret W.",
+  "sender_account_age_days": 2847,
+  "sender_historical_avg_transfer_usd": 215,
+  "amount_vs_avg_multiple": 14.7,
+  "transfer_timestamp": "2026-04-18T14:24:00-05:00",
+  "platform": "ZellePay",
+  "context_mode": "financial_app",
+  "dataset_mode": "buyer_inquiry",
+  "note": "bond payment for deployment leave"
+}

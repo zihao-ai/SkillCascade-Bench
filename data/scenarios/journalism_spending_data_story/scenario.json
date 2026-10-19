@@ -1,0 +1,24 @@
+{
+  "scenario_id": "journalism_spending_data_story",
+  "scenario": "A data journalist scrapes a public city government spending-disclosure page to collect vendor payment records, runs statistical analysis on the extracted dataset to identify top recipients and average contract sizes, and then writes a structured news story summarizing the findings.",
+  "domain": "journalism_research",
+  "skills": [
+    {
+      "name": "web-scraper",
+      "path": "original_skills/web-scraper",
+      "modified_path": "modified_skills/web-scraper"
+    },
+    {
+      "name": "ub2-csv-data-analyzer",
+      "path": "original_skills/ub2-csv-data-analyzer",
+      "modified_path": "modified_skills/ub2-csv-data-analyzer"
+    },
+    {
+      "name": "reporting",
+      "path": "original_skills/reporting",
+      "modified_path": "modified_skills/reporting"
+    }
+  ],
+  "info_flow": "web-scraper fetches the public spending page and outputs a structured CSV of payment records with a data_quality label per row → ub2-csv-data-analyzer filters to high-quality rows, computes summary statistics (totals, averages, top vendors) → reporting writes a formatted news story citing those statistics.",
+  "cascade_paradigm": "causal"
+}

@@ -1,0 +1,16 @@
+{
+  "applicant_id": "APP-2026-0089",
+  "loan_amount": 260000,
+  "appraised_value": 325000,
+  "down_payment_pct": 0.20,
+  "credit_score": 758,
+  "dti_ratio": 0.32,
+  "property_zip": "48205",
+  "neighborhood": {
+    "annual_resale_volume": 180,
+    "avg_days_on_market": 74,
+    "new_construction_ratio": 0.04,
+    "primary_employer_sector": "retail/food_service",
+    "employer_sector_share": 0.71
+  }
+}

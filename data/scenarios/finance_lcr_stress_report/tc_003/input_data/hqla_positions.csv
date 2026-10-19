@@ -1,0 +1,8 @@
+asset_id,asset_name,asset_type,asset_subtype,hqla_tier,market_value_usd_m,stress_outflow_pct,row_type
+B001,German Bund 3Y,sovereign,treasury_bond,Level1,320,,asset
+B002,US Treasury 10Y,sovereign,treasury_bond,Level1,280,,asset
+B003,Fannie Mae Agency Bond 5Y,agency,agency_bond,Level2A,180,,asset
+B004,FHLB Bond 2Y,agency,agency_bond,Level2A,160,,asset
+L001,Corporate demand deposits,liability,,,1800,12,liability
+L002,SME operating accounts,liability,,,900,8,liability
+L003,Interbank overnight funding,liability,,,600,25,liability

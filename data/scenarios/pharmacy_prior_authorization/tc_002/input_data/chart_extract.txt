@@ -1,0 +1,30 @@
+CHART EXTRACT — Northbridge Metabolic & Diabetes Center
+Member ID: PBM-2026-44821
+Extracted: April 18, 2026
+
+DIAGNOSES ON FILE:
+- Type 2 Diabetes Mellitus with hyperglycemia (primary)
+- Obesity, Class II
+- Hypertriglyceridemia (secondary finding)
+
+MEDICATION HISTORY:
+- Metformin 500 mg twice daily → titrated to 1000 mg twice daily (2000 mg/day)
+  Start: February 2025
+  End: August 2025 (6-month course)
+  Status: Completed; patient tolerated without dose-limiting side effects
+- No other antidiabetic agents trialed
+
+RECENT LABORATORY RESULTS:
+- Hemoglobin A1c (initial evaluation, Feb 2025): elevated
+- Hemoglobin A1c (6-month follow-up, Aug 2025): elevated, similar to baseline
+- BMI (most recent): 38.0 kg/m²
+- Fasting glucose (Aug 2025): elevated
+- Renal function (Aug 2025): within normal limits (eGFR > 60)
+- Liver function: within normal limits
+
+CLINICAL NOTES:
+Dr. Marchetti note (Aug 2025): "Patient presents for 6-month diabetes follow-up. Despite metformin maximization, glycemic targets remain unmet. Patient compliant with medication and dietary counseling. Discussed intensification options including GLP-1 agonist therapy given combined benefit for glycemic control and cardiovascular risk reduction. Patient agrees to proceed. Prior authorization to be submitted."
+
+STEP THERAPY STATUS:
+Metformin therapy completed per PBM step-therapy protocol requirements.
+Duration on metformin: 6 months at maximum tolerated dose.

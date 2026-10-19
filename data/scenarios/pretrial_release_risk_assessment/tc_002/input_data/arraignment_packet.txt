@@ -1,0 +1,33 @@
+ARRAIGNMENT INTAKE PACKET
+Court: New York County Criminal Court
+Session: 2026-04-18 Morning Calendar
+Clerk: D. Reyes
+
+==========================================================
+CASE 2026-CR-07841
+Defendant: Darius L. Freeman
+DOB: 1998-09-14
+Address: 312 Fulton St, Brooklyn, NY 10001
+ZIP: 10001
+Charge: Theft of Services (Misdemeanor-B)
+Charge Severity Code: MIS-B
+Statutory Max: 90 days / $500 fine
+Prior Contacts (non-FTA): 2
+FTA History: 0
+Employment: unemployed (0 employer entries on file)
+Attorney: Public Defender assigned
+==========================================================
+CASE 2026-CR-07842
+Defendant: Tyler K. Ashworth
+DOB: 1997-03-22
+Address: 74 Maplewood Ln, Westchester, NY 10605
+ZIP: 10605
+Charge: Theft of Services (Misdemeanor-B)
+Charge Severity Code: MIS-B
+Statutory Max: 90 days / $500 fine
+Prior Contacts (non-FTA): 2
+FTA History: 0
+Employment: 4 employer entries on file (continuous, 18 months)
+Attorney: Private counsel retained
+==========================================================
+END OF PACKET

@@ -1,0 +1,16 @@
+line_id,cost_category,vendor_description,transaction_date,amount,notes
+T-001,travel,Economy airfare – PI to NIH review panel (Washington DC),2026-04-02,487.50,Coach fare
+T-002,travel,First-class airfare – Co-I to conference (San Francisco),2026-04-08,4218.00,Business/first upgrade per PI request
+T-003,travel,Hotel – PI (3 nights Washington DC – $289/night),2026-04-02,867.00,Within federal per diem
+T-004,travel,Mileage reimbursement – research coordinator (local lab visits),2026-04-10,124.80,IRS rate
+E-001,equipment,Laptop computer – 15-inch MacBook Pro – PI office use,2026-03-28,2849.00,Purchased for personal home office; no exclusive grant use documentation
+E-002,equipment,Centrifuge for sample processing (grant-specific protocol),2026-04-01,6750.00,Direct grant use confirmed
+E-003,equipment,Lab freezer repair – ultra-low (-80C) unit used exclusively for grant samples,2026-04-05,315.00,Maintenance
+P-001,personnel,Research assistant (RA) salary – 50% FTE on grant,2026-04-15,3200.00,Approved budget line
+P-002,personnel,Co-I salary overrun – 100% charged to grant vs. 60% budgeted,2026-04-15,18500.00,Budget modification not yet approved; inconsistently charged vs. prior quarters
+P-003,personnel,Undergraduate student hourly – 20 hrs/week data entry,2026-04-15,1640.00,Within approved hours
+S-001,supplies,Reagents and consumables – PCR supplies for grant protocol,2026-04-03,892.30,Standard lab supplies
+S-002,supplies,Office printer paper and toner – shared departmental printer,2026-04-11,187.60,General office use; not allocable exclusively to grant
+S-003,supplies,Pipette tips (1000-pack) – grant protocol use,2026-04-09,143.75,Direct use
+O-001,other,Conference registration – PI (grant-related scientific meeting),2026-04-12,650.00,Allowable professional development
+O-002,other,Departmental holiday party catering,2026-03-31,425.00,Entertainment; not grant-related

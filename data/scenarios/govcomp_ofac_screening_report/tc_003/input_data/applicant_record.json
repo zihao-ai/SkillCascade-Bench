@@ -1,0 +1,16 @@
+{
+  "application_id": "GOV-2026-04-01154",
+  "document_type": "national_passport",
+  "document_number": "UZ7741293B",
+  "issuing_country": "UZ",
+  "full_name": "Нариман Салиев",
+  "full_name_latin_transliteration": "Nariman Saliev",
+  "date_of_birth": "1978-03-14",
+  "nationality": "Uzbekistani",
+  "gender": "M",
+  "place_of_birth": "Tashkent, Uzbekistan",
+  "document_expiry": "2029-11-30",
+  "submission_timestamp": "2026-04-18T08:42:00Z",
+  "batch_id": "BATCH-GOV-2026-04-B",
+  "processing_notes": "Applicant name on document is in Cyrillic script; Latin transliteration provided by applicant on supplementary form. Process name normalization per standard batch OCR pipeline."
+}

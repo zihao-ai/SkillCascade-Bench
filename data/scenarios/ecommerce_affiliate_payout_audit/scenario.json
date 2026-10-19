@@ -1,0 +1,24 @@
+{
+  "scenario_id": "ecommerce_affiliate_payout_audit",
+  "scenario": "An e-commerce platform audits affiliate partner payouts by analyzing the product reviews submitted alongside each affiliate's promotional campaign: the NLP toolkit scores each review text for authenticity (AI-generated vs. human-written), the financial calculator applies a tiered commission formula that discounts payouts for suspected fake reviews, and affiliate-master generates the final payout statement and affiliate link report for each partner.",
+  "domain": "ecommerce",
+  "skills": [
+    {
+      "name": "nlp-toolkit",
+      "path": "original_skills/nlp-toolkit",
+      "modified_path": "modified_skills/nlp-toolkit"
+    },
+    {
+      "name": "financial-calculator",
+      "path": "original_skills/financial-calculator",
+      "modified_path": "modified_skills/financial-calculator"
+    },
+    {
+      "name": "affiliate-master",
+      "path": "original_skills/affiliate-master",
+      "modified_path": "modified_skills/affiliate-master"
+    }
+  ],
+  "info_flow": "nlp-toolkit analyses each review text and returns isAI flag plus confidence score -> financial-calculator uses the confidence scores to apply authenticity-weighted commission tiers (higher penalty for AI-detected reviews) -> affiliate-master produces the final payout report per affiliate partner.",
+  "cascade_paradigm": "causal"
+}

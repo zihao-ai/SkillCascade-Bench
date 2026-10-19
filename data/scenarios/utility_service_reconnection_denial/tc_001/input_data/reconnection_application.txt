@@ -1,0 +1,49 @@
+MERIDIAN POWER & WATER AUTHORITY
+Service Reconnection Application
+Form PUC-RC-2026
+
+Account Number: 4471-882-003
+Customer Name: Marcus Delgado
+Service Address: 1147 Oleander Drive, Apt 4B, Riverton, NV 89512
+Mailing Address: Same as above
+Phone: (702) 555-0194
+Email: m.delgado.rvt@email.net
+
+--- APPLICATION DETAILS ---
+
+Service Type: Electric (Residential)
+Date of Disconnection: 2026-03-01
+Reason for Disconnection: Non-payment of balance
+
+--- RECONNECTION PREREQUISITES (Customer Declaration) ---
+
+I, Marcus Delgado, declare that the following conditions have been satisfied:
+
+1. Payment Plan Enrollment:
+   I have enrolled in a state-approved Deferred Payment Agreement (DPA)
+   under NV PUC Tariff Rule 12.4 (Payment Plan Program).
+   DPA Confirmation Number: DPA-2026-NV-00814
+   Monthly installment amount: $85.00
+   Plan start date: 2026-04-10
+   Plan enrollment status: ACTIVE
+
+2. Reconnection Deposit:
+   I have paid the required reconnection deposit in full.
+   Deposit amount paid: $250.00
+   Payment date: 2026-04-10
+   Payment method: Certified check #CC-40812
+   Receipt confirmation: DEP-RCP-2026-4471
+
+3. Theft-of-Service Status:
+   No active or pending theft-of-service finding is on file for this account.
+   Confirmed by customer service representative on 2026-04-12.
+   Representative ID: CSR-7743
+
+--- REGULATORY ACKNOWLEDGMENT ---
+
+Customer acknowledges that under NV PUC General Order 18, Sections 7(a)–7(c),
+the utility is required to restore service within 24 hours of:
+  (a) enrollment in an approved Deferred Payment Agreement, AND
+  (b) receipt of the reconnection deposit in full.
+
+Signature: Marcus Delgado       Date: 2026-04-12

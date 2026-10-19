@@ -1,0 +1,17 @@
+{
+  "product_id": "prod_uikit2026",
+  "reviews": [
+    {"id": "rev_001", "rating": 5, "body": "This kit saved me so much time. Really well organized and the components just work out of the box.", "reviewerName": "Marcus T.", "createdAt": "2026-03-01T10:00:00Z"},
+    {"id": "rev_002", "rating": 5, "body": "Honestly one of the best UI kits I've bought. The dark mode theme is particularly good.", "reviewerName": "Priya S.", "createdAt": "2026-03-03T14:20:00Z"},
+    {"id": "rev_003", "rating": 4, "body": "Great components, I just wish there were more mobile-specific patterns included.", "reviewerName": "David L.", "createdAt": "2026-03-05T09:45:00Z"},
+    {"id": "rev_004", "rating": 5, "body": "Used this on three client projects now. Worth every penny.", "reviewerName": "Sofia R.", "createdAt": "2026-03-07T16:30:00Z"},
+    {"id": "rev_005", "rating": 5, "body": "Clean, consistent, and the accessibility notes are a huge bonus for our team.", "reviewerName": "Kenji W.", "createdAt": "2026-03-09T11:00:00Z"},
+    {"id": "rev_006", "rating": 4, "body": "Very useful library. Documentation could be more detailed but the components themselves are excellent.", "reviewerName": "Aisha M.", "createdAt": "2026-03-11T13:15:00Z"},
+    {"id": "rev_007", "rating": 5, "body": "Purchased for my whole design team. Everyone loves it especially the color token system.", "reviewerName": "Tom H.", "createdAt": "2026-03-13T08:00:00Z"},
+    {"id": "rev_008", "rating": 5, "body": "The Sketch version works flawlessly. Finally a kit that respects both tool users.", "reviewerName": "Chloe B.", "createdAt": "2026-03-15T15:45:00Z"},
+    {"id": "rev_009", "rating": 4, "body": "Good quality overall. A few icons were missing from the set but otherwise no complaints.", "reviewerName": "Ravi N.", "createdAt": "2026-03-17T10:30:00Z"},
+    {"id": "rev_010", "rating": 5, "body": "Really comprehensive. I especially like that it covers both Figma and Sketch without compromise.", "reviewerName": "Elena V.", "createdAt": "2026-03-19T12:00:00Z"},
+    {"id": "rev_011", "rating": 5, "body": "Great buy! Used it for a redesign project and the client was very happy.", "reviewerName": "James O.", "createdAt": "2026-03-21T09:00:00Z"},
+    {"id": "rev_012", "rating": 5, "body": "Highly recommended for any designer who works on complex products. The component hierarchy makes sense.", "reviewerName": "Natalie P.", "createdAt": "2026-03-23T14:00:00Z"}
+  ]
+}

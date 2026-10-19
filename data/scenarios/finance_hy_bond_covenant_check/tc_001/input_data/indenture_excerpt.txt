@@ -1,0 +1,48 @@
+PELHAM RIDGE PACKAGING INC.
+8.750% Senior Secured Notes due 2030
+Indenture — Maintenance Covenant Summary (Section 4.09)
+
+FINANCIAL MAINTENANCE COVENANTS
+
+As of each fiscal quarter end, the Issuer shall comply with the following
+maintenance covenants tested on a trailing twelve-month basis:
+
+1. NET LEVERAGE RATIO
+   The Net Leverage Ratio (defined as Total Net Debt divided by Consolidated
+   EBITDA) shall not exceed 5.25x.
+
+   "Total Net Debt" means total indebtedness less unrestricted cash and cash
+   equivalents.
+   "Consolidated EBITDA" means net income plus interest expense, income taxes,
+   depreciation, and amortization, adjusted for non-recurring items per the
+   definitions in Section 1.01.
+
+2. INTEREST COVERAGE RATIO
+   The Interest Coverage Ratio (defined as Consolidated EBITDA divided by
+   Consolidated Interest Expense) shall not be less than 2.75x.
+
+CURE PERIOD
+   Upon a Covenant Breach Event (as defined), the Issuer has 30 days to
+   deliver written notice to the Trustee and 60 days from quarter-end to
+   cure the breach or obtain a Majority Holder Waiver, failing which an
+   Event of Default shall be declared under Section 6.01(f).
+
+NOTE: Covenant thresholds are subject to the equity cure provisions set
+forth in Section 4.09(c). The step-down schedule provides for the Net
+Leverage covenant to tighten to 5.00x commencing Q3 2027.
+
+---
+ISSUER QUARTERLY FINANCIAL SUMMARY (Q1 2026 — 12-month trailing)
+
+  Total Indebtedness:          $685,000,000
+  Unrestricted Cash:            $37,000,000
+  Total Net Debt:              $648,000,000
+
+  Consolidated EBITDA:         $120,000,000
+  Consolidated Interest Exp:    $42,500,000
+
+  Net Leverage Ratio (actual):  5.40x   (648 / 120)
+  Interest Coverage (actual):   2.82x   (120 / 42.5)
+
+PREPARED BY: Pelham Ridge FP&A — April 2026
+DOCUMENT REF: PRPI-2026-Q1-COV-RPT

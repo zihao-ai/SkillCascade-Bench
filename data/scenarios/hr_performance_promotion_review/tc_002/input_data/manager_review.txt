@@ -1,0 +1,25 @@
+FY2026 ANNUAL PERFORMANCE REVIEW
+Employee: Marcus Webb
+Title: Senior DevOps Engineer
+Reviewer: Priya Nair (Engineering Manager)
+Review Period: Jan–Dec 2025
+
+--- STAR EPISODES ---
+
+EPISODE 1 — Infrastructure Reliability
+Situation: Production Kubernetes cluster experienced repeated node-pool exhaustion during peak traffic windows in Q2.
+Task: Design and implement autoscaling policy to eliminate unplanned downtime.
+Action: Marcus audited cluster metrics, identified misconfigured HPA thresholds, rewrote the autoscaling manifests, and deployed canary validation over two sprint cycles.
+Result: Reduced unplanned downtime events from 11/month to 0 for the following quarter.
+Score: 4/4
+
+EPISODE 2 — CI/CD Pipeline Modernization
+Situation: Legacy Jenkins pipelines had 40-minute average build times, blocking release velocity.
+Task: Migrate critical pipelines to GitHub Actions with parallel job execution.
+Action: Marcus mapped pipeline dependencies, parallelized test stages, introduced caching layers, and documented the migration runbook for the team.
+Result: Average build time dropped to 9 minutes; team release cadence improved from bi-weekly to weekly.
+Score: 3/4
+
+--- MANAGER FREE-TEXT COMMENTS ---
+
+Frankly, I've found working with Marcus this year to be draining. He pushes back on almost every architectural decision I make, and there have been several times when I've had to repeat instructions that I thought were clear. His communication style is blunt to the point of being disrespectful in team meetings — I've received complaints from two other engineers. I'm disappointed that despite clear technical results, he seems incapable of operating professionally at a staff-level. His attitude continues to undermine team cohesion. I'm not confident he's ready for a staff role.

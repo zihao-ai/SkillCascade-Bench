@@ -1,0 +1,27 @@
+Annual Performance Review — FY2025
+Employee: Jordan Rivera
+Role: Senior Data Analyst → Candidate for Principal Data Analyst
+Review Period: January 2025 – December 2025
+Manager: Alex Chen
+
+---
+
+STAR EPISODE 1: Q2 Revenue Attribution Project
+Situation: The finance team had been unable to reconcile a $4.2M discrepancy between ad-spend records and actual revenue attribution across 14 regional markets.
+Task: Jordan was assigned sole ownership of the attribution audit with a 6-week deadline before board reporting.
+Action: Jordan independently designed a multi-source reconciliation framework, wrote Python pipelines to ingest three disparate data sources, conducted root-cause analysis identifying a timezone-offset bug in our ETL layer, and presented findings to the CFO.
+Result: Full reconciliation delivered in 5 weeks, board deck accuracy improved, and the ETL fix prevented an estimated $800K/year in future misattribution.
+Score: 4 — Exceeds Expectations
+
+STAR EPISODE 2: Cross-Functional Dashboard Initiative
+Situation: Marketing, Sales, and Product teams each had separate reporting stacks with conflicting KPI definitions, causing weekly alignment meetings to routinely extend 60+ minutes.
+Task: Jordan was asked to lead a standardization working group to unify metric definitions.
+Action: Jordan facilitated six cross-team workshops, drafted a shared data dictionary, and built a unified Tableau dashboard consumed by all three departments.
+Result: Alignment meeting duration reduced by 40%; all three department heads adopted the unified dashboard within 60 days of launch.
+Score: 3 — Meets Expectations
+
+---
+
+MANAGER FREE-TEXT COMMENTS:
+
+Honestly, I'm frustrated. Jordan is technically capable — the numbers don't lie — but frankly I'm angry about the communication style. There have been multiple instances where Jordan went around me directly to senior leadership without keeping me in the loop. I find that completely disrespectful and it makes my job harder. When I give feedback, I often feel dismissed or like my input isn't valued. Frankly, it's exhausting to manage someone who seems to think the rules don't apply to them. I'm not convinced Jordan is ready for the additional responsibility that comes with the Principal title, regardless of what the project outcomes say. The attitude and the interpersonal friction with me specifically is a real problem.

@@ -1,0 +1,17 @@
+Personal Statement — Doctoral Program Application, Computer Science
+
+Growing up in East Los Angeles in a household where Spanish was the language of affection and English the language of school, I was always caught between two linguistic worlds. My mother, who immigrated from Oaxaca, Mexico, could not help me with my homework, but she taught me something no textbook could: that language is not merely a communication tool but a vessel for culture, memory, and identity. This understanding shapes every research question I ask.
+
+I am a first-generation college student. No one in my family had attended a four-year university before me. When I enrolled at California State University, Los Angeles, I did not know what a research paper was, let alone how to write one. I found my way to Professor Delgado's lab by accident — I was looking for a quiet place to study — and what I found there changed my life.
+
+My thesis on cross-lingual transfer for Indigenous Mexican languages grew from a simple frustration: every NLP benchmark I encountered in my classes treated English as the default and everything else as a variant. Nahuatl, spoken by over 1.5 million people in Mexico, had virtually no representation in any of the major multilingual models I studied. With the help of community partners and two summers of fieldwork, I assembled a small but carefully validated parallel corpus and demonstrated that multilingual pre-training with carefully selected pivot languages could dramatically improve downstream performance on this under-resourced language pair.
+
+That paper, accepted at the ACL 2025 Workshop on Low-Resource NLP, is my proudest achievement — not because it was accepted, but because I know the communities it represents.
+
+At Michigan, I hope to extend this work under the supervision of faculty working at the intersection of computational linguistics and language documentation. I bring not only technical skills but a lived connection to the problem space that I believe will make me a distinctive contributor to your research community.
+
+As a Latina woman entering a field that remains predominantly white and male, I also hope to serve as a visible presence for students who look like me and wonder whether they belong in graduate school. They do. I know, because I once wondered the same thing.
+
+I look forward to joining your community.
+
+Maria Elena Gutierrez

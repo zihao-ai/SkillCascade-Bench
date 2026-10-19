@@ -1,0 +1,27 @@
+EARNINGS STATEMENT
+--------------------------------------------------
+Employee:        Marcus T. Delgado
+Employer:        Sunrise Retail Group Inc.
+Pay Period:      04/01/2026 – 04/30/2026
+Pay Date:        04/30/2026
+
+EARNINGS
+Regular Hours:   160.00 hrs @ $10.90/hr        $1,744.00
+Tips & Misc:     -$0.78 (rounding adjustment)
+---------------------------------
+Gross Earned Income:                            $1,743.22
+
+DEDUCTIONS
+Federal Income Tax Withheld:                    $87.16
+FICA – Social Security (6.2%):                  $108.08
+FICA – Medicare (1.45%):                        $25.28
+State Income Tax (2.5%):                        $43.58
+Employee Health Premium:                        $0.00
+---------------------------------
+Total Deductions:                               $264.10
+
+NET PAY:                                        $1,479.12
+
+Year-to-Date Gross:                             $6,972.88
+--------------------------------------------------
+This statement is for payroll record purposes.

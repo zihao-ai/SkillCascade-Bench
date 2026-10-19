@@ -1,0 +1,35 @@
+[
+  {
+    "address": "2198 Spruce Hill Rd, Denver, CO 80220",
+    "price": 685000,
+    "beds": 4,
+    "baths": 3,
+    "sqft": 2290,
+    "year_built": 2000,
+    "distance_miles": 0.1,
+    "days_on_market": 11,
+    "status": "closed"
+  },
+  {
+    "address": "2380 Elmridge Ave, Denver, CO 80220",
+    "price": 710000,
+    "beds": 4,
+    "baths": 3,
+    "sqft": 2410,
+    "year_built": 2003,
+    "distance_miles": 0.4,
+    "days_on_market": 19,
+    "status": "closed"
+  },
+  {
+    "address": "2105 Clearview Blvd, Denver, CO 80220",
+    "price": 668000,
+    "beds": 4,
+    "baths": 2,
+    "sqft": 2250,
+    "year_built": 1999,
+    "distance_miles": 0.6,
+    "days_on_market": 27,
+    "status": "closed"
+  }
+]

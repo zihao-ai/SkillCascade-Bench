@@ -1,0 +1,24 @@
+{
+  "scenario_id": "govcomp_501c3_determination",
+  "scenario": "An IRS compliance analyst reviews a Form 1023 tax-exempt status application from a nonprofit organization. The analyst uses an NLP tool to extract key descriptors and financial figures from the applicant's narrative statements, then runs a financial ratio analysis to verify that charitable program expenditures meet the statutory threshold, and finally generates a formal determination memo recommending approval or denial.",
+  "domain": "government_compliance",
+  "skills": [
+    {
+      "name": "nlp-toolkit",
+      "path": "original_skills/nlp-toolkit",
+      "modified_path": "modified_skills/nlp-toolkit"
+    },
+    {
+      "name": "financial-calculator",
+      "path": "original_skills/financial-calculator",
+      "modified_path": "modified_skills/financial-calculator"
+    },
+    {
+      "name": "reporting",
+      "path": "original_skills/reporting",
+      "modified_path": "modified_skills/reporting"
+    }
+  ],
+  "info_flow": "nlp-toolkit analyzes the applicant's narrative text and extracts text metrics including vocabulary richness and inline numeric patterns → financial-calculator receives extracted figures and computes charitable program expenditure ratios against IRS thresholds → reporting generates a determination memo with a pass/fail recommendation.",
+  "cascade_paradigm": "causal"
+}

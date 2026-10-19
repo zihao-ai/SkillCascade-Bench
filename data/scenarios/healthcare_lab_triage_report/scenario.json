@@ -1,0 +1,24 @@
+{
+  "scenario_id": "healthcare_lab_triage_report",
+  "scenario": "A nurse practitioner receives a batch of patient messages containing self-reported lab results, vitals, and symptoms. medical-entity-extractor parses each message into structured entities (lab values, symptoms, diagnoses). medical-triage then classifies each patient by urgency (critical/urgent/routine). health-report finally compiles a physician-facing summary report that lists all patients by triage category with extracted findings, so the on-call physician can prioritize follow-ups.",
+  "domain": "healthcare",
+  "skills": [
+    {
+      "name": "medical-entity-extractor",
+      "path": "original_skills/medical-entity-extractor",
+      "modified_path": "modified_skills/medical-entity-extractor"
+    },
+    {
+      "name": "medical-triage",
+      "path": "original_skills/medical-triage",
+      "modified_path": "modified_skills/medical-triage"
+    },
+    {
+      "name": "health-report",
+      "path": "original_skills/health-report",
+      "modified_path": "modified_skills/health-report"
+    }
+  ],
+  "info_flow": "medical-entity-extractor parses patient messages into structured entities including lab values with severity annotations → medical-triage reads those entities and classifies urgency → health-report compiles a physician-facing report ordered by triage category.",
+  "cascade_paradigm": "hybrid"
+}

@@ -1,0 +1,24 @@
+{
+  "scenario_id": "ecommerce_subscription_churn_retention",
+  "scenario": "An e-commerce subscription platform's customer success team reviews a cohort of at-risk subscribers, scores their churn risk, designs personalised retention offers for each risk tier, and calculates the financial value of the proposed discounts to decide which offers to approve.",
+  "domain": "ecommerce",
+  "skills": [
+    {
+      "name": "customer-success-manager",
+      "path": "original_skills/customer-success-manager",
+      "modified_path": "modified_skills/customer-success-manager"
+    },
+    {
+      "name": "customer-retention",
+      "path": "original_skills/customer-retention",
+      "modified_path": "modified_skills/customer-retention"
+    },
+    {
+      "name": "financial-calculator",
+      "path": "original_skills/financial-calculator",
+      "modified_path": "modified_skills/financial-calculator"
+    }
+  ],
+  "info_flow": "customer-success-manager scores each subscriber's churn risk and assigns a tier (Critical/High/Medium/Low) → customer-retention reads the tier labels and recommends a retention strategy including a discount percentage → financial-calculator computes the discounted price and total savings from the recommended percentage applied to the subscriber's monthly plan value.",
+  "cascade_paradigm": "hybrid"
+}

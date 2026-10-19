@@ -1,0 +1,28 @@
+{
+  "company": "Meridian Industrial Corp",
+  "report_date": "2026-04-15",
+  "treasury_analyst": "Sandra K.",
+  "foreign_currency_receivables": [
+    {
+      "currency": "EUR",
+      "amount": 500000,
+      "description": "Q2 invoice from German distributor (due 90 days)",
+      "counterparty": "Bauer GmbH"
+    },
+    {
+      "currency": "GBP",
+      "amount": 300000,
+      "description": "Q2 invoice from UK subsidiary settlement (due 60 days)",
+      "counterparty": "Meridian UK Ltd"
+    },
+    {
+      "currency": "JPY",
+      "amount": 80000000,
+      "description": "Q1 settlement from Japanese joint venture (due 45 days)",
+      "counterparty": "Meridian-Yamamoto JV"
+    }
+  ],
+  "hedge_premium_percent": 2.5,
+  "base_currency": "USD",
+  "notes": "Treasurer requests full USD conversion, hedge cost calculation, and board memo for April 2026 FX Committee meeting."
+}

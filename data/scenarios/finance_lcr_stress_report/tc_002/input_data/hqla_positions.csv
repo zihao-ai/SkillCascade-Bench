@@ -1,0 +1,11 @@
+asset_id,asset_name,asset_type,asset_subtype,hqla_tier,market_value_usd_m,stress_outflow_pct,row_type
+A001,US Treasury 2Y,sovereign,treasury_bond,Level1,200,,asset
+A002,US Treasury 5Y,sovereign,treasury_bond,Level1,200,,asset
+A003,FNMA Senior Note 3Y,agency,agency_bond,Level2A,150,,asset
+A004,FHLB Global Note 2Y,agency,agency_bond,Level2A,150,,asset
+A005,FFCB Discount Note 1Y,agency,agency_bond,Level2A,150,,asset
+A006,Freddie Mac Note 3Y,agency,agency_bond,Level2A,150,,asset
+L001,Unsecured wholesale funding - corporates,liability,,, 3000,15,liability
+L002,Unsecured wholesale funding - FIs,liability,,,2500,20,liability
+L003,Retail demand deposits,liability,,,2000,18,liability
+L004,Operational deposits - corporates,liability,,,1500,25,liability

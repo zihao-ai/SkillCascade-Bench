@@ -1,0 +1,24 @@
+{
+  "scenario_id": "govcomp_fedramp_ato_assessment",
+  "scenario": "A cloud service provider (CSP) prepares its FedRAMP Authorization to Operate (ATO) package. A compliance officer uploads the System Security Plan (SSP) controls spreadsheet, runs a policy-based compliance assessment against the FedRAMP Moderate baseline, and generates a formal ATO readiness summary report for the Agency Authorizing Official (AO).",
+  "domain": "government_compliance",
+  "skills": [
+    {
+      "name": "csv-pipeline",
+      "path": "original_skills/csv-pipeline",
+      "modified_path": "modified_skills/csv-pipeline"
+    },
+    {
+      "name": "compliance-checker",
+      "path": "original_skills/arc-compliance-checker",
+      "modified_path": "modified_skills/arc-compliance-checker"
+    },
+    {
+      "name": "reporting",
+      "path": "original_skills/reporting",
+      "modified_path": "modified_skills/reporting"
+    }
+  ],
+  "info_flow": "csv-pipeline parses the SSP controls CSV and computes per-control-family compliance scores → compliance-checker assesses the scored results against a FedRAMP-baseline policy and classifies each family as COMPLIANT, NON-COMPLIANT, or UNKNOWN → reporting generates a structured ATO readiness summary report with an executive recommendation.",
+  "cascade_paradigm": "causal"
+}

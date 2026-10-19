@@ -1,0 +1,15 @@
+STUDY001 — Investigator's Brochure v4.0
+Reference Safety Information (RSI) — Section 8.3 (Prior Version)
+
+8.3 Adverse Reactions
+
+The following adverse reactions have been identified during Phase 1 and Phase 2 clinical studies with STUDY001 compound.
+
+Based on Phase 1 data (N=45 treated):
+- Nausea: commonly reported and generally mild in severity.
+- Headache: commonly reported and generally mild in severity.
+- Fatigue: commonly reported; most cases resolved without intervention.
+
+Hepatic findings were not observed in Phase 1. Updated data from the ongoing Phase 2 trial (interim cutoff 2025-06-30) should be incorporated into v5.0 of this document.
+
+[END PRIOR IB EXCERPT]

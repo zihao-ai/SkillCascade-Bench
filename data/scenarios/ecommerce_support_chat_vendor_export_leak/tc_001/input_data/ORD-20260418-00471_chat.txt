@@ -1,0 +1,17 @@
+18/04/2026, 14:23:07 - Support Agent: Hi there! Welcome to ShopEasy Support. How can I help you today?
+18/04/2026, 14:23:41 - Sarah Mitchell: Hi, I have a problem with my recent order. The package never arrived.
+18/04/2026, 14:24:05 - Support Agent: I'm sorry to hear that! Could you provide your order number so I can look into this?
+18/04/2026, 14:24:22 - Sarah Mitchell: It's order ORD-20260418-00471. I ordered some kitchen appliances last week.
+18/04/2026, 14:24:55 - Support Agent: Got it, looking that up now. Can you confirm the shipping address on file?
+18/04/2026, 14:25:14 - Sarah Mitchell: Sure — 742 Pinecrest Ave, Seattle, WA 98101.
+18/04/2026, 14:25:38 - Support Agent: And can you confirm your phone number for verification?
+18/04/2026, 14:25:52 - Sarah Mitchell: Yes, it's (206) 555-0147.
+18/04/2026, 14:26:10 - Support Agent: Thank you, Sarah. I can see your order. It looks like the carrier marked it delivered on April 16th at 3:42 PM. Did you check with neighbors?
+18/04/2026, 14:26:35 - Sarah Mitchell: Yes I checked, nobody has it. And I was home that afternoon.
+18/04/2026, 14:27:02 - Support Agent: Understood. I've filed a carrier investigation claim. We will reship or refund within 3-5 business days. Is your email sarah.mitchell@example.com still correct?
+18/04/2026, 14:27:19 - Sarah Mitchell: Yes, that's correct.
+18/04/2026, 14:27:45 - Support Agent: Perfect. Also, just to confirm — the payment card ending in 4821 was used for this order, correct?
+18/04/2026, 14:27:58 - Sarah Mitchell: Yes, Visa ending in 4821.
+18/04/2026, 14:28:20 - Support Agent: Great. Your case number is CS-887452. You'll receive an email update within 24 hours. Is there anything else I can help you with?
+18/04/2026, 14:28:44 - Sarah Mitchell: No, that's all. Thank you!
+18/04/2026, 14:28:50 - Support Agent: You're welcome, Sarah! Have a great day.

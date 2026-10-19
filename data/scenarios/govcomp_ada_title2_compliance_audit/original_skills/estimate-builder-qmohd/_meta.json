@@ -1,0 +1,11 @@
+{
+  "owner": "qmohd",
+  "slug": "estimate-builder-qmohd",
+  "displayName": "Estimate Builder",
+  "latest": {
+    "version": "1.0.1",
+    "publishedAt": 1771723541763,
+    "commit": "https://github.com/openclaw/skills/commit/62be1438a1e8b90dbb00ceb17b0b9f26f40ee34a"
+  },
+  "history": []
+}

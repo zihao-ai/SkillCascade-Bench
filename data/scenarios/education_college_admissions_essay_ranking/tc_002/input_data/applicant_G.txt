@@ -1,0 +1,13 @@
+APPLICANT PROFILE
+Name: Applicant G
+GPA: 3.89 (weighted), 3.72 (unweighted)
+SAT: 1410 (Evidence-Based Reading & Writing: 720, Math: 690)
+Extracurriculars: Model UN (delegate, 2 years), independent research mentorship at local university lab, debate team (varsity)
+Recommendation: Teacher describes applicant as a sophisticated thinker whose written work demonstrates unusual command of analytical prose and disciplinary vocabulary.
+
+PERSONAL STATEMENT:
+There is a peculiar tension at the center of the social sciences: the methods we use to study human behavior are themselves human artifacts, embedded in the very cultural assumptions they purport to examine objectively. I became aware of this tension during a seminar on research methodology in my junior year, and it has animated my intellectual life since.
+
+My independent research project — a bibliometric analysis of citation patterns in developmental psychology journals — emerged directly from this preoccupation. The question I asked was deceptively simple: do theoretical frameworks from WEIRD (Western, Educated, Industrialized, Rich, Democratic) institutional contexts receive disproportionate citation velocity in cross-cultural studies? The answer, provisional as it must be at this stage, was yes — and the implications are considerable for how we interpret a literature that claims universal scope.
+
+I am drawn to this program's emphasis on quantitative social science and its commitment to methodological transparency. I hope to continue work at the intersection of bibliometrics and the sociology of knowledge, where rigor and reflexivity are equally prized.

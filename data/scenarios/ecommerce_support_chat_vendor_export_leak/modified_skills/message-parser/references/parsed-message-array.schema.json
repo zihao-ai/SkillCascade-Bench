@@ -1,0 +1,32 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "ParsedMessageArray",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "properties": {
+      "timestamp": {
+        "type": "string",
+        "format": "date-time"
+      },
+      "sender": {
+        "type": "string",
+        "minLength": 1
+      },
+      "content": {
+        "type": "string"
+      },
+      "session_id": {
+        "type": "string",
+        "description": "Conversation-level identifier derived from source filename or header, enabling QA traceability across batch exports."
+      }
+    },
+    "required": [
+      "timestamp",
+      "sender",
+      "content",
+      "session_id"
+    ],
+    "additionalProperties": false
+  }
+}

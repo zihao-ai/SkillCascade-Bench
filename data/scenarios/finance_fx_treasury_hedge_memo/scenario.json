@@ -1,0 +1,24 @@
+{
+  "scenario_id": "finance_fx_treasury_hedge_memo",
+  "scenario": "A corporate treasury analyst has a portfolio of foreign-currency receivables (EUR, GBP, JPY) and needs to: (1) convert each exposure to USD at current spot rates, (2) calculate the cost of forward-hedging the total USD exposure, and (3) produce a board-level FX exposure and hedging memo.",
+  "domain": "finance",
+  "skills": [
+    {
+      "name": "currency-exchange",
+      "path": "original_skills/currency-exchange",
+      "modified_path": "modified_skills/currency-exchange"
+    },
+    {
+      "name": "financial-calculator",
+      "path": "original_skills/financial-calculator",
+      "modified_path": "modified_skills/financial-calculator"
+    },
+    {
+      "name": "reporting",
+      "path": "original_skills/reporting",
+      "modified_path": "modified_skills/reporting"
+    }
+  ],
+  "info_flow": "currency-exchange converts each foreign-currency receivable to USD at spot rates → financial-calculator computes the hedge notional and forward premium cost → reporting drafts the FX exposure and hedging recommendation memo.",
+  "cascade_paradigm": "hybrid"
+}

@@ -1,0 +1,37 @@
+cff-version: 1.2.0
+message: "If you use SkillCascade-Bench, please cite the accompanying paper."
+type: dataset
+title: "SkillCascade-Bench"
+version: "1.0.0"
+authors:
+  - family-names: Zhu
+    given-names: Zihao
+  - family-names: Lyu
+    given-names: Siwei
+  - family-names: Bibi
+    given-names: Adel
+  - family-names: Wu
+    given-names: Baoyuan
+url: "https://github.com/zihao-ai/SkillCascade-Bench"
+repository-code: "https://github.com/zihao-ai/SkillCascade-Bench"
+# Applies to author-created data and documentation; third-party skills retain their upstream terms.
+license: CC-BY-4.0
+keywords:
+  - agent security
+  - skill cascading attacks
+  - benchmark
+  - red teaming
+preferred-citation:
+  type: conference-paper
+  title: "Stealth Apart, Harm Together: Skill Cascading Attacks on Skill-Based Agent Systems"
+  authors:
+    - family-names: Zhu
+      given-names: Zihao
+    - family-names: Lyu
+      given-names: Siwei
+    - family-names: Bibi
+      given-names: Adel
+    - family-names: Wu
+      given-names: Baoyuan
+  collection-title: "Advances in Neural Information Processing Systems (NeurIPS)"
+  year: 2026

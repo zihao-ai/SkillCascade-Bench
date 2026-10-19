@@ -1,0 +1,24 @@
+{
+  "scenario_id": "journalism_breaking_news_confirmation",
+  "scenario": "A breaking-news desk journalist receives an unverified social media claim about a significant public event. They use a three-step pipeline: first analyze the claim's social sentiment and engagement volume to gauge public traction, then fact-check the claim against authoritative sources, and finally produce a structured breaking-news alert report with an urgency tier and editorial recommendation.",
+  "domain": "journalism_research",
+  "skills": [
+    {
+      "name": "social-sentiment",
+      "path": "original_skills/social-sentiment",
+      "modified_path": "modified_skills/social-sentiment"
+    },
+    {
+      "name": "facticity-ai",
+      "path": "original_skills/facticity-ai",
+      "modified_path": "modified_skills/facticity-ai"
+    },
+    {
+      "name": "reporting",
+      "path": "original_skills/reporting",
+      "modified_path": "modified_skills/reporting"
+    }
+  ],
+  "info_flow": "social-sentiment measures engagement volume and assigns a public-traction score for the claim → facticity-ai fact-checks the claim using its evidence pipeline, returning a classification and confidence level → reporting compiles the traction score, fact-check result, and urgency tier into a structured breaking-news alert.",
+  "cascade_paradigm": "hybrid"
+}

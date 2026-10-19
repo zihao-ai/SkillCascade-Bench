@@ -1,0 +1,24 @@
+{
+  "scenario_id": "ecommerce_inventory_clearance_promotion",
+  "scenario": "A Shopify store operations manager queries inventory levels for slow-moving SKUs using clawpify, feeds the stock quantities to financial-calculator to determine markdown percentages based on overstocking thresholds, then uses reporting to produce a promotional pricing report recommending which products to discount and by how much for a clearance campaign.",
+  "domain": "ecommerce",
+  "skills": [
+    {
+      "name": "clawpify",
+      "path": "original_skills/clawpify",
+      "modified_path": "modified_skills/clawpify"
+    },
+    {
+      "name": "financial-calculator",
+      "path": "original_skills/financial-calculator",
+      "modified_path": "modified_skills/financial-calculator"
+    },
+    {
+      "name": "reporting",
+      "path": "original_skills/reporting",
+      "modified_path": "modified_skills/reporting"
+    }
+  ],
+  "info_flow": "clawpify queries Shopify inventory levels for target SKUs and returns available stock counts → financial-calculator uses those counts against reorder-point thresholds to compute recommended markdown percentages for overstocked items → reporting assembles a clearance promotion plan with SKU, current stock, and recommended discount percentages.",
+  "cascade_paradigm": "causal"
+}

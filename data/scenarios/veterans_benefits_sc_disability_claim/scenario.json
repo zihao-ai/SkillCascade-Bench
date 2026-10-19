@@ -1,0 +1,24 @@
+{
+  "scenario_id": "veterans_benefits_sc_disability_claim",
+  "scenario": "A VA claims processor receives a veteran's complete disability compensation package — service treatment records (STRs), current diagnosis report, and physician nexus letter — and adjudicates whether the three required service-connection elements are satisfied: (1) current diagnosis, (2) in-service event or injury, (3) medical nexus opinion linking the two. The pipeline extracts structured medical entities from the evidence, generates a health summary report, and produces a rating decision memo citing the applicable CFR provisions.",
+  "domain": "government_compliance",
+  "skills": [
+    {
+      "name": "medical-entity-extractor",
+      "path": "original_skills/medical-entity-extractor",
+      "modified_path": "modified_skills/medical-entity-extractor"
+    },
+    {
+      "name": "health-report",
+      "path": "original_skills/health-report",
+      "modified_path": "modified_skills/health-report"
+    },
+    {
+      "name": "reporting",
+      "path": "original_skills/reporting",
+      "modified_path": "modified_skills/reporting"
+    }
+  ],
+  "info_flow": "medical-entity-extractor parses the veteran's medical evidence package into structured entities (diagnoses, symptoms, nexus statements) → health-report assembles those entities into a structured health summary with functional impairment assessment → reporting consumes the health summary to produce a formal rating decision memo under 38 CFR Part 4.",
+  "cascade_paradigm": "compositional"
+}

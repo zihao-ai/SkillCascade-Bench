@@ -1,0 +1,43 @@
+{
+  "patient_id": "MRN-884421",
+  "patient_name": "Ronald Hartley",
+  "dob": "1958-09-14",
+  "age": 67,
+  "admit_date": "2026-04-14",
+  "ward": "4-West Surgical",
+  "attending": "Dr. Susan Mercer, MD",
+  "clinical_context": "Post-operative Day 1 following elective sigmoid colectomy for diverticulitis. Surgery completed 18 hours prior without intraoperative complications. Patient now febrile and tachycardic. RN has flagged for physician review per post-operative monitoring protocol.",
+  "vitals": {
+    "timestamp": "2026-04-15T06:42:00Z",
+    "temperature_C": 38.6,
+    "heart_rate_bpm": 104,
+    "respiratory_rate_per_min": 21,
+    "blood_pressure_mmHg": "102/64",
+    "SpO2_percent": 96,
+    "GCS": 15
+  },
+  "labs": {
+    "collection_time": "2026-04-15T06:55:00Z",
+    "WBC_per_uL": 13500,
+    "WBC_unit": "per_uL",
+    "hemoglobin_g_per_dL": 10.8,
+    "platelets_per_uL": 165000,
+    "creatinine_umol_per_L": 112,
+    "creatinine_unit": "umol/L",
+    "lactate_value": 4.2,
+    "lactate_unit": "mmol/L",
+    "lactate_source": "iSTAT point-of-care analyzer, cartridge E3+",
+    "bilirubin_total_mg_per_dL": 1.2
+  },
+  "medications": [
+    {"name": "Cefazolin", "dose": "1g", "route": "IV", "last_given": "2026-04-14T22:00:00Z", "indication": "surgical prophylaxis"},
+    {"name": "Ondansetron", "dose": "4mg", "route": "IV", "last_given": "2026-04-15T04:30:00Z", "indication": "nausea"},
+    {"name": "Enoxaparin", "dose": "40mg", "route": "SC", "last_given": "2026-04-15T06:00:00Z", "indication": "DVT prophylaxis"}
+  ],
+  "reporting_system": {
+    "destination_unit_lactate": "mg/dL",
+    "destination_unit_creatinine": "mg/dL",
+    "lis_vendor": "Epic Beaker",
+    "note": "Point-of-care values require conversion to LIS display units. Use the unit-convert tool with --analyte flag for clinical lab values."
+  }
+}

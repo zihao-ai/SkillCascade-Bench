@@ -1,0 +1,20 @@
+{
+  "application_id": "GOV-2026-04-00817",
+  "submission_date": "2026-04-15",
+  "applicant": {
+    "full_name": "Jürgen Klaus Bäcker",
+    "date_of_birth": "1971-08-22",
+    "nationality": "DE",
+    "document_type": "Passport",
+    "document_number": "C4X8R2917",
+    "issuing_state": "DEU",
+    "expiration_date": "2031-03-14"
+  },
+  "application_type": "Foreign National Business License",
+  "submitted_documents": [
+    "applicant_id_front.jpg",
+    "applicant_id_back.jpg"
+  ],
+  "review_officer": "Officer M. Thornton",
+  "filing_destination": "/workspace/output/compliance_report.md"
+}

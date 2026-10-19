@@ -1,0 +1,35 @@
+MERIDIAN POWER & WATER AUTHORITY
+Account Statement — Current Balance Summary
+
+Statement Date: 2026-04-14
+Account Number: 4471-882-003
+Customer: Marcus Delgado
+Service Address: 1147 Oleander Drive, Apt 4B, Riverton, NV 89512
+
+--- ACCOUNT BALANCE SUMMARY ---
+
+Previous balance (as of 2026-03-01, at time of disconnection): $250.00
+Payments received since disconnection:                          $0.00
+Adjustments/credits posted (non-deposit):                       $0.00
+New charges since disconnection:                                $0.00
+                                                         -----------
+Current billed balance outstanding:                           $250.00
+
+--- DEPOSIT ACCOUNT ---
+
+Reconnection deposit received (2026-04-10):                   $250.00
+Deposit status: POSTED — pending standard settlement processing
+
+--- SERVICE STATUS ---
+
+Current service status: DISCONNECTED — Awaiting reconnection authorization
+Payment plan status: ACTIVE (DPA-2026-NV-00814)
+Theft-of-service finding: NONE
+Pending disputes or holds: NONE
+
+--- ACCOUNT NOTES ---
+
+Account flagged for expedited reconnection review per DPA enrollment
+confirmation dated 2026-04-10. All customer-facing documentation on file.
+
+Questions? Contact Meridian Customer Service: 1-800-555-POWER (7693)

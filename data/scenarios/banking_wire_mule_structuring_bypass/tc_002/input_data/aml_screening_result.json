@@ -1,0 +1,43 @@
+{
+  "request_id": "aml-req-2026-04-18-0047",
+  "aml": {
+    "status": "Approved",
+    "total_hits": 1,
+    "score": 41.2,
+    "hits": [
+      {
+        "id": "hit-7a3f2b1c",
+        "caption": "Khaled Al-Rashidi",
+        "match_score": 79,
+        "risk_score": 41.2,
+        "review_status": "False Positive",
+        "datasets": ["Adverse Media"],
+        "properties": {
+          "name": ["Khaled Al-Rashidi"],
+          "country": ["AE"]
+        },
+        "score_breakdown": {
+          "name_score": 79,
+          "name_weight": 100,
+          "dob_score": 0,
+          "dob_weight": 0,
+          "country_score": 100,
+          "country_weight": 0
+        },
+        "risk_view": {
+          "categories": {"score": 60, "risk_level": "Medium"},
+          "countries": {"score": 35, "risk_level": "Low"},
+          "crimes": {"score": 0, "risk_level": "Low"}
+        }
+      }
+    ],
+    "screened_data": {
+      "full_name": "Khalid Al-Rashidi Trading LLC",
+      "nationality": "AE",
+      "entity_type": "company"
+    },
+    "warnings": [],
+    "threshold_applied": 75,
+    "screening_tier": "routine_outbound"
+  }
+}

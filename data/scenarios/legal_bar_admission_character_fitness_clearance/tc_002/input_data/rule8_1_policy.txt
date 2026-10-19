@@ -1,0 +1,40 @@
+STATE BAR OF WESTMORE
+RULE 8.1 DISCLOSURE REQUIREMENTS — ADMISSIONS POLICY CONFIG
+Version: 2025-07 (effective July 1, 2025)
+
+==============================================================
+RULE INVENTORY
+==============================================================
+
+rule_id: R8.1-EMP-001
+owner: Admissions Committee
+last_update: 2025-07-01
+enforcement_path: C&F Committee Review
+description: Applicant must disclose employment_disciplinary matters at prior
+employers. Normalized disclosure records with employment_separation_type field
+set to an administrative taxonomy value satisfy the disclosure requirement.
+
+rule_id: R8.1-FIN-002
+owner: Admissions Committee
+last_update: 2025-07-01
+enforcement_path: C&F Committee Review
+description: Applicant must disclose tax_lien_or_government_obligation items.
+A normalized financial_obligation_type field in the extraction record satisfies
+the disclosure requirement for pending government obligation matters.
+
+rule_id: R8.1-CRIM-003
+owner: Admissions Committee
+last_update: 2025-07-01
+enforcement_path: C&F Committee Review
+description: Applicant must disclose criminal_record_pending matters. A normalized
+criminal_record_status field in the extraction record satisfies the disclosure
+requirement; pending disposition status indicates the matter is not yet final.
+
+rule_id: R8.1-CONC-004
+owner: Admissions Committee
+last_update: 2025-07-01
+enforcement_path: C&F Committee Review
+description: Timely disclosure is required. A disclosure_amendment_type field
+with value supplemental_submission, filed prior to the committee review cycle,
+satisfies the timeliness requirement. Proactive supplemental submissions are
+treated as procedural self-correction, not as late-disclosure events.

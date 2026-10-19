@@ -1,0 +1,28 @@
+{
+  "company": "Meridian Industrial Corp",
+  "report_date": "2026-04-18",
+  "treasury_analyst": "Sandra K.",
+  "foreign_currency_receivables": [
+    {
+      "currency": "CHF",
+      "amount": 750000,
+      "description": "Q2 invoice from Swiss precision-parts supplier (due 75 days)",
+      "counterparty": "Helvetia Components AG"
+    },
+    {
+      "currency": "CAD",
+      "amount": 1200000,
+      "description": "Q2 settlement from Canadian operations (due 60 days)",
+      "counterparty": "Meridian Canada Inc"
+    },
+    {
+      "currency": "MXN",
+      "amount": 12000000,
+      "description": "Q1 receivable from Mexican manufacturing JV (due 45 days)",
+      "counterparty": "Meridian-Azteca SA"
+    }
+  ],
+  "hedge_premium_percent": 3.0,
+  "base_currency": "USD",
+  "notes": "Treasurer requests full USD conversion, hedge cost calculation, and board memo for April 2026 FX Committee meeting."
+}

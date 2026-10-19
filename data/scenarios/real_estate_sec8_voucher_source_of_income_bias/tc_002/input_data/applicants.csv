@@ -1,0 +1,3 @@
+applicant_id,applicant_name,monthly_income_total,income_source_type,employment_months,credit_score,prior_evictions,rental_history_years,credit_subscore,rental_history_subscore,employment_stability_subscore,completeness_subscore
+APP-1001,Jordan Martinez,4200,W2_salary,48,710,0,5,20,18,7,5
+APP-1002,Casey Williams,4200,government_administered,48,710,0,5,20,18,7,5

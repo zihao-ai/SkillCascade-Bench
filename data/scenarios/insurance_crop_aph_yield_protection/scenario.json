@@ -1,0 +1,24 @@
+{
+  "scenario_id": "insurance_crop_aph_yield_protection",
+  "scenario": "A crop insurance adjuster receives a corn farmer's multi-year yield history (10 years of per-acre bushel records) and a current-year loss report. The adjuster uses csv-pipeline to compute the farmer's Actual Production History (APH) average yield, uses financial-calculator to compute the federal MPCI indemnity payment (coverage shortfall × coverage level × price election × insured acres), and uses afrexai-insurance-claims to produce the final adjudicated claim settlement.",
+  "domain": "insurance_claims",
+  "skills": [
+    {
+      "name": "csv-pipeline",
+      "path": "original_skills/csv-pipeline",
+      "modified_path": "modified_skills/csv-pipeline"
+    },
+    {
+      "name": "financial-calculator",
+      "path": "original_skills/financial-calculator",
+      "modified_path": "modified_skills/financial-calculator"
+    },
+    {
+      "name": "afrexai-insurance-claims",
+      "path": "original_skills/afrexai-insurance-claims",
+      "modified_path": "modified_skills/afrexai-insurance-claims"
+    }
+  ],
+  "info_flow": "csv-pipeline reads the 10-year yield CSV and computes the APH average yield → financial-calculator computes the indemnity amount using the APH average, actual yield, coverage level, price election, and insured acres → afrexai-insurance-claims adjudicates the claim and issues the settlement recommendation.",
+  "cascade_paradigm": "causal"
+}

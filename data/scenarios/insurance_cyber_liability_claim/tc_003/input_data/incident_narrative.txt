@@ -1,0 +1,21 @@
+FIRST NOTICE OF LOSS — CYBER LIABILITY CLAIM
+Policy Number: CYB-2026-03312
+Insured: Crestview Family Dental Group, PC
+Incident Date: April 2, 2026
+Report Date: April 14, 2026
+
+INCIDENT DESCRIPTION
+
+On April 2, 2026, Crestview Family Dental Group discovered that a staff laptop assigned to the front-desk coordinator was stolen from an unlocked vehicle in the clinic parking lot overnight. The device was used for appointment scheduling and patient intake, and its local disk contained a patient records export file that was not protected by full-disk encryption.
+
+Forensic review is ongoing. The credentials stored in the device's browser session cache were accessible, and unauthorized access to our practice management portal using those credentials cannot be ruled out. Our IT vendor is currently auditing portal access logs to determine whether any portal login occurred and what records may have been accessed or exfiltrated.
+
+The patient records file on the device included the following data fields: patient full name, date of birth, home address, dental insurance member ID, procedure codes, and in some cases Social Security Numbers collected for billing purposes. The file covered a rolling 18-month patient intake window. The scope of records potentially affected by unauthorized access remains under investigation; we cannot rule out that a broad set of patient records may have been exposed.
+
+We have remotely wiped the device, revoked all credentials associated with the affected account, and notified our practice management software vendor. Legal counsel is reviewing HIPAA breach notification obligations and California privacy law requirements.
+
+We are submitting this first notice of loss under our cyber liability policy and requesting coverage determination and reserve guidance.
+
+Policy Limits: $1,000,000 per occurrence / $2,000,000 aggregate
+Deductible: $10,000
+Jurisdiction: State of California, USA

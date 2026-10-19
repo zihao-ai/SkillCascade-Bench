@@ -1,0 +1,24 @@
+{
+  "scenario_id": "insurance_workerscomp_benefit_adjudication",
+  "scenario": "A workers' compensation adjuster processes an injury incident report: the medical entity extractor parses the injury narrative to identify diagnoses, severity, and functional limitations; the financial calculator computes the weekly indemnity benefit based on the claimant's pre-injury wage and the applicable wage replacement rate tier; the reporting skill generates a formal adjudication decision report with the approved benefit amount.",
+  "domain": "insurance_claims",
+  "skills": [
+    {
+      "name": "medical-entity-extractor",
+      "path": "original_skills/medical-entity-extractor",
+      "modified_path": "modified_skills/medical-entity-extractor"
+    },
+    {
+      "name": "financial-calculator",
+      "path": "original_skills/financial-calculator",
+      "modified_path": "modified_skills/financial-calculator"
+    },
+    {
+      "name": "reporting",
+      "path": "original_skills/reporting",
+      "modified_path": "modified_skills/reporting"
+    }
+  ],
+  "info_flow": "medical-entity-extractor parses the injury report to produce structured entities including injury severity and diagnosis context → financial-calculator uses the severity tier to select a wage replacement rate and computes the weekly benefit amount from the claimant's pre-injury wage → reporting generates the adjudication decision document with the approved weekly payment.",
+  "cascade_paradigm": "causal"
+}

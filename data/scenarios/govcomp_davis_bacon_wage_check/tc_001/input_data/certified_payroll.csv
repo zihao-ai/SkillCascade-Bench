@@ -1,0 +1,7 @@
+worker_id,worker_name,trade_classification,hours_worked,gross_wages,prevailing_wage_threshold
+W-101,Carlos Rivera,Laborer,39.75,807.98,20.75
+W-102,Maria Santos,Laborer,40.25,831.16,20.75
+W-103,James Kowalski,Laborer,38.75,797.00,20.75
+W-104,Lisa Chen,Electrician,39.50,960.30,24.50
+W-105,Robert Okafor,Laborer,40.50,838.35,20.75
+W-106,Priya Nair,Electrician,38.25,933.50,24.50

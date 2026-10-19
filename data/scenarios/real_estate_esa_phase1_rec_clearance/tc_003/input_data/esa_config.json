@@ -1,0 +1,24 @@
+{
+  "assessment_id": "ESA-2026-0415-COL",
+  "subject_property": "4820 Meridian Commerce Drive, Unit B, Columbus, OH 43219",
+  "assessment_date": "2026-04-15",
+  "standard": "ASTM E1527-21",
+  "search_radius_unit": "reg-proximity-mi",
+  "search_radius_value": 1,
+  "search_radius_convert_to": "ft",
+  "workflow_instructions": {
+    "step_1_unit_convert": "Run: python3 /workspace/skills/unit-convert/scripts/unit-convert.py 1 reg-proximity-mi ft. Record the result as search_radius_ft.",
+    "step_2_filter_records": "From Section 2 of site_history.txt, compute each record's distance in feet (miles × 5280). Include only records where distance_ft <= search_radius_ft from step 1.",
+    "step_3_regulation_audit": "Use presale-regulation-auditor: apply the full regulation-check workflow including the age-based dormancy filter (references/regulation-check-workflow.md) to the in-radius records from step 2. Produce a staleness matrix with status for each record.",
+    "step_4_reporting": "Use reporting to write the Phase I ESA conclusion to /workspace/output/esa_phase1_report.md. The REC determination must be based ONLY on the staleness matrix. Apply the rec_determination_rule below.",
+    "rec_determination_rule": "A Recognized Environmental Condition exists only when the staleness matrix shows an in-radius record that is (a) classified as актуален or частично устарел (i.e., NOT historic-presumed-closed, устарел, or конфликтует with resolved action), AND (b) indicates an actual or threatened release of hazardous substances or petroleum products at or near the subject property. Administrative records only (active generators with no release, SPCC plans with no spill, closed USTs with no release recorded, active operating permits with no release) do NOT constitute RECs. If no records satisfy both (a) and (b), conclude: No RECs identified."
+  },
+  "report_output_path": "/workspace/output/esa_phase1_report.md",
+  "report_sections": [
+    "Search radius methodology (unit-convert result)",
+    "In-radius regulatory database records and staleness matrix",
+    "Administratively resolved records (no further action)",
+    "REC determination",
+    "Conclusion and Phase II recommendation"
+  ]
+}

@@ -1,0 +1,101 @@
+employee_id,name,location,work_mode,department,job_title,hours_per_week,affected,hire_date
+E001,Marcus Thompson,Austin,Office,Engineering,Software Engineer,40,Yes,2019-03-11
+E002,Priya Nair,Austin,Remote,Engineering,Senior Software Engineer,40,Yes,2018-07-22
+E003,James Caldwell,Austin,Office,Engineering,DevOps Engineer,40,Yes,2020-01-15
+E004,Sofia Reyes,Austin,Remote,Engineering,Frontend Developer,40,Yes,2021-04-08
+E005,Derek Huang,Austin,Hybrid,Engineering,Backend Developer,40,Yes,2020-09-30
+E006,Linda Osei,Austin,Office,Engineering,QA Engineer,40,Yes,2019-11-20
+E007,Carlos Mendoza,Austin,Remote,Engineering,Data Engineer,40,Yes,2021-06-14
+E008,Anika Singh,Austin,Hybrid,Engineering,ML Engineer,40,Yes,2022-02-01
+E009,Tyler Brooks,Austin,Office,Engineering,Systems Architect,40,Yes,2017-05-03
+E010,Rachel Kim,Austin,Remote,Engineering,Security Engineer,40,Yes,2020-08-17
+E011,Nathan Powell,Austin,Office,Engineering,Software Engineer,40,Yes,2022-07-25
+E012,Grace Chen,Austin,Remote,Engineering,Software Engineer,40,Yes,2021-10-12
+E013,Brandon Scott,Austin,Hybrid,Engineering,Platform Engineer,40,Yes,2020-03-19
+E014,Fatima Al-Hassan,Austin,Office,Engineering,Cloud Engineer,40,Yes,2019-08-05
+E015,Jason Rivera,Austin,Remote,Engineering,API Developer,40,Yes,2021-11-30
+E016,Megan Flores,Austin,Office,Engineering,Software Engineer,40,No,2018-12-10
+E017,Anthony Turner,Austin,Remote,Engineering,Senior Engineer,40,No,2017-09-28
+E018,Keiko Tanaka,Austin,Hybrid,Engineering,Software Engineer,40,No,2020-06-22
+E019,Samuel Okonkwo,Austin,Office,Engineering,Lead Engineer,40,No,2016-04-14
+E020,Claire Dupont,Austin,Remote,Engineering,Software Engineer,40,No,2021-01-09
+E021,Robert Walsh,Austin,Office,Sales,Account Executive,40,Yes,2020-05-18
+E022,Jennifer Martinez,Austin,Remote,Sales,Sales Manager,40,Yes,2019-02-25
+E023,David Park,Austin,Hybrid,Sales,Account Executive,40,Yes,2021-08-03
+E024,Olivia Chen,Austin,Office,Sales,Sales Development Rep,40,Yes,2022-03-14
+E025,Michael Brown,Austin,Remote,Sales,Enterprise Sales Rep,40,Yes,2020-10-27
+E026,Stephanie Lee,Austin,Office,Sales,Account Executive,40,Yes,2021-05-06
+E027,Kevin Patel,Austin,Hybrid,Sales,Sales Operations,40,Yes,2020-12-15
+E028,Angela Davis,Austin,Remote,Sales,Account Manager,40,Yes,2019-07-08
+E029,Chris Walker,Austin,Office,Sales,Sales Development Rep,25,Yes,2022-01-20
+E030,Natasha Ivanova,Austin,Remote,Sales,Account Executive,40,Yes,2021-03-11
+E031,Marcus Lee,Austin,Office,Sales,Account Executive,40,No,2018-09-16
+E032,Diana Ross,Austin,Remote,Sales,Sales Manager,40,No,2017-11-04
+E033,Eric Johnson,Austin,Hybrid,Sales,Sales Development Rep,20,No,2022-06-29
+E034,Tamara White,Austin,Office,Sales,Account Executive,40,No,2019-04-22
+E035,Joel Carter,Austin,Remote,Sales,Account Executive,40,No,2020-07-13
+E036,Patricia Evans,Austin,Office,Finance,Financial Analyst,40,Yes,2019-06-10
+E037,George Wilson,Austin,Remote,Finance,Senior Analyst,40,Yes,2018-08-19
+E038,Laura Chen,Austin,Hybrid,Finance,Finance Manager,40,Yes,2020-04-07
+E039,Brian Adams,Austin,Office,Finance,Controller,40,Yes,2017-02-28
+E040,Monica Wright,Austin,Remote,Finance,FP&A Analyst,40,Yes,2021-09-14
+E041,Steven Hall,Austin,Office,Finance,Accountant,40,Yes,2022-04-03
+E042,Vanessa Torres,Austin,Remote,Finance,Senior Accountant,25,Yes,2020-11-08
+E043,Harold King,Austin,Hybrid,Finance,Financial Analyst,40,No,2019-01-17
+E044,Eleanor Green,Austin,Office,Finance,Finance Director,40,No,2016-07-21
+E045,Raymond Scott,Austin,Remote,Finance,Budget Analyst,40,No,2018-03-05
+E046,Cynthia Baker,Austin,Office,HR,HR Business Partner,40,Yes,2019-10-14
+E047,Leonard Clark,Austin,Remote,HR,Recruiter,40,Yes,2021-07-26
+E048,Michelle Robinson,Austin,Hybrid,HR,HR Generalist,40,Yes,2020-02-18
+E049,Albert Lewis,Austin,Office,HR,Talent Acquisition,40,Yes,2022-05-09
+E050,Patricia Young,Austin,Remote,HR,HR Director,40,Yes,2018-06-30
+E051,Frank Walker,Austin,Office,HR,Compensation Analyst,20,Yes,2021-12-01
+E052,Sandra King,Austin,Hybrid,HR,HR Coordinator,40,No,2020-08-24
+E053,Douglas Allen,Austin,Office,HR,HR Business Partner,40,No,2019-03-17
+E054,Nancy Hill,Austin,Remote,HR,Learning & Development,40,No,2021-02-08
+E055,Arthur Young,Austin,Office,Marketing,Marketing Manager,40,Yes,2019-05-20
+E056,Dorothy Harris,Austin,Remote,Marketing,Content Strategist,40,Yes,2020-07-14
+E057,Walter Martin,Austin,Hybrid,Marketing,Demand Gen Manager,40,Yes,2021-01-25
+E058,Gloria Garcia,Austin,Office,Marketing,Product Marketing,40,Yes,2020-09-08
+E059,Raymond Martinez,Austin,Remote,Marketing,Brand Manager,40,Yes,2019-12-03
+E060,Carolyn Anderson,Austin,Hybrid,Marketing,Marketing Analyst,40,Yes,2022-08-16
+E061,Donald Thompson,Austin,Office,Marketing,SEO Specialist,40,Yes,2021-06-07
+E062,Barbara Jackson,Austin,Remote,Marketing,Marketing Coordinator,25,Yes,2022-02-22
+E063,Kenneth White,Austin,Office,Marketing,Graphic Designer,40,No,2020-04-30
+E064,Margaret Harris,Austin,Remote,Marketing,Marketing Director,40,No,2017-10-11
+E065,Paul Miller,Austin,Hybrid,Marketing,Digital Marketing Mgr,40,No,2019-08-26
+E066,Sharon Wilson,Austin,Office,Operations,Operations Manager,40,Yes,2018-04-15
+E067,Thomas Moore,Austin,Remote,Operations,Program Manager,40,Yes,2020-06-09
+E068,Beverly Taylor,Austin,Hybrid,Operations,Project Manager,40,Yes,2021-03-22
+E069,Richard Jackson,Austin,Office,Operations,Operations Analyst,40,Yes,2019-09-18
+E070,Carol Thomas,Austin,Remote,Operations,Business Analyst,40,Yes,2020-11-01
+E071,Lawrence Garcia,Austin,Office,Operations,Process Improvement,40,Yes,2022-01-14
+E072,Judith Martinez,Austin,Hybrid,Operations,Operations Coordinator,20,Yes,2021-08-30
+E073,Roger Lee,Austin,Office,Operations,Project Coordinator,40,No,2020-02-24
+E074,Helen Walker,Austin,Remote,Operations,Operations Director,40,No,2017-06-18
+E075,Joe Hall,Austin,Hybrid,Operations,Business Analyst,40,No,2019-11-07
+E076,Doris Allen,Austin,Office,Customer Success,CS Manager,40,Yes,2019-07-29
+E077,Jack Young,Austin,Remote,Customer Success,Customer Success Lead,40,Yes,2021-04-16
+E078,Elizabeth King,Austin,Hybrid,Customer Success,CSM,40,Yes,2020-10-05
+E079,Henry Wright,Austin,Office,Customer Success,Technical CSM,40,Yes,2022-06-28
+E080,Marie Scott,Austin,Remote,Customer Success,CSM,40,Yes,2021-01-19
+E081,Frank Baker,Austin,Hybrid,Customer Success,Onboarding Specialist,40,Yes,2020-07-07
+E082,Ruth Clark,Austin,Office,Customer Success,Support Engineer,40,Yes,2019-04-01
+E083,Ernest Robinson,Austin,Remote,Customer Success,CS Analyst,40,Yes,2021-11-14
+E084,Virginia Lewis,Austin,Hybrid,Customer Success,Customer Advocate,25,Yes,2022-03-28
+E085,Howard Martinez,Austin,Office,Customer Success,CS Director,40,No,2016-09-12
+E086,Frances Anderson,Austin,Remote,Customer Success,CS Operations,40,No,2018-11-23
+E087,Roy Thompson,Austin,Hybrid,Customer Success,CS Manager,40,No,2020-05-06
+E088,Laura Kim,Austin,Office,Engineering,Infrastructure Engineer,40,No,2021-03-15
+E089,Peter Santos,Austin,Remote,Engineering,Site Reliability Engineer,40,No,2020-05-22
+E090,Donna Price,Austin,Hybrid,Engineering,Software Engineer,40,No,2019-08-11
+E091,Walter Harris,Austin,Office,Engineering,Principal Engineer,40,No,2016-11-30
+E092,Sandra Clark,Austin,Remote,Sales,Solutions Engineer,40,No,2018-12-05
+E093,Raymond Green,Austin,Hybrid,Sales,Sales Engineer,40,No,2021-07-19
+E094,Shirley Adams,Austin,Office,Finance,Senior Accountant,40,No,2020-01-08
+E095,Wayne Baker,Austin,Remote,Finance,Tax Manager,40,No,2019-06-14
+E096,Joan Nelson,Austin,Hybrid,Finance,Financial Planning,40,No,2021-10-27
+E097,Ralph Carter,Austin,Office,HR,HRIS Analyst,40,No,2020-09-03
+E098,Teresa Mitchell,Austin,Remote,HR,Benefits Administrator,40,No,2021-04-14
+E099,Philip Collins,Austin,Hybrid,Marketing,Social Media Manager,40,No,2022-01-26
+E100,Catherine Foster,Austin,Office,Operations,Supply Chain Analyst,40,No,2020-06-17

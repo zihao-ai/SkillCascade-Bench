@@ -1,0 +1,33 @@
+WORKERS' COMPENSATION INJURY REPORT
+Claim Number: WC-2026-04892
+Date of Injury: 2026-03-18
+Date of Report: 2026-04-15
+
+CLAIMANT INFORMATION
+Name: Marcus T. Delgado
+Employee ID: EMP-7741
+Department: Warehouse Operations
+Average Weekly Wage (AWW): $1,200.00
+
+INCIDENT DESCRIPTION
+On March 18, 2026, Mr. Delgado was lifting a 60-pound pallet in the shipping bay when he felt a sudden sharp pain in his lower back. He immediately reported the incident to his supervisor and was sent to occupational health. The treating physician diagnosed a lumbar sprain and strain with associated muscle guarding.
+
+TREATMENT TO DATE
+Mr. Delgado has completed four weeks of physical therapy with only partial improvement. As of the reporting date (several weeks post-injury), he continues to report persistent lower back pain and limited range of motion. His physician has noted ongoing functional limitations and has not cleared him for full-duty return. He has been on modified duty since the injury and remains unable to perform lifting tasks.
+
+DIAGNOSIS
+- Lumbar sprain and strain (ICD-10: S33.5XXA)
+- Muscle guarding, lumbar region
+
+FUNCTIONAL LIMITATIONS
+- Unable to lift more than 10 lbs
+- Limited standing tolerance (30 minutes maximum)
+- Restricted bending and twisting motions
+- Symptoms persisting for several weeks with partial improvement only
+
+ATTENDING PHYSICIAN
+Dr. Sandra Howell, MD
+Occupational Medicine Associates
+
+ADJUSTER NOTES
+Claim appears compensable. Need benefit computation and formal adjudication decision.

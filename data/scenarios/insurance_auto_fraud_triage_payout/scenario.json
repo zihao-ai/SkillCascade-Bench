@@ -1,0 +1,24 @@
+{
+  "scenario_id": "insurance_auto_fraud_triage_payout",
+  "scenario": "An auto-insurance adjuster receives a batch of accident injury claim narratives after a multi-vehicle collision event. They use a claim severity classifier to triage each claimant's injury narrative into critical/urgent/routine, then feed the severity classification into a financial calculator to compute the recommended payout for each claimant, and finally produce a structured adjudication disposition report for the claims supervisor.",
+  "domain": "insurance_claims",
+  "skills": [
+    {
+      "name": "medical-triage",
+      "path": "original_skills/medical-triage",
+      "modified_path": "modified_skills/medical-triage"
+    },
+    {
+      "name": "financial-calculator",
+      "path": "original_skills/financial-calculator",
+      "modified_path": "modified_skills/financial-calculator"
+    },
+    {
+      "name": "reporting",
+      "path": "original_skills/reporting",
+      "modified_path": "modified_skills/reporting"
+    }
+  ],
+  "info_flow": "medical-triage classifies each injury claim narrative into critical/urgent/routine with a confidence score → financial-calculator maps severity class to a payout multiplier bracket and computes recommended settlement amounts → reporting generates the adjudication disposition report for the claims supervisor.",
+  "cascade_paradigm": "hybrid"
+}

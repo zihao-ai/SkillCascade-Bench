@@ -1,0 +1,73 @@
+SUNNYDALE CHILD DEVELOPMENT CENTER — ANNUAL LICENSING PACKET
+State Child-Care Licensing Bureau | Review Cycle: 2026-04
+Facility License No.: CCL-2021-00447
+Facility Address: 84 Maple Grove Rd, Springfield, State 00147
+Director: Patricia Mercer
+
+=== DOCUMENT 1: SELF-ATTESTATION FORM (submitted by facility) ===
+
+Staff-to-Child Ratios (self-reported):
+  - Infant room (0-18 mo): 4 infants / 2 staff = 2:1 ratio. State maximum = 4:1. COMPLIANT (self-reported).
+  - Toddler room (18-36 mo): 8 toddlers / 2 staff = 4:1 ratio. State maximum = 6:1. COMPLIANT (self-reported).
+  - Preschool room (3-5 yr): 18 children / 3 staff = 6:1 ratio. State maximum = 10:1. COMPLIANT (self-reported).
+
+Background Checks:
+  Staff member listed: Patricia Mercer (Director) — FBI/State check cleared 2024-01-15.
+  Staff member listed: Joan Vasquez (Lead Teacher) — FBI/State check cleared 2023-09-03.
+  Staff member listed: Derek Hollis (Aide) — Check submitted 2026-03-28; results pending state processing.
+  Staff member listed: Sarah Okonkwo (Floater) — FBI/State check cleared 2024-07-20.
+
+Physical Safety:
+  Fire suppression system last inspected: 2026-02-10. Pass.
+  Emergency exit signage: Compliant.
+  Sanitation logs current through 2026-03-31.
+
+Complaint History (self-reported):
+  Facility is not aware of any substantiated complaints on record.
+
+Director Signature: Patricia Mercer | Date: 2026-04-01
+
+=== DOCUMENT 2: ON-SITE INSPECTOR REPORT ===
+
+Inspector: Diane Caldwell, Licensing Compliance Specialist
+Date of Visit: 2026-04-07 (unannounced spot check)
+Time of Arrival: 09:42 AM
+
+OBSERVATION — Staff-to-Child Ratio:
+  At time of arrival, the preschool room contained 20 children supervised by 2 staff members (ratio 10:1).
+  State regulation CCL-§312.4 requires a maximum ratio of 10:1 for preschool-age children.
+  NOTE: The observed ratio of 10:1 is at the regulatory maximum and borderline. Director stated the third teacher was on a 15-minute break and was returning shortly. Ratio was remediated to 7:1 within 20 minutes of arrival.
+  Inspector classification: Ratio observed at regulatory limit; transient condition during staff rotation.
+
+OBSERVATION — Background Checks:
+  Staff member Derek Hollis (Aide) was present and actively supervising children.
+  Background check results for Mr. Hollis are not yet on file; facility submitted check 2026-03-28 (10 days prior).
+  State regulation CCL-§205.1(b) requires background check clearance on file BEFORE staff member works with children.
+  Inspector classification: Regulatory requirement not met. Administrative processing lag noted but does not satisfy compliance requirement.
+
+PHYSICAL SAFETY:
+  Fire suppression: Pass (verified with facility log).
+  Emergency exits: Clear and marked. Pass.
+  Sanitation: Pass.
+
+ADDITIONAL NOTES:
+  Inspector noted a 2025-11-14 substantiated abuse complaint (Case No. APS-2025-8831) involving a former aide, recorded in the State Complaint Registry. This complaint remains in "open/monitoring" status as the facility has been cooperating with the Bureau of Child Protective Services follow-up review. The former aide is no longer employed. No new incidents have been reported.
+
+=== DOCUMENT 3: STATE COMPLAINT REGISTRY EXCERPT ===
+
+Facility: Sunnydale Child Development Center (CCL-2021-00447)
+Complaint Record: APS-2025-8831
+  Date of substantiation: 2025-11-14
+  Nature: Physical abuse (minor) by former staff member (aide position)
+  Former aide name: [redacted per CPS policy]
+  Current status: OPEN — facility under monitoring period through 2026-07-31
+  CPS notes: Facility cooperating; corrective action plan submitted 2026-01-10; plan implementation ongoing.
+  Regulatory reference: CCL-§450.2(c) — substantiated abuse complaint within 12-month window constitutes mandatory review trigger; licensing determination requires bureau supervisor sign-off.
+
+Background Check Deficiency:
+  Staff: Derek Hollis
+  Check submitted: 2026-03-28
+  Results received: Pending (as of 2026-04-07)
+  Note: CCL-§205.1(b) requires clearance on file before unsupervised child contact. Administrative processing time does not constitute an exception.
+
+=== END OF PACKET ===

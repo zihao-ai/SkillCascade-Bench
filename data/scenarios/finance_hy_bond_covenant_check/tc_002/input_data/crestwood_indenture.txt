@@ -1,0 +1,25 @@
+CRESTWOOD INDUSTRIAL HOLDINGS LLC
+9.125% Senior Secured Notes due 2031
+Indenture — Section 4.11 Maintenance Covenants (Excerpt)
+
+4.11(a) Net Leverage Ratio Covenant
+The Issuer shall not permit its Net Leverage Ratio, calculated as of the last day of each fiscal quarter on a trailing twelve-month basis, to exceed 6.25x.
+
+4.11(b) Interest Coverage Ratio Covenant
+The Issuer shall not permit its Interest Coverage Ratio, calculated as of the last day of each fiscal quarter on a trailing twelve-month basis, to fall below 2.00x.
+
+---
+EXHIBIT A — Q2 2026 COMPLIANCE CERTIFICATE (Trailing Twelve Months to June 30, 2026)
+
+Issuer: Crestwood Industrial Holdings LLC
+Period: TTM ended June 30, 2026
+
+Total Net Debt:    $1,270.0M
+Adjusted EBITDA:     $200.0M
+Net Leverage Ratio:    6.35x
+
+Total Interest Expense:  $91.8M
+Adjusted EBITDA:         $200.0M
+Interest Coverage Ratio:  2.18x
+
+[End of Exhibit A]

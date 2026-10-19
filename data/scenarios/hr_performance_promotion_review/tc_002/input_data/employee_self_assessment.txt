@@ -1,0 +1,17 @@
+FY2026 SELF-ASSESSMENT
+Employee: Marcus Webb
+Title: Senior DevOps Engineer
+Review Period: Jan–Dec 2025
+
+Key Achievements:
+- Resolved chronic cluster instability (11 incidents/month → 0) via autoscaling redesign.
+- Cut CI/CD build time from 40 min to 9 min, enabling weekly releases.
+- Authored infrastructure runbook adopted by the full SRE team.
+
+Competencies self-rated (1–4):
+- Technical execution: 4
+- Reliability and ownership: 4
+- Collaboration: 3
+- Communication: 3
+
+Promotion readiness: I believe my technical impact this year demonstrates readiness for a Staff Engineer role. I am open to feedback on communication style and am actively working with a mentor on this area.

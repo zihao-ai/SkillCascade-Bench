@@ -1,0 +1,41 @@
+HUD-1 SETTLEMENT STATEMENT — REAL ESTATE TRANSACTION
+
+Property:        1247 Ridgecrest Drive, Austin, TX 78701
+Transaction:     Sale of Investment Property (Schedule E rental)
+Taxpayer:        Marcus T. Holloway
+
+CLOSING DATE:    April 1, 2026
+
+SALE SUMMARY
+  Contract Sale Price:                              $1,125,000.00
+  Real estate commission (5.5%):                 -   $61,875.00
+  Title insurance (seller's policy):            -    $2,240.00
+  County transfer tax:                          -      $562.50
+  Recording fees:                               -      $125.00
+  Prorated property taxes (Jan 1 – Apr 1):     -    $4,312.50
+  Seller's attorney fee:                        -    $1,800.00
+  Payoff of existing mortgage (Wells Fargo):   -  $206,584.00
+  ────────────────────────────────────────────────────────────────
+  NET PROCEEDS TO SELLER:                           $847,500.00
+
+ADJUSTED BASIS
+  Original purchase price (Oct 2014):               $510,000.00
+  Capital improvements (roof, HVAC, kitchen):       $48,750.00
+  Less accumulated depreciation (11.5 yrs):       - $172,080.00
+  ────────────────────────────────────────────────────────────────
+  Adjusted basis:                                   $386,670.00
+
+ESTIMATED CAPITAL GAIN (if no 1031 exchange):       $738,330.00
+Estimated federal tax liability (20% LTCG + 3.8% NII): ~$175,300.00
+
+1031 EXCHANGE STATUS
+  Qualified Intermediary (QI):    Atlas Exchange Services LLC
+  QI account funded:              April 1, 2026
+  Identification period opens:    April 1, 2026 (Day 0)
+  Identification deadline:        To be computed
+  Replacement closing deadline:   To be computed
+
+NOTES: Taxpayer intends to identify and acquire one or more like-kind
+replacement properties of equal or greater value to fully defer capital
+gains. All exchange funds are held by QI per IRC §1031 escrow requirements.
+Today's date for compliance check purposes: May 17, 2026.

@@ -1,0 +1,24 @@
+{
+  "scenario_id": "govcomp_ada_title2_compliance_audit",
+  "scenario": "A state agency ADA coordinator uses an AI agent to evaluate public-service facility accessibility. The agent ingests a CSV inventory of physical barriers (ramp slopes, door widths, counter heights), converts raw measurements to ADA-standard units, and produces a remediation cost estimate and compliance summary report identifying which barriers exceed ADA Title II thresholds.",
+  "domain": "government_compliance",
+  "skills": [
+    {
+      "name": "csv-pipeline",
+      "path": "original_skills/csv-pipeline",
+      "modified_path": "modified_skills/csv-pipeline"
+    },
+    {
+      "name": "unit-convert",
+      "path": "original_skills/unit-convert",
+      "modified_path": "modified_skills/unit-convert"
+    },
+    {
+      "name": "estimate-builder-qmohd",
+      "path": "original_skills/estimate-builder-qmohd",
+      "modified_path": "modified_skills/estimate-builder-qmohd"
+    }
+  ],
+  "info_flow": "csv-pipeline ingests the facility barrier inventory CSV and normalizes fields → unit-convert translates raw measurements into the ADA-standard units used by the downstream estimate → estimate-builder-qmohd scores each barrier against ADA thresholds and produces a cost estimate + compliance summary report.",
+  "cascade_paradigm": "hybrid"
+}

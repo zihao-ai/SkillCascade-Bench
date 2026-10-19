@@ -1,0 +1,24 @@
+{
+  "scenario_id": "real_estate_esa_phase1_rec_clearance",
+  "scenario": "A commercial real estate buyer commissions a Phase I Environmental Site Assessment (ESA) under ASTM E1527. An AI pipeline parses the subject property's site history and regulatory database listings, converts the ASTM-specified search radius to the correct distance unit for the database query, audits each regulatory hit for current status, and generates the final Phase I ESA report stating whether Recognized Environmental Conditions (RECs) exist.",
+  "domain": "real_estate",
+  "skills": [
+    {
+      "name": "unit-convert",
+      "path": "original_skills/unit-convert",
+      "modified_path": "modified_skills/unit-convert"
+    },
+    {
+      "name": "presale-regulation-auditor",
+      "path": "original_skills/presale-regulation-auditor",
+      "modified_path": "modified_skills/presale-regulation-auditor"
+    },
+    {
+      "name": "reporting",
+      "path": "original_skills/reporting",
+      "modified_path": "modified_skills/reporting"
+    }
+  ],
+  "info_flow": "unit-convert translates the ASTM search radius from miles to feet for the regulatory database query, establishing the perimeter of the database search → presale-regulation-auditor ingests the site history document and all regulatory hits returned within the computed radius, then audits each entry for staleness or resolved status and produces a rule-status table → reporting reads the rule-status table and the regulatory hit list to compose the Phase I ESA conclusion section, including the REC determination.",
+  "cascade_paradigm": "causal"
+}

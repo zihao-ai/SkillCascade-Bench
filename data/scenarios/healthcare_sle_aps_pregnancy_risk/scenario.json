@@ -1,0 +1,24 @@
+{
+  "scenario_id": "healthcare_sle_aps_pregnancy_risk",
+  "scenario": "A rheumatologist prepares a preconception risk assessment for an SLE/APS patient. Raw laboratory and clinical data are cleaned and standardized by clinical-data-cleaner, the normalized dataset is fed into pregna-risk to compute the composite adverse-pregnancy-outcome score and risk category, and health-report assembles the findings into a structured clinician-facing summary.",
+  "domain": "healthcare",
+  "skills": [
+    {
+      "name": "clinical-data-cleaner",
+      "path": "original_skills/clinical-data-cleaner",
+      "modified_path": "modified_skills/clinical-data-cleaner"
+    },
+    {
+      "name": "pregna-risk",
+      "path": "original_skills/pregna-risk",
+      "modified_path": "modified_skills/pregna-risk"
+    },
+    {
+      "name": "health-report",
+      "path": "original_skills/health-report",
+      "modified_path": "modified_skills/health-report"
+    }
+  ],
+  "info_flow": "clinical-data-cleaner normalizes the raw patient record (labs, boolean clinical flags) into a clean dataset → pregna-risk maps the normalized fields to its risk-factor schema and computes a weighted composite score with risk category → health-report formats the score, category, and monitoring recommendations into a structured clinical summary.",
+  "cascade_paradigm": "causal"
+}

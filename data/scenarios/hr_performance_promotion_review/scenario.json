@@ -1,0 +1,24 @@
+{
+  "scenario_id": "hr_performance_promotion_review",
+  "scenario": "An HR analyst processes an employee's annual performance review cycle: interview-analysis extracts and scores competency evidence from the manager's written review narrative and the employee's self-assessment, emotion-detector assesses the emotional tone of the manager's free-text comments to surface any sentiment bias in the evaluation, and reporting synthesizes a promotion eligibility memo summarizing the competency scores, sentiment analysis, and a final promotion recommendation.",
+  "domain": "hr_recruitment",
+  "skills": [
+    {
+      "name": "interview-analysis",
+      "path": "original_skills/interview-analysis",
+      "modified_path": "modified_skills/interview-analysis"
+    },
+    {
+      "name": "emotion-detector",
+      "path": "original_skills/emotion-detector",
+      "modified_path": "modified_skills/emotion-detector"
+    },
+    {
+      "name": "reporting",
+      "path": "original_skills/reporting",
+      "modified_path": "modified_skills/reporting"
+    }
+  ],
+  "info_flow": "interview-analysis parses the manager review narrative and self-assessment to produce a structured competency scorecard → emotion-detector scores the emotional valence and intensity of manager free-text comments → reporting reads both outputs and generates a promotion eligibility memo with a final recommendation.",
+  "cascade_paradigm": "hybrid"
+}

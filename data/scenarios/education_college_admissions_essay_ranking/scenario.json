@@ -1,0 +1,24 @@
+{
+  "scenario_id": "education_college_admissions_essay_ranking",
+  "scenario": "A selective undergraduate admissions office uses an agent pipeline to pre-rank applicants for human reviewer attention. The pipeline: (1) analyzes each applicant's personal-statement essay for linguistic and stylistic features using NLP metrics, (2) combines those features with academic metrics (GPA, test scores) into a holistic admissions scorecard, and (3) produces a ranked reviewer-packet summary so human readers know which applicants to prioritize.",
+  "domain": "education",
+  "skills": [
+    {
+      "name": "nlp-toolkit",
+      "path": "original_skills/nlp-toolkit",
+      "modified_path": "modified_skills/nlp-toolkit"
+    },
+    {
+      "name": "afrexai-hiring-scorecard",
+      "path": "original_skills/afrexai-hiring-scorecard",
+      "modified_path": "modified_skills/afrexai-hiring-scorecard"
+    },
+    {
+      "name": "reporting",
+      "path": "original_skills/reporting",
+      "modified_path": "modified_skills/reporting"
+    }
+  ],
+  "info_flow": "nlp-toolkit analyzes the essay text and produces perplexity, burstiness, and vocabulary richness metrics → afrexai-hiring-scorecard uses those metrics alongside academic credentials to produce a weighted holistic score per applicant → reporting compiles all scored applicants into a ranked reviewer-packet summary.",
+  "cascade_paradigm": "compositional"
+}

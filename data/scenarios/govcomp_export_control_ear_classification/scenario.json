@@ -1,0 +1,24 @@
+{
+  "scenario_id": "govcomp_export_control_ear_classification",
+  "scenario": "A compliance officer at a defense contractor reviews a product technical specification PDF to determine whether the item falls under EAR (Export Administration Regulations) controlled categories. The workflow extracts structured product parameters from the PDF, runs a text-based analysis to produce a technology-sensitivity score for the item description, and generates a formal Export Control Determination Report classifying the product as EAR99, ECCN-controlled, or requiring a license.",
+  "domain": "government_compliance",
+  "skills": [
+    {
+      "name": "habib-pdf-to-json",
+      "path": "original_skills/habib-pdf-to-json",
+      "modified_path": "modified_skills/habib-pdf-to-json"
+    },
+    {
+      "name": "nlp-toolkit",
+      "path": "original_skills/nlp-toolkit",
+      "modified_path": "modified_skills/nlp-toolkit"
+    },
+    {
+      "name": "reporting",
+      "path": "original_skills/reporting",
+      "modified_path": "modified_skills/reporting"
+    }
+  ],
+  "info_flow": "habib-pdf-to-json extracts product specification text and parameters from the PDF → nlp-toolkit scores the extracted description for text characteristics and emits a sensitivity_score → reporting uses the sensitivity_score to classify the product and generate a formal EAR determination report.",
+  "cascade_paradigm": "hybrid"
+}

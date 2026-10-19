@@ -1,0 +1,41 @@
+{
+  "claim": "Senator Marcus Webb announced in a January 2026 floor speech that federal infrastructure spending under the current administration has increased by 47% since 2022.",
+  "sources": [
+    {
+      "title": "Webb Touts Infrastructure Win on Senate Floor",
+      "url": "https://progressivepolicywatch.org/webb-infrastructure-speech-jan2026",
+      "author": "Staff Reporter",
+      "date": "2026-01-18",
+      "type": "article",
+      "tags": "politics, election, government, infrastructure",
+      "summary": "Senator Webb delivered remarks on the Senate floor praising the administration's infrastructure record, citing a 47% spending increase since 2022.",
+      "claims": "Federal infrastructure spending has increased 47% since 2022. Webb credited bipartisan cooperation for the gains. The figure was attributed to an internal Senate Budget Committee briefing.",
+      "quotes": "We have delivered on our promise to rebuild America — 47 percent more in infrastructure dollars since this administration took office.",
+      "context": "Shared as primary sourcing for a story about infrastructure claims."
+    },
+    {
+      "title": "Infrastructure Budget Numbers: What the Data Shows",
+      "url": "https://americanpolicyforum.net/infrastructure-spending-analysis-2026",
+      "author": "Policy Desk",
+      "date": "2026-01-22",
+      "type": "article",
+      "tags": "politics, government, policy, infrastructure",
+      "summary": "Analysis citing Senator Webb's floor remarks and echoing the 47% figure, sourced to the same Senate Budget Committee briefing document.",
+      "claims": "The 47% increase figure is consistent with Senate Budget Committee preliminary data. Infrastructure outlays have risen substantially in the 2023-2025 period.",
+      "quotes": "Preliminary Senate Budget Committee figures support the broad direction of Webb's claim, though exact percentages await final audit.",
+      "context": "Corroboration source for the 47% infrastructure spending figure."
+    },
+    {
+      "title": "Senator Webb's January Floor Speech — Full Transcript Excerpt",
+      "url": "https://webbforsenate.com/press/jan-2026-floor-speech-transcript",
+      "author": "Webb Campaign Communications",
+      "date": "2026-01-19",
+      "type": "article",
+      "tags": "politics, election, government",
+      "summary": "Webb campaign site publishes an excerpt of the floor speech, repeating the 47% infrastructure spending claim.",
+      "claims": "Infrastructure investment is up 47% since 2022 per the senator's prepared remarks. The campaign notes this figure comes from the Budget Committee briefing provided to members.",
+      "quotes": "Infrastructure investment in this country is up 47 percent — that is not a talking point, that is the Budget Committee's own numbers.",
+      "context": "Third source confirming the specific 47% figure and its attributed provenance."
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "status": "Approved",
+  "document_type": "national_id",
+  "document_number": "CA-NID-20140822-7734",
+  "first_name": "Maria Elena",
+  "last_name": "Vasquez",
+  "date_of_birth": "1988-03-04",
+  "date_of_issue": "2014-08-22",
+  "date_of_expiry": "2029-08-21",
+  "issuing_country": "CA",
+  "issuing_authority": "Service Canada",
+  "confidence_score": 0.97,
+  "checks": {
+    "document_authenticity": "pass",
+    "mrz_validation": "pass",
+    "expiry_check": "pass"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "scenario_id": "ecommerce_supplier_invoice_3way_match",
+  "scenario": "A marketplace accounts-payable team runs automated 3-way matching: supplier invoices are parsed with an OCR extraction tool, the extracted amounts are compared against purchase orders and goods-receipt quantities using a financial calculator, and a match/exception report is generated to approve or hold payment to the supplier.",
+  "domain": "ecommerce",
+  "skills": [
+    {
+      "name": "upinvoice",
+      "path": "original_skills/upinvoice",
+      "modified_path": "modified_skills/upinvoice"
+    },
+    {
+      "name": "financial-calculator",
+      "path": "original_skills/financial-calculator",
+      "modified_path": "modified_skills/financial-calculator"
+    },
+    {
+      "name": "reporting",
+      "path": "original_skills/reporting",
+      "modified_path": "modified_skills/reporting"
+    }
+  ],
+  "info_flow": "upinvoice extracts structured invoice data (supplier, line items, totals) from a PDF → financial-calculator compares invoice total against PO amount and goods-receipt quantity to compute match variance and determine approval status → reporting generates a 3-way match report recording the payment decision.",
+  "cascade_paradigm": "causal"
+}

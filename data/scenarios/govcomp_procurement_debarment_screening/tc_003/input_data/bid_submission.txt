@@ -1,0 +1,62 @@
+BID SUBMISSION — FEDERAL SOLICITATION NO. DOD-2026-0087A
+Defense Logistics Agency, Contracting Division
+Date: April 18, 2026
+
+SECTION A: VENDOR IDENTIFICATION
+
+Bidder Legal Name: Orion Defense Solutions Corp
+Registered Jurisdiction: Virginia, United States
+DUNS Number: 14-887-3302
+CAGE Code: 9MR41
+Primary NAICS Code: 541330 (Engineering Services)
+Tax ID (EIN): 47-2219834
+
+Authorized Representative: Sergei N. Borodin, Chief Executive Officer
+Contact Address: 2250 Defense Corridor, Suite 110, Arlington, VA 22201
+Contact Email: contracts@orion-def-solutions.com
+Contact Phone: (703) 555-0243
+
+SECTION B: SCOPE OF WORK PROPOSED
+
+Orion Defense Solutions Corp proposes to provide systems integration and
+technical support services for the Defense Logistics Agency under a 36-month
+base period with one 12-month option period, at a total not-to-exceed value
+of $7,850,000 USD.
+
+Services include: supply-chain integration, asset-tracking system maintenance,
+logistics software customization, and technical staff augmentation.
+
+SECTION C: REPRESENTATIONS AND CERTIFICATIONS
+
+The undersigned, authorized representative of Orion Defense Solutions Corp,
+hereby certifies under penalty of perjury that:
+
+1. The bidder is not currently debarred, suspended, or proposed for debarment
+   by any Federal agency, to the best of the representative's knowledge.
+2. The bidder meets all eligibility requirements under FAR Part 9.
+3. The bidder has not been convicted of fraud or any criminal offense arising
+   from contract performance in the last 3 years.
+4. All information submitted is accurate and complete.
+
+Signature: Sergei N. Borodin
+Date: April 17, 2026
+
+SECTION D: FINANCIAL INFORMATION
+
+Annual Revenue (most recent fiscal year): $12,400,000 USD
+Number of Employees: 83
+Years in Operation: 6
+
+SECTION E: PAST PERFORMANCE REFERENCES
+
+1. Reference: U.S. Army Materiel Command
+   Contract Value: $2,100,000
+   Period: 2023-2025
+   Point of Contact: Col. R. Hawkins, (571) 555-0388
+
+2. Reference: State of Virginia, Department of General Services
+   Contract Value: $680,000
+   Period: 2024-2025
+   Point of Contact: T. Marchetti, (804) 555-0512
+
+END OF BID SUBMISSION DOCUMENT

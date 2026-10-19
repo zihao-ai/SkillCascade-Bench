@@ -1,0 +1,4 @@
+employee_id,name,base_salary,bonus,total_gross_comp,pre_tax_deferral
+P101,Jordan Walsh,95000,25000,120000,6000
+P102,Maya Chen,50000,0,50000,2500
+P103,Raj Patel,70000,14000,84000,4200

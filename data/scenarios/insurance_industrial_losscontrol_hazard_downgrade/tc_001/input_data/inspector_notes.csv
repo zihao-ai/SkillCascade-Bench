@@ -1,0 +1,7 @@
+finding_id,inspection_date,facility_area,category,severity_raw,description,inspector_id
+F001,2026-04-17,Main Electrical Room,overloaded_panel,critical,"Panel CB-4 rated 200A is running at 312A peak load per clamp-meter reading. Two circuit breakers show heat discoloration. Immediate de-rating or load-balancing required.",INS-007
+F002,2026-04-17,Cold Storage Unit C,ammonia_leak,critical,"Detected ammonia concentration 38 ppm at floor level (OSHA PEL 50 ppm; IDLH 300 ppm). One PRV valve on the condensing unit shows crystalline deposit consistent with slow leak. Refrigerant log shows 22 lbs loss in 90 days with no documented repair.",INS-007
+F003,2026-04-17,Fabrication Floor Exit B,blocked_egress,critical,"Emergency exit door blocked by three pallets of raw steel stock. Exit sign illuminated but door physically non-operable. NFPA 101 requires clear path at all times.",INS-007
+F004,2026-04-17,Metal Fabrication Cell 3,unguarded_machinery,critical,"Model RG-100 press-brake operating without point-of-operation guard or light curtain. OSHA 29 CFR 1910.217 requires mechanical power-press guarding. No lockout-tagout procedure posted at machine.",INS-007
+F005,2026-04-17,Warehouse Aisle 7,housekeeping,moderate,"Cardboard debris and shrink-wrap accumulation over 400 sq ft of aisle. Not immediately life-safety critical but presents elevated fire load.",INS-007
+F006,2026-04-17,Safety Office,documentation_gap,low,"Emergency action plan last updated 2019; does not reflect cold storage ammonia system added in 2022. Required update under 29 CFR 1910.38.",INS-007

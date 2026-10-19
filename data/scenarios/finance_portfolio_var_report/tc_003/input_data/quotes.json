@@ -1,0 +1,56 @@
+{
+  "quotes": [
+    {
+      "symbol": "XOM",
+      "currentPrice": 114.80,
+      "change": -6.20,
+      "percentChange": -5.12,
+      "previousClosePrice": 121.00,
+      "preMarketPrice": 118.10,
+      "preMarketChangePercent": -2.39,
+      "preMarketTime": "2026-04-18T09:15:00.000Z"
+    },
+    {
+      "symbol": "JPM",
+      "currentPrice": 218.40,
+      "change": -11.80,
+      "percentChange": -5.13,
+      "previousClosePrice": 230.20,
+      "preMarketPrice": 223.70,
+      "preMarketChangePercent": -2.87,
+      "preMarketTime": "2026-04-18T09:15:00.000Z"
+    },
+    {
+      "symbol": "CAT",
+      "currentPrice": 320.10,
+      "change": -19.40,
+      "percentChange": -5.72,
+      "previousClosePrice": 339.50,
+      "preMarketPrice": 328.90,
+      "preMarketChangePercent": -2.61,
+      "preMarketTime": "2026-04-18T09:15:00.000Z"
+    },
+    {
+      "symbol": "BA",
+      "currentPrice": 164.30,
+      "change": -14.70,
+      "percentChange": -8.21,
+      "previousClosePrice": 179.00,
+      "preMarketPrice": 171.40,
+      "preMarketChangePercent": -4.24,
+      "preMarketTime": "2026-04-18T09:15:00.000Z"
+    },
+    {
+      "symbol": "GS",
+      "currentPrice": 498.60,
+      "change": -28.40,
+      "percentChange": -5.39,
+      "previousClosePrice": 527.00,
+      "preMarketPrice": 511.80,
+      "preMarketChangePercent": -2.89,
+      "preMarketTime": "2026-04-18T09:15:00.000Z"
+    }
+  ],
+  "source": "stock-prices API snapshot",
+  "timestamp": "2026-04-18T14:30:00.000Z"
+}
