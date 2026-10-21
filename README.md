@@ -6,6 +6,7 @@
 
 [![NeurIPS 2026](https://img.shields.io/badge/NeurIPS-2026-6845A1.svg)](https://arxiv.org/abs/2609.30383)
 [![arXiv](https://img.shields.io/badge/arXiv-2609.30383-b31b1b.svg)](https://arxiv.org/abs/2609.30383)
+[![Blog](https://img.shields.io/badge/Blog-Read_Post-orange.svg)](https://zihao-ai.github.io/post.html?slug=skill-cascading-attacks)
 [![License](https://img.shields.io/badge/Data_License-CC_BY_4.0-blue.svg)](LICENSE)
 
 ![Skill cascading attacks: three skills pass individual checks but produce a harmful outcome through combined execution. SkillCascade constructs and validates attacks, and SkillCascade-Bench provides original and modified skills, task inputs, and evaluation criteria.](assets/skillcascade-overview.png)
